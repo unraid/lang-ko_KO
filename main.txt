@@ -306,3 +306,12 @@ SMART controller type=
 SMART notification tolerance level=
 SMART self-test in progress=
 This Unraid OS release has been withdrawn and may no longer be used Please=This Unraid OS release has been withdrawn and may no longer be used. Please
+
+; New entries - 2021-03-14
+auto=
+Click on FLASH above this message=Click on **FLASH** above this message
+Convert to raid1c3 mode=
+Convert to raid1c4 mode=
+Flash device is set as public share=
+Please change share SMB security=
+See %s Settings=
