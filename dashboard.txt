@@ -101,3 +101,6 @@ User count %s with %s unprotected=유저 수: %s개, 미보호 %s개
 utilization warning=사용량 경고
 View Running Processes=실행중인 프로세스들 보기
 Virtual Machines=가상 머신들
+
+; New entries - 2021-03-14
+Temp=

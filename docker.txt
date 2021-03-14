@@ -128,3 +128,8 @@ Was this container created using this plugin=이 컨테이너가 이 플러그�
 Web=웹
 WebUI=웹 UI
 Writable=쓰기 가능
+
+; New entries - 2021-03-14
+Drivers=
+Reset sorting=
+Start Container After Install=
