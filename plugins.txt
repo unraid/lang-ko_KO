@@ -28,5 +28,5 @@ Update All Plugins=모든 플러그인 업데이트
 Upgrade=업그레이드
 View Release Notes=릴리즈 노트 보기
 
-; New entries - 2021-03-14
+; New entries (1) - 2021-05-08
 No plugins installed=

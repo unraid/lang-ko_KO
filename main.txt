@@ -299,19 +299,17 @@ xfs_repair status=xfs_repair 상태
 You may not add new disks and also remove existing disks=새 디스크를 추가하거나 기존 디스크를 제거하지 마십시오
 your server=귀하의 서버
 
-; New entries - 2021-03-14
+; New entries (13) - 2021-05-08
+auto=
+Click on FLASH above this message=Click on **FLASH** above this message
 completed=
+Convert to raid1c3 mode=
+Convert to raid1c4 mode=
+Flash device is set as public share=
 Invalid, missing or expired=
+Please change share SMB security=
+See %s Settings=
 SMART controller type=
 SMART notification tolerance level=
 SMART self-test in progress=
 This Unraid OS release has been withdrawn and may no longer be used Please=This Unraid OS release has been withdrawn and may no longer be used. Please
-
-; New entries - 2021-03-14
-auto=
-Click on FLASH above this message=Click on **FLASH** above this message
-Convert to raid1c3 mode=
-Convert to raid1c4 mode=
-Flash device is set as public share=
-Please change share SMB security=
-See %s Settings=

@@ -55,3 +55,10 @@ Unmounting disks=디스크들 언마운트 중
 Autostart disabled=자동 시작 비활성화됨
 Missing encryption key=암호화 키 사라짐
 Opening encrypted volumes=암호화된 볼륨 여는 중
+
+; New entries (5) - 2021-05-08
+Container Path=
+Container Port=
+Container Variable=
+Container Label=
+Container Device=

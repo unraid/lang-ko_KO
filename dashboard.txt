@@ -102,5 +102,7 @@ utilization warning=사용량 경고
 View Running Processes=실행중인 프로세스들 보기
 Virtual Machines=가상 머신들
 
-; New entries - 2021-03-14
+; New entries (3) - 2021-05-08
+%s ago=
+Only PNG images are allowed=Only PNG images are allowed!
 Temp=
