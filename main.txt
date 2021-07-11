@@ -313,3 +313,8 @@ SMART controller type=
 SMART notification tolerance level=
 SMART self-test in progress=
 This Unraid OS release has been withdrawn and may no longer be used Please=This Unraid OS release has been withdrawn and may no longer be used. Please
+
+; New entries (3) - 2021-07-11
+enter disk index and device name as applicable to your controller=
+next device=
+previous device=
