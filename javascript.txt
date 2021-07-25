@@ -57,8 +57,8 @@ Missing encryption key=암호화 키 사라짐
 Opening encrypted volumes=암호화된 볼륨 여는 중
 
 ; New entries (5) - 2021-05-08
-Container Path=
-Container Port=
-Container Variable=
-Container Label=
-Container Device=
+Container Path=컨테이너 경로
+Container Port=컨테이너 포트
+Container Variable=컨테이너 변수
+Container Label=컨테이너 라벨
+Container Device=컨테이너 장치

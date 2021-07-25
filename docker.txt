@@ -8,7 +8,7 @@ Application=응용 프로그램
 apply update=업데이트 적용
 Array must be Started to view Docker containers=Docker 컨테이너를 보기 위해서는 어레이가 **시작**되어야 합니다
 Are you sure=확실합니까
-Autostart=자동 실행
+Autostart=자동 시작
 Back=뒤로
 Backup=백업
 Beta=베타
@@ -130,10 +130,10 @@ WebUI=웹 UI
 Writable=쓰기 가능
 
 ; New entries (4) - 2021-05-08
-Drivers=
-Reset sorting=
-Start Container After Install=
-Total size=
+Drivers=드라이버들
+Reset sorting=정렬 초기화
+Start Container After Install=설치 후 컨테이너 시작
+Total size=총 용량
 
 ; New entries (1) - 2021-06-12
-Crypto Currency=
+Crypto Currency=암호 화폐
