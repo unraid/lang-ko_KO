@@ -223,7 +223,7 @@ Threshold=한계
 Title=제목
 To confirm your action type %s=액션 종류를 확인하기 위해: %s
 Toggle readswrites display=읽기/쓰기 표시 전환
-Too many attached devices Please consider upgrading your=너무 많은 디바이스가 장착되었습니다 업그레이드를 고려해주세요
+Too many attached devices Please consider upgrading your=너무 많은 디바이스가 장착되었습니다 업그레이드를 고려해 주세요
 Too many wrong andor missing disks=너무 많은 잘못된/사라진 디스크들
 Total size=전체 용량
 Unassign ALL devices to delete this pool=이 풀을 삭제하기 위해서 **모든** 디바이스를 할당 해제하세요
@@ -300,21 +300,21 @@ You may not add new disks and also remove existing disks=새 디스크를 추가
 your server=귀하의 서버
 
 ; New entries (13) - 2021-05-08
-auto=
-Click on FLASH above this message=Click on **FLASH** above this message
-completed=
-Convert to raid1c3 mode=
-Convert to raid1c4 mode=
-Flash device is set as public share=
-Invalid, missing or expired=
-Please change share SMB security=
-See %s Settings=
-SMART controller type=
-SMART notification tolerance level=
-SMART self-test in progress=
-This Unraid OS release has been withdrawn and may no longer be used Please=This Unraid OS release has been withdrawn and may no longer be used. Please
+auto=자동
+Click on FLASH above this message=이 메시지 위의 **플래시**를 클릭하세요
+completed=완료됨
+Convert to raid1c3 mode=raid1c3 모드로 변환
+Convert to raid1c4 mode=raid1c4 모드로 변환
+Flash device is set as public share=플래시 장치가 공개 공유로 설정되어 있습니다
+Invalid, missing or expired=유효하지 않거나, 만료 혹은 사라짐
+Please change share SMB security=SMB 공유 보안 설정을 변경해 주세요
+See %s Settings=%s 설정 보기
+SMART controller type=SMART 컨트롤러 종류
+SMART notification tolerance level=SMART 알림 허용 범위
+SMART self-test in progress=SMART 자가진단 진행중
+This Unraid OS release has been withdrawn and may no longer be used Please=이 Unraid OS 릴리즈는 철회되었으며 사용해서는 안됩니다.
 
 ; New entries (3) - 2021-07-11
-enter disk index and device name as applicable to your controller=
-next device=
-previous device=
+enter disk index and device name as applicable to your controller=귀하의 컨트롤러에 맞는 디스크 인덱스와 장치 이름을 입력하세요
+next device=다음 장치
+previous device=이전 장치

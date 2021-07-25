@@ -103,20 +103,20 @@ View Running Processes=실행중인 프로세스들 보기
 Virtual Machines=가상 머신들
 
 ; New entries (3) - 2021-05-08
-%s ago=
-Only PNG images are allowed=Only PNG images are allowed!
-Temp=
+%s ago=%s 전
+Only PNG images are allowed=PNG 이미지만 사용 가능합니다!
+Temp=온도
 
 ; New entries (1) - 2021-05-15
-SMART health-check failed=
+SMART health-check failed=SMART 상태 점검 실패함
 
 ; New entries (2) - 2021-05-20
-Click to toggle CPU chart=
-Network traffic=
+Click to toggle CPU chart=클릭해서 CPU 차트를 전환
+Network traffic=네트워크 트래픽
 
 ; New entries (5) - 2021-05-31
-10 s=
-30 s=
-1 m=
-2 m=
-Select time frame=
+10 s=10초
+30 s=30초
+1 m=1분
+2 m=2분
+Select time frame=시간 간격 선택
