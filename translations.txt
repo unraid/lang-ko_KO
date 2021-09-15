@@ -395,15 +395,6 @@ This will stop the array=어레이를 정지 할 것입니다
 year=년
 years=년
 month=개월
-months=개월
-day=일
-days=일
-hour=시간
-hours=시간
-minute=분
-minutes=분
-second=초
-seconds=초
 ago=전
 
 ; New entries (217) - 2021-05-08
