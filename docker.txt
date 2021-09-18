@@ -36,8 +36,6 @@ DNS=DNS
 Docker Containers=Docker 컨테이너들
 Docker Hub URL=Docker Hub URL
 Docker Service failed to start=Docker 서비스 시작에 실패했습니다
-Donation Link=기부 링크
-Donation Text=기부 텍스트
 Downloaders=다운로더들
 Edit Configuration=설정 편집
 Exited=종료됨
@@ -58,7 +56,6 @@ Icon URL=아이콘 URL
 Image ID=이미지 ID
 Key=키
 Label=라벨
-latest=최신
 Management=관리
 MediaApp=미디어 앱
 MediaServer=미디어 서버
@@ -109,7 +106,6 @@ Successfully removed container=성공적으로 컨테이너를 삭제함
 Successfully removed orphan image=성공적으로 불필요 이미지를 삭제함
 Successfully stopped container=성공적으로 컨테이너를 정지함
 Support Thread=지원 스레드
-Template repositories=템플릿 저장소들
 Template URL=템플릿 URL
 Template=템플릿
 The command failed=명령이 실패함
@@ -132,8 +128,11 @@ Writable=쓰기 가능
 ; New entries (4) - 2021-05-08
 Drivers=드라이버들
 Reset sorting=정렬 초기화
-Start Container After Install=설치 후 컨테이너 시작
 Total size=총 용량
 
 ; New entries (1) - 2021-06-12
 Crypto Currency=암호 화폐
+
+; New entries (2) - 2021-09-18
+Additional Requirements=
+None Listed=

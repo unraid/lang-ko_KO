@@ -103,7 +103,6 @@ This will update folder file permissions=T폴더와 파일 권한을 업데이�
 Time=시간
 To install a registration key, paste the key file URL in the box below and click Install Key=등록 키를 설치하기 위해서, 아래 상자에 키 파일 URL을 붙여넣고 **키 설치**를 클릭하세요
 to select your language=언어를 선택
-To support more storage devices as your server grows, click Upgrade Key below=서버를 키우면서 더 많은 저장 장치 지원 필요하면 *키 업그레이드*를 클릭하세요
 Trial key expires on=***체험***키는 다음 날자에 만료됩니다
 Trial=체험
 Update OS=OS 업데이트

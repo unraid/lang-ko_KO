@@ -60,6 +60,5 @@ Time Machine volume size limit=Time Machine 볼륨 용량 제한
 Unknown encryption state=암호화 상태 알 수 없음
 Use cache pool for new filesdirectories=캐시 풀 사용 (새 파일/디렉토리에)
 User Shares=유저 공유들
-Volume dbpath=볼륨 dbpath
 Write=쓰기
 You cannot use the following within share names=공유 이름에 다음을 사용할 수 없습니다

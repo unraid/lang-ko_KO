@@ -1,5 +1,4 @@
 %s used of %s %s %%=%s 사용됨, 총 %s (%s %%)
----=
 Active tunnels=활성된 터널들
 Activity=활동
 ago=전
@@ -26,7 +25,6 @@ FAN=팬
 Finding %s error=찾음: **%s** 오류
 Finding %s errors=찾음: **%s** 오류들
 General info=일반 정보
-Go to cache settings=캐시 설정으로 이동
 Go to CPU pinning settings=CPU pinning 설정으로 이동
 Go to disk settings=디스크 설정으로 이동
 Go to Docker settings=Docker 설정으로 이동
