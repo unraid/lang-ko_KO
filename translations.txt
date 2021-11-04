@@ -670,11 +670,11 @@ Please copy the Key URL before closing this window=이 창을 닫기 전에 키 
 Unable to copy=복사할 수 없음
 
 ; New entries (8) - 2021-09-18
-aborted=
-Anonymous Mode=
-Keep server details anonymous=
-Sign Out of Unraidnet=Sign Out of Unraid.net
+aborted=중지됨
+Anonymous Mode=익명 모드 
+Keep server details anonymous=서버의 세부 정보를 익명으로 유지
+Sign Out of Unraidnet=Unraid.net에서 로그아웃
 Still working our magic=
-Switch Language=
-To manually install the key paste the key file url into the Key file URL field on the webGUI Tools > Registration page and then click Install Key=
-unavailable no parity-check entries logged=unavailable (no parity-check entries logged)
+Switch Language=언어 변경
+To manually install the key paste the key file url into the Key file URL field on the webGUI Tools > Registration page and then click Install Key=키를 수동으로 설치하려면 'webGUI 도구 > 등록 페이지'의 '키 파일 URL' 입력란에 키 파일 URL을 붙여넣고 '키 설치'를 클릭하십시오.
+unavailable no parity-check entries logged=사용 불가 (기록된 패리티 검사 이력 없음.)
