@@ -678,3 +678,11 @@ Still working our magic=
 Switch Language=언어 변경
 To manually install the key paste the key file url into the Key file URL field on the webGUI Tools > Registration page and then click Install Key=키를 수동으로 설치하려면 'webGUI 도구 > 등록 페이지'의 '키 파일 URL' 입력란에 키 파일 URL을 붙여넣고 '키 설치'를 클릭하십시오.
 unavailable no parity-check entries logged=사용 불가 (기록된 패리티 검사 항목 없음.)
+
+; New entries (6) - 2021-11-06
+Checking Wan IPs=
+Create Unraidnet Account=Create Unraid.net Account
+DNS issue, unable to resolve mothershipunraidnet=DNS issue, unable to resolve mothership.unraid.net
+Sign In before your Unraidnet SSL certificate expires=Sign In before your Unraid.net SSL certificate expires
+This will start your free 30-day Trial=
+Unraidnet re-authentication required=Unraid.net re-authentication required

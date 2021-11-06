@@ -309,3 +309,6 @@ This Unraid OS release has been withdrawn and may no longer be used Please=이 U
 enter disk index and device name as applicable to your controller=귀하의 컨트롤러에 맞는 디스크 인덱스와 장치 이름을 입력하세요
 next device=다음 장치
 previous device=이전 장치
+
+; New entries (1) - 2021-11-06
+If this is a new array, move the largest disk into the parity slot=If this is a new array, move the largest disk into the *parity* slot
