@@ -2,8 +2,8 @@ A format is NEVER part of a data recovery or disk rebuild process and if done in
 Aborted=취소됨
 Add=추가
 Add Pool=풀 추가
-All existing data on this device will be OVERWRITTEN when array is Started=이 장치의 기존 데이터는 어레이가 시작될 때 덮어쓰기 됩니다
-Array Devices=어레이 장치들
+All existing data on this device will be OVERWRITTEN when array is Started=이 장치의 기존 데이터는 어레이가 시작될 때 덮어쓰게 됩니다
+Array Devices=어레이 장치
 Array of %s devices=%s개 장치들의 어레이
 Array Operation=어레이 작동
 Attribute Name=속성 이름
