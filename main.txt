@@ -311,4 +311,4 @@ next device=다음 장치
 previous device=이전 장치
 
 ; New entries (1) - 2021-11-06
-If this is a new array, move the largest disk into the parity slot=If this is a new array, move the largest disk into the *parity* slot
+If this is a new array, move the largest disk into the parity slot=새 어레이인 경우 가장 큰 디스크를 *패리티* 슬롯으로 이동합니다.
