@@ -12,9 +12,9 @@ Autostart=자동 시작
 Back=뒤로
 Backup=백업
 Beta=베타
-Books=책들
+Books=책
 By=By
-Categories=카테고리들
+Categories=카테고리
 Check for Updates=업데이트 확인
 Cloud=클라우드
 Config Type=설정 종류
@@ -33,17 +33,17 @@ Default Value=기본 값
 Device=장치
 Display=표시
 DNS=DNS
-Docker Containers=Docker 컨테이너들
+Docker Containers=Docker 컨테이너
 Docker Hub URL=Docker Hub URL
 Docker Service failed to start=Docker 서비스 시작에 실패했습니다
-Downloaders=다운로더들
+Downloaders=다운로더
 Edit Configuration=설정 편집
 Exited=종료됨
 Extra Parameters=추가 매개변수
 Fixed IP address=고정 IP 주소
 force update=강제 업데이트
 FTP=FTP
-Game Servers=게임 서버들
+Game Servers=게임 서버
 healthy=정상
 Hide Buttons=버튼 숨기기
 Hide docker allocations=Docker 할당 숨기기
@@ -70,8 +70,8 @@ Other=그 외
 Overview=개요
 Path=경로
 Pause All=모두 일시정지
-Photos=사진들
-Port Mappings=포트 매핑들
+Photos=사진
+Port Mappings=포트 매핑
 Port=포트
 Post Arguments=추가 인수
 Privileged=권한 상승
@@ -99,7 +99,7 @@ Show docker allocations=Docker 할당 보이기
 Show more settings=추가 설정 보이기
 Stable=안정
 Start All=모두 시작
-starting up containers=컨테이너들 시작하는 중
+starting up containers=컨테이너 시작하는 중
 Stop All=모두 정지
 Stopping container=컨테이너 정지 중
 Successfully removed container=성공적으로 컨테이너를 삭제함
@@ -126,7 +126,7 @@ WebUI=웹 UI
 Writable=쓰기 가능
 
 ; New entries (4) - 2021-05-08
-Drivers=드라이버들
+Drivers=드라이버
 Reset sorting=정렬 초기화
 Total size=총 용량
 
@@ -134,8 +134,8 @@ Total size=총 용량
 Crypto Currency=암호 화폐
 
 ; New entries (2) - 2021-09-18
-Additional Requirements=
-None Listed=
+Additional Requirements=추가 요구 사항
+None Listed=목록에 없음
 
 ; New entries (1) - 2021-11-07
-Read Me First=
+Read Me First=먼저 읽어주세요
