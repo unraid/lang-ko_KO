@@ -220,11 +220,11 @@ Too many attached devices Please consider upgrading your=너무 많은 디바이
 Too many wrong andor missing disks=너무 많은 잘못된/사라진 디스크들
 Total size=전체 용량
 Unassign ALL devices to delete this pool=이 풀을 삭제하기 위해서 **모든** 디바이스를 할당 해제하세요
-Unassigned Devices=할당 해제된 장치들
+Unassigned Devices=할당되지 않은 장치
 unavailable no parity-check entries logged=사용 불가 (패리티 검사 로그가 없음)
 Unavailable - disk must be spun up=사용 불가 - 디스크가 스핀 업 되어야 함
 Unavailable=사용 불가
-Unclean shutdown detected=불완전한 종료 감지됨
+Unclean shutdown detected=불완전한 종료가 감지됨
 Unmountable disk present=마운트 할 수 없는 디스크 존재
 Unmountable disks present=마운트 할 수 없는 디스크들 존재
 Unmountable Encrypted volume present=마운트 할 수 없음: 암호화된 볼륨이 존재 함
@@ -247,8 +247,8 @@ Warning disk temperature threshold=경고 디스크 온도 한계
 Warning disk utilization threshold=경고 디스크 사용량 한계
 WARNING=경고
 Warranty period=보증 기간
-will activate a clean system power down=완전한 시스템 전원 종료를 합니다
-will activate a clean system reset=완전한 시스템 리셋을 합니다
+will activate a clean system power down=완전하게 시스템 전원을 내립니다
+will activate a clean system reset=완전하게 시스템을 재가동합니다
 will bring the array on-line and start Clearing new data disks=어레이를 온라인으로 전환하고 새 데이터 디스크들을 **지우기**합니다
 will bring the array on-line and start Parity-Check=어레이를 온라인으로 전환하고 **패리티 검사**를 시작합니다
 will bring the array on-line and start Parity-Sync andor Data-Rebuild=어레이를 온라인으로 전환하고 **패리티 싱크** 그리고/혹은 **데이터 재구성**을 시작합니다
@@ -287,7 +287,7 @@ Write corrections to parity=패리티에 수정 쓰기
 Writes=쓰기
 Wrong key=잘못된 키
 xfs_repair status=xfs_repair 상태
-You may not add new disks and also remove existing disks=새 디스크를 추가하거나 기존 디스크를 제거하지 마십시오
+You may not add new disks and also remove existing disks=새 디스크를 추가하거나 기존 디스크를 제거하지 마세요
 your server=귀하의 서버
 
 ; New entries (13) - 2021-05-08
@@ -303,7 +303,7 @@ See %s Settings=%s 설정 보기
 SMART controller type=SMART 컨트롤러 종류
 SMART notification tolerance level=SMART 알림 허용 범위
 SMART self-test in progress=SMART 자가진단 진행중
-This Unraid OS release has been withdrawn and may no longer be used Please=이 Unraid OS 릴리즈는 철회되었으며 사용해서는 안됩니다.
+This Unraid OS release has been withdrawn and may no longer be used Please=이 Unraid OS 릴리즈는 철회되었으며 사용해서는 안됩니다
 
 ; New entries (3) - 2021-07-11
 enter disk index and device name as applicable to your controller=귀하의 컨트롤러에 맞는 디스크 인덱스와 장치 이름을 입력하세요
@@ -311,4 +311,4 @@ next device=다음 장치
 previous device=이전 장치
 
 ; New entries (1) - 2021-11-06
-If this is a new array, move the largest disk into the parity slot=새 어레이인 경우 가장 큰 디스크를 *패리티* 슬롯으로 이동합니다.
+If this is a new array, move the largest disk into the parity slot=새 어레이인 경우 가장 큰 디스크를 *패리티* 슬롯으로 이동합니다
