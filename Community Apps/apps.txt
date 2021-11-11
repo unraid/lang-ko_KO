@@ -103,6 +103,7 @@ Random Apps=무작위 앱
 Top New Installs=상위 신규 설치
 Trending Apps=인기 앱
 All Apps=모든 앱
+Repositories=저장소
 OTHER=기타
 Statistics=통계
 Credits=제작진
