@@ -103,7 +103,6 @@ Random Apps=무작위 앱
 Top New Installs=상위 신규 설치
 Trending Apps=인기 앱
 All Apps=모든 앱
-Repositories=저장소
 OTHER=기타
 Statistics=통계
 Credits=제작진
@@ -344,3 +343,6 @@ On the previous apps section you can select multiple applications to install sim
 This is the recommended version to install by the application author themselves=
 For support for this plugin visit=
 To view the policies Community Applications has=
+
+;New entries (1) - 2021-11-11
+Repositories=저장소
