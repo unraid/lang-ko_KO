@@ -1,7 +1,7 @@
 Cancel=
 
 ; My PSAs / banners
-Happy New Year=
+Happy New Year=새해 복 많이 받으세요
 Happy Holidays from Andrew, Tracey, and family=
 Please Enjoy Responsibly=
 Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=
@@ -21,8 +21,8 @@ Sort By Date Added=추가된 날짜순 정렬
 Disclaimer=
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=
 Every attempt is made to ensure that only safe and compatible applications are present=
-Application Policy=
-I Understand=
+Application Policy=앱 정책
+I Understand=알겠습니다
 Installations of apps disabled You must accept the warning to be able to install applications=
 Click here=여기를 클릭하세요
 
@@ -31,8 +31,8 @@ Community Applications contains both docker containers and plugin applications P
 Plugin Note=
 
 ; Multi Install
-Install Plugin Applications=
-Select all on page=
+Install Plugin Applications=플러그인 앱 설치
+Select all on page=페이지에서 모두 선택
 
 ; Searches
 Search=검색
@@ -113,15 +113,15 @@ Change Log=변경 로그
 Debugging=디버깅
 
 ; Credits
-Development=
+Development=개발
 Additional Contributions=
-GUI Layout Design=
-Application Feed=
+GUI Layout Design=GUI 레이아웃 디자인
+Application Feed=앱 피드
 Additional Testing=
 Moderation=
 Additional Libraries=
 Copyright=
-Translation=
+Translation=번역
 
 ; Statistics page
 Deprecated Applications are able to still be installed if you have previously had them installed New installations of these applications are blocked unless you enable Display Deprecated Applications within CAs General Settings=
@@ -266,9 +266,9 @@ Moderator Comments=Moderator Comments:
 Note not all authors keep up to date on change logs=
 Note not all maintainers keep up to date on change logs=
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
-Donate=
+Donate=기부
 Currently Installed Version=
-Install The Update=
+Install The Update=업데이트 설치
 ; as in you have the latest version already installed
 Latest Version=최신 버전
 Multi Language Support=다중 언어 지원
