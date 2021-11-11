@@ -144,7 +144,7 @@ Primary Server=
 Backup Server=
 
 ; Statistics Popup Titles
-Repository List=
+Repository List=저장소 목록
 All Invalid Templates Found=
 Template Errors=
 All Moderation Entries=
