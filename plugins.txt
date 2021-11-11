@@ -39,7 +39,7 @@ No response, aborting=응답 없음, 취소 중
 checking=확인 중
 
 ; New entries (3) - 2021-05-10
-Delete Plugin=플러그인 삭제
+Delete Plugin=플러그인 제거
 Remove Plugin=플러그인 제거
 Update Plugin=플러그인 업데이트
 
