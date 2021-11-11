@@ -10,13 +10,13 @@ Community Applications works best when cookies are enabled in your browser Certa
 Backup Server Active Some icons may not appear, and plugin installations may be affected=
 
 ; Sorting Options
-Sorting options=
-Sorting options unavailable=
-Sort By Name Ascending=
-Sort By Name Descending=
-Sort By Downloads=
-Sort By Trend=
-Sort By Date Added=
+Sorting options=정렬 옵션
+Sorting options unavailable=정렬 옵션 사용 불가
+Sort By Name Ascending=이름순 정렬(오름차순)
+Sort By Name Descending=이름순 정렬(내림차순)
+Sort By Downloads=다운로드순 정렬
+Sort By Trend=인기순 정렬
+Sort By Date Added=추가된 날짜순 정렬
 ; Initial disclaimer translations
 Disclaimer=
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=
@@ -24,7 +24,7 @@ Every attempt is made to ensure that only safe and compatible applications are p
 Application Policy=
 I Understand=
 Installations of apps disabled You must accept the warning to be able to install applications=
-Click here=
+Click here=여기를 클릭하세요
 
 ; Plugin Disclaimer
 Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=
@@ -35,26 +35,26 @@ Install Plugin Applications=
 Select all on page=
 
 ; Searches
-Search=
-Please enter search term=
+Search=검색
+Please enter search term=검색어를 입력하세요
 Click Here To Get More Results From DockerHub=
 No Matching Applications Found On Docker Hub=
 No Matching Applications Found=
 
 ; Install Plugin title of openbox
-Install Plugin=
+Install Plugin=플러그인 설치
 
 ; Remove App from previously installed
-Delete Template=
-Yes, delete it=
+Delete Template=템플릿 제거
+Yes, delete it=네, 지우세요
 
 ; Uninstall popup
-Uninstall Application=
-Yes uninstall it=
+Uninstall Application=앱 제거
+Yes uninstall it=네, 지우세요
 
 ; Remove Private Application
-Remove Private Application=
-Yes, remove it=
+Remove Private Application=개인 앱 제거
+Yes, remove it=네, 지우세요
 
 ; App Pinning
 Click to pin this application=
@@ -67,7 +67,7 @@ Choose A Branch To Install=
 ; no apps selected
 Install Selected Applications=
 
-Yes, install it=
+Yes, install it=네 설치하세요
 
 ; Multi-install popup
 Yes, install them=
@@ -92,24 +92,24 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 
 
 ; CA Sections Keep the length reasonable
-MENU=
-Installed Apps=
-Previous Apps=
-Pinned Apps=
-CATEGORIES=
-New Apps=
-Updated Apps=
-Random Apps=
-Top New Installs=
-Trending Apps=
-All Apps=
-OTHER=
-Statistics=
-Credits=
-Support=
-VERSION=
-Change Log=
-Debugging=
+MENU=메뉴
+Installed Apps=설치된 앱
+Previous Apps=이전 앱
+Pinned Apps=고정된 앱
+CATEGORIES=분류
+New Apps=새 앱
+Updated Apps=업데이트된 앱
+Random Apps=무작위 앱
+Top New Installs=상위 신규 설치
+Trending Apps=인기 앱
+All Apps=모든 앱
+OTHER=기타
+Statistics=통계
+Credits=제작진
+Support=지원
+VERSION=버전
+Change Log=변경 로그
+Debugging=디버깅
 
 ; Credits
 Development=
@@ -235,31 +235,31 @@ Donate To Maintainer=
 Author=
 Maintainer=
 DockerHub=
-Application Template=
+Application Template=앱 템플릿
 Base OS=
 DockerHub Stars=
-Added to CA=
-Date Updated=
-Current Version=
+Added to CA=CA에 추가
+Date Updated=업데이트한 날짜
+Current Version=현재 버전
 Minimum OS=
 Max OS=
-Total Downloads=
-Licence=
-30 Day Trend=
-Ranked #%s=
+Total Downloads=총 다운로드 수
+Licence=라이선스
+30 Day Trend=30일간 인기
+Ranked #%s=#%s 랭크됨
 ; as in Trending up or down arrow
-Trending %s=
+Trending %s=인기 %s
 ; as in As of some date
 As of %s=(As of %s)
 This application template has been blacklisted=This application / template has been blacklisted
 This application template has been deprecated=This application / template has been deprecated
 This application is not compatible with your version of Unraid=
 Another browser tab or device has updated the displayed templates Some actions are not available=Another browser tab or device has updated the displayed templates. Some actions are not available
-Reinstall default=Reinstall (default)
-WebUI=
-Reinstall=
-Install=
-Project=
+Reinstall default=재설치 (기본값)
+WebUI=웹 UI
+Reinstall=재설치
+Install=설치
+Project=프로젝트
 Install Using The Templates Default Tag=Install Using The Template's Default Tag
 Moderator Comments=Moderator Comments:
 Note not all authors keep up to date on change logs=
@@ -269,8 +269,8 @@ Donate=
 Currently Installed Version=
 Install The Update=
 ; as in you have the latest version already installed
-Latest Version=
-Multi Language Support=
+Latest Version=최신 버전
+Multi Language Support=다중 언어 지원
 ; as in more than 100000
 More than %s=
 
@@ -297,9 +297,9 @@ Check off to select multiple reinstalls=
 Go to the plugin settings=
 Click to reinstall the application using default values=
 Click to edit the application values=
-Click to reinstall=
-Click to install=
-Install plugin=
+Click to reinstall=클릭하여 재설치
+Click to install=클릭하여 설치
+Install plugin=플러그인 설치
 Click to go to the WebUI=
 This application has been marked as being Beta=
 This application template has been deprecated=
@@ -313,19 +313,19 @@ Search For Containers From %s=
 Search for similar containers=
 
 ; Page Navigation
-Displaying %s - %s of %s=Displaying %1$s - %2$s (of %3$s)
+Displaying %s - %s of %s=%1$s - %2$s(%3$s에서) 표시 중
 
-Updating Content=
-Language=
-Switch to this language=
-Country Code=
-Install Language Pack=
-Remove Language Pack=
-Update Language Pack=
-Installed Version=
-A note about translations=
-Click here to view the language changelog=
-View Missing Translations=
+Updating Content=항목 업데이트 중
+Language=언어
+Switch to this language=이 언어로 전환
+Country Code=지역 번호
+Install Language Pack=언어 팩 설치
+Remove Language Pack=언어 팩 제거
+Update Language Pack=언어 팩 업데이트
+Installed Version=설치된 버전
+A note about translations=번역에 대한 참고 사항
+Click here to view the language changelog=언어 변경 로그를 보려면 여기를 클릭하십시오
+View Missing Translations=누락된 번역 보기
 
 ; Help Text
 This chooses how to sort the results=
