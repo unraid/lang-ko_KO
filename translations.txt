@@ -686,3 +686,6 @@ DNS issue, unable to resolve mothershipunraidnet=DNS 결함으로 인해 mothers
 Sign In before your Unraidnet SSL certificate expires=Unraid.net SSL 인증서가 만료되기 전에 로그인하십시오
 This will start your free 30-day Trial=30일 무료 평가판이 시작됩니다
 Unraidnet re-authentication required=Unraid.net 재인증 필요
+
+; New entries (1) - 2021-11-11
+Profile=프로파일
