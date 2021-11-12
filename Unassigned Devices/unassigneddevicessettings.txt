@@ -82,3 +82,10 @@ Unassigned Devices=할당되지 않은 장치
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
+
+; New entries (4) - 2021-11-12
+Add force user nobody to SMB share config=SMB 공유 설정에 'force user = nobody' 추가?
+Legacy Mount Point Compatibility=레거시 마운트 포인트 호환성?
+Specify SMB Version when Mounting Remote Shares=원격 공유 마운트시 SMB 버전 지정?
+NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전:
+
