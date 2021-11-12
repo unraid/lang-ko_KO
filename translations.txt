@@ -689,3 +689,6 @@ Unraidnet re-authentication required=Unraid.net 재인증 필요
 
 ; New entries (1) - 2021-11-11
 Profile=프로파일
+
+; New entries (1) - 2021-11-12
+Korean=한국어
