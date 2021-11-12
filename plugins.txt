@@ -1,9 +1,9 @@
 %s An update is available=%s: 업데이트 사용 가능.
 anonymous=익명
 Author=제작자
-Check For Updates=업데이트 확인 중
+Check For Updates=업데이트 확인
 Click here to install version %s=여기를 눌러 버전 %s 설치
-DOWNGRADE TO VERSION=버전으로 다운그레이드
+DOWNGRADE TO VERSION=다음 버전으로 다운그레이드:
 Enter URL of remote plugin file or local plugin file=원격 플러그인 파일이나 로컬 플러그인 파일의 URL 입력
 ERROR=오류
 Install Plugin=플러그인 설치
