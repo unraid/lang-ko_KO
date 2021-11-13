@@ -140,5 +140,6 @@ None Listed=목록에 없음
 ; New entries (1) - 2021-11-07
 Read Me First=먼저 읽어주세요
 
-
+; New entries (2) - 2021-11-13
+Add Folder=폴더 추가
 Template repositories=템플릿 저장소:
