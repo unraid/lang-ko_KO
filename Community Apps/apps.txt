@@ -347,7 +347,7 @@ To view the policies Community Applications has=
 ;New entries (1) - 2021-11-11
 Repositories=저장소
 
-;New entries (7) - 2021-11-12
+;New entries (8) - 2021-11-12
 Favourite Repo=즐겨찾는 저장소
 Home=홈
 Sort By=다음으로 정렬:
@@ -355,3 +355,5 @@ Name Ascending=이름 오름차순
 Name Descending=이름 내림차순
 Downloads=다운로드순
 Date Added=추가된 날짜순
+Support=지원
+
