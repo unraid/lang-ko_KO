@@ -145,8 +145,8 @@ Backup Server=
 
 ; Statistics Popup Titles
 Repository List=저장소 목록
-All Invalid Templates Found=
-Template Errors=
+All Invalid Templates Found=모든 잘못된 템플릿 검색됨
+Template Errors=템플릿 오류
 All Moderation Entries=
 
 ; Statistics Popup
@@ -155,7 +155,7 @@ These templates are invalid and the application they are referring to is unknown
 No templates were automatically fixed=
 All of these errors found have been fixed automatically=
 Note that many of these errors can be avoided by following the directions=
-HERE=
+HERE=여기
 The following plugins have duplicated filenames and are not able to be installed simultaneously=
 The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=
 If any of these entries are incorrect then contact the moderators of CA to discuss=
@@ -164,7 +164,7 @@ Applied to all applications=(Applied to all applications)
 Individual Application Moderation=
 
 ; Misc
-Community Applications Changelog=
+Community Applications Changelog=커뮤니티 앱 변경 로그
 
 ; Categories try not to be excessively long This is displayed on the left of CA screen
 
@@ -230,19 +230,19 @@ OtherUncategorized=Other:Uncategorized
 and %s more=
 
 ; App Popup Related
-Donate To Author=
-Donate To Maintainer=
-Author=
-Maintainer=
+Donate To Author=저작자에게 기부
+Donate To Maintainer=유지 보수자에게 기부
+Author=저작자
+Maintainer=유지 보수자
 DockerHub=
 Application Template=앱 템플릿
-Base OS=
-DockerHub Stars=
+Base OS=기본 OS
+DockerHub Stars=DockerHub 별 수
 Added to CA=CA에 추가
 Date Updated=업데이트한 날짜
 Current Version=현재 버전
-Minimum OS=
-Max OS=
+Minimum OS=최소 OS
+Max OS=최대 OS
 Total Downloads=총 다운로드 수
 Licence=라이선스
 30 Day Trend=30일간 인기
@@ -250,10 +250,10 @@ Ranked #%s=#%s 랭크됨
 ; as in Trending up or down arrow
 Trending %s=인기 %s
 ; as in As of some date
-As of %s=(As of %s)
-This application template has been blacklisted=This application / template has been blacklisted
-This application template has been deprecated=This application / template has been deprecated
-This application is not compatible with your version of Unraid=
+As of %s=(%s 기준)
+This application template has been blacklisted=이 앱/템플릿은 블랙리스트에 등재되어 있습니다.
+This application template has been deprecated=이 앱/템플릿은 더 이상 사용되지 않습니다.
+This application is not compatible with your version of Unraid=이 앱은 Unraid 버전과 호환되지 않습니다.
 Another browser tab or device has updated the displayed templates Some actions are not available=Another browser tab or device has updated the displayed templates. Some actions are not available
 Reinstall default=재설치 (기본값)
 WebUI=웹 UI
@@ -275,13 +275,13 @@ Multi Language Support=다중 언어 지원
 More than %s=
 
 ; Graphs
-Trend Per Month=
-Downloads Per Month=
-Total Downloads=
+Trend Per Month=월별 인기
+Downloads Per Month=월별 다운로드 수
+Total Downloads=총 다운로드 수
 
 ; Multi install script
-Installing docker applications %s=
-Starting %s=
+Installing docker applications %s=Docker 앱 %s 설치  
+Starting %s=%s 시작 중
 %s failed to start You should install it by itself to fix the errors=
 Setting installed applications to autostart=
 Docker Application Installation finished=
