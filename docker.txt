@@ -2,6 +2,7 @@ Access Mode=접근 모드
 Add another Path, Port, Variable, Label or Device=다른 경로, 포트, 변수, 라벨, 장치 추가
 Add Configuration=설정 추가
 Add=추가
+Additional Requirements=추가 요구 사항
 Always=항상
 App to Host=앱에서 호스트로
 Application=응용 프로그램
@@ -29,6 +30,7 @@ Container=컨테이너
 CPU Memory load=CPU 메모리 부하
 CPU Pinning=CPU Pinning
 Created=생성됨
+Crypto Currency=암호 화폐
 Default Value=기본 값
 Device=장치
 Display=표시
@@ -37,6 +39,7 @@ Docker Containers=Docker 컨테이너
 Docker Hub URL=Docker Hub URL
 Docker Service failed to start=Docker 서비스 시작에 실패했습니다
 Downloaders=다운로더
+Drivers=드라이버
 Edit Configuration=설정 편집
 Exited=종료됨
 Extra Parameters=추가 매개변수
@@ -64,6 +67,7 @@ Missing parameters=매개변수 없음
 Music=음악
 Network Type=네트워크 종류
 No Docker containers installed=설치된 Docker 컨테이너 없음
+None Listed=목록에 없음
 of=중
 orphan image=불필요 이미지
 Other=그 외
@@ -79,6 +83,7 @@ Productivity=생산성
 Project Page=프로젝트 페이지
 Proxy=프록시
 Pulling image=이미지 가져오는 중
+Read Me First=먼저 읽어주세요
 Read Only - Shared=읽기 전용 - 공유됨
 Read Only - Slave=읽기 전용 - 종속
 Read Only=읽기 전용
@@ -91,6 +96,7 @@ Removing container=컨테이너 삭제 중
 Removing orphan image=불필요 이미지 삭제 중
 Repository=저장소
 Required=필수
+Reset sorting=정렬 초기화
 Resume All=모두 재개
 Save=저장
 Select a template=템플릿 선택
@@ -111,6 +117,7 @@ Template=템플릿
 The command failed=명령이 실패함
 The command finished successfully=명령이 성공적으로 끝남
 TOTAL DATA PULLED=총 받은 데이터
+Total size=총 용량
 Unknown action=알 수 없는 액션
 Update All=모두 업데이트
 update ready=업데이트 준비됨
@@ -124,22 +131,3 @@ Was this container created using this plugin=이 컨테이너가 이 플러그�
 Web=웹
 WebUI=웹 UI
 Writable=쓰기 가능
-
-; New entries (4) - 2021-05-08
-Drivers=드라이버
-Reset sorting=정렬 초기화
-Total size=총 용량
-
-; New entries (1) - 2021-06-12
-Crypto Currency=암호 화폐
-
-; New entries (2) - 2021-09-18
-Additional Requirements=추가 요구 사항
-None Listed=목록에 없음
-
-; New entries (1) - 2021-11-07
-Read Me First=먼저 읽어주세요
-
-; New entries (2) - 2021-11-13
-Add Folder=폴더 추가
-Template repositories=템플릿 저장소:
