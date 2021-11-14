@@ -28,6 +28,7 @@ Download, Click and Select virtio drivers image=다운로드하고, 클릭해 vi
 Downloading=다운로드 중
 eg=예
 Emulated=에물레이트 됨
+ETA=예상 완료 시간
 Extracting=압축 해제 중
 Folder to save the LibreELEC image to=LibreELEC 이미지를 저장할 폴더
 Folder to save the OpenELEC image to=OpenELEC 이미지를 저장할 폴더
@@ -44,6 +45,7 @@ Icon=아이콘
 Initial=초기
 Invalid VM to edit=편집이 유효하지 않은 VM
 ISO storage path doesnt exist=ISO 저장소 경로가 존재하지 않음
+ISO storage path doesnt exist, please create the user share or empty folder first=ISO 저장 경로가 존재하지 않습니다. 먼저 사용자 공유(또는 빈 폴더)를 생성하세요
 ISO storage path was empty=ISO 저장소 경로가 비어있음
 keyboard for VNC=VNC를 위한 키보드
 LibreELEC Version=LibreELEC 버전
@@ -72,6 +74,7 @@ OS Install ISO=OS 설치 ISO
 Other PCI Devices=다른 PCI 장치들
 OVMF requires a UEFI-compatable OS=UEFI-호환 OS는 OVMF가 필요합니다
 OVMF=OVMF
+OVMF TPM=
 password for VNC=VNC 패스워드
 path of Unraid share=Unraid 공유 경로
 path on Unraid share to save LibreELEC settings=LibreELEC 설정을 저장할 Unraid 공유 경로
@@ -79,6 +82,7 @@ path on Unraid share to save OpenELEC settings=OpenELEC 설정을 저장할 Unra
 Path to ROM BIOS file=ROM BIOS 파일 경로
 Please choose a folder the LibreELEC image will download to=LibreELEC 이미지를 다운로드 할 폴더 선택
 Please choose a folder the OpenELEC image will download to=OpenELEC 이미지를 다운로드 할 폴더 선택
+Pop-up Blocker is enabled Please add this site to your exception list=팝업 차단이 활성화되었습니다! 이 사이트를 예외 목록에 추가하십시오
 Primary=기본
 Q35 for a newer machine model with PCIE=PCIE를 포함한 새 머신 모델은 Q35
 QEMU64=QEMU64
@@ -99,6 +103,7 @@ Separate sub-folder and image will be created based on Name=하위폴더를 분�
 shares=공유들
 Some OSes wont support USB3=일부 OS들은 USB3를 지원하지 않음
 Sound Card=사운드 카드
+Specify a ISO storage path first=먼저 ISO 저장 경로를 지정하세요
 Start All=모두 시작
 Start VM after creation=생성 후 VM 시작
 Stop All=모두 정지
@@ -116,6 +121,7 @@ vDisk Location=vDisk 경로
 vDisk Size=vDisk 용량
 vDisk Type=vDisk 종류
 vDisks=vDisk들
+Verifying=검증중
 video for VNC=VNC를 위한 비디오
 VirtIO Drivers CDRom Bus=VirtIO 드라이버 CDRom 버스
 VirtIO Drivers ISO=VirtIO 드라이버 ISO
@@ -131,14 +137,4 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, 최신 Linux distros
 XML View=XML 보기
 
-; New entries (2) - 2021-09-18
-Pop-up Blocker is enabled Please add this site to your exception list=팝업 차단이 활성화되었습니다! 이 사이트를 예외 목록에 추가하십시오
-Verifying=검증중
-
-; New entries (4) - 2021-11-06
-ETA=예상 완료 시간
-ISO storage path doesnt exist, please create the user share or empty folder first=ISO 저장 경로가 존재하지 않습니다. 먼저 사용자 공유(또는 빈 폴더)를 생성하세요
-Specify a ISO storage path first=먼저 ISO 저장 경로를 지정하세요
-
-; New entries (1) - 2021-11-13
-Add Folder=폴더 추가
+; Note: November 14, 2021 - 1 missing translations
