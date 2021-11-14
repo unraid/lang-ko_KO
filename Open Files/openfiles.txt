@@ -1,4 +1,4 @@
-Program=
+Process=
 Kill Process=
 Process ID=
 Open Files=
