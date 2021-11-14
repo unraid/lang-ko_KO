@@ -142,3 +142,6 @@ Specify a ISO storage path first=먼저 ISO 저장 경로를 지정하세요
 
 ; New entries (1) - 2021-11-13
 Add Folder=폴더 추가
+
+; New entries (1) - 2021-11-14
+OVMF TPM=
