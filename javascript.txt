@@ -62,3 +62,6 @@ Container Port=컨테이너 포트
 Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
+
+; New entries (1) - 2021-11-14
+Read Me First=
