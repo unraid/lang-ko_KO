@@ -10,3 +10,5 @@ Generally, it is not recommended to change the format=
 Credits=
 No Backup File Found=
 File Format=
+
+; Note: November 15, 2021 - 12 missing translations
