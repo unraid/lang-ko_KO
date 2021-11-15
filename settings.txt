@@ -706,4 +706,4 @@ Your server has been registered=당신의 서버가 등록되었습니다.
 Your Unraid Server is reachable from the internet=
 YYYY-MM-DD=
 
-; Note: November 14, 2021 - 75 missing translations
+; Note: November 15, 2021 - 73 missing translations

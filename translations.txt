@@ -671,4 +671,4 @@ Remark Unraids WAN IPv4 %1s does not match your clients WAN IPv4 %2s=설명: Unr
 This may indicate a complex network that will not work with this Remote Access solution=이것은 이 원격 접근 솔루션이 작동하지 않는 복잡한 네트워크라는 것을 나타내는 것일 수도 있습니다 
 Ignore this message if you are currently connected via Remote Access or VPN=귀하가 현재 원격 접근이나 VPN으로 연결되어 있는 경우 이 메시지를 무시하십시오
 
-; Note: November 14, 2021 - 1 missing translations
+; Note: November 15, 2021 - 1 missing translations

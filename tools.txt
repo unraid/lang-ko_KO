@@ -31,7 +31,6 @@ Developer=개발자
 Diagnostics=진단
 Disks=디스크
 Display Settings=화면 설정
-End-User License Agreement=최종 사용자 라이선스 계약
 Downloading=다운로드 중
 End-User License Agreement=최종 유저 라이선스 계약
 Enter URL of language pack XML file=언어팩 XML 파일 URL 입력
