@@ -64,7 +64,7 @@ New Permissions=새 권한
 Next=다음
 No notifications present=알림이 없음
 No personal information such as user names, passwords, or any other file contents is included in the hardware profile=사용자 이름, 비밀번호, 또는 파일 콘텐츠와 같은 어떠한 개인정보도 하드웨어 프로필에는 포함되지 않습니다
-normal=정상
+normal=보통
 Only ZIP files are allowed=ZIP 파일만 허용됨
 Page Map=페이지 맵
 Parity slots=패리티 슬롯
@@ -156,7 +156,7 @@ This controller is bound to vfio, connected USB devices are not visible=이 컨�
 This controller is bound to vfio, connected drives are not visible=이 컨트롤러는 vfio에 묶여있어, 연결된 장치가 보이지 않습니다
 To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=이 하드웨어의 일반적인 IOMMU 그룹을 보기 위해서는, [VM 관리자] 페이지로 이동해 **PCIe ACS 오버라이드** 설정을 **비활성화됨**으로 설정하세요
 USB Devices=USB 장치
-Your system has booted with the PCIe ACS Override setting enabled=귀하의 시스템은 PCIe ACS 오버라이드 설정이 활성화되어 부트되었습니다
+Your system has booted with the PCIe ACS Override setting enabled=PCIe ACS 재정의 설정이 활성화된 상태로 시스템이 부팅되었습니다
 
 :diagnostics_1_plug:
 This utility is used for troubleshooting purposes. It will collect all of the system information and configuration files, and package these files in a single ZIP file which can be saved locally.
