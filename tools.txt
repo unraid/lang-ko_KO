@@ -155,7 +155,7 @@ SCSI Devices=SCSI 장치
 The below list doesnt not reflect the way IOMMU would naturally group devices=아래 리스트는 IOMMU가 일반적으로 장치 그룹을 하는것을 반영하지 않습니다
 This controller is bound to vfio, connected USB devices are not visible=이 컨트롤러는 vfio에 묶여있어, 연결된 USB 장치가 보이지 않습니다
 This controller is bound to vfio, connected drives are not visible=이 컨트롤러는 vfio에 묶여있어, 연결된 장치가 보이지 않습니다
-To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=이 하드웨어의 일반적인 IOMMU 그룹을 보기 위해서는, [VM 관리자] 페이지로 이동해 **PCIe ACS 오버라이드** 설정을 **비활성화됨**으로 설정하세요
+To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=이 하드웨어의 일반적인 IOMMU 그룹을 보기 위해서는, [VM 관리자] 페이지로 이동해 **PCIe ACS 재정의** 설정을 **비활성화**로 설정하세요
 USB Devices=USB 장치
 Your system has booted with the PCIe ACS Override setting enabled=PCIe ACS 재정의 설정이 활성화된 상태로 시스템이 부팅되었습니다
 
