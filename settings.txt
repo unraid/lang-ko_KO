@@ -413,7 +413,6 @@ No Parity disk present=패리티 디스크 없음
 No Reply=답신 없음
 Nominal Power=공칭 전력
 Non-tabbed=탭 없음
-Normal=보통
 Not activated=활성화되지 않음
 Not allowed to assign ZERO cores=ZERO 코어를 할당할 수 없음
 Not compatible with NetBIOS=NetBIOS와 호환되지 않음
@@ -707,4 +706,4 @@ Your server has been registered=당신의 서버가 등록되었습니다.
 Your Unraid Server is reachable from the internet=Unraid 서버는 인터넷에서 연결할 수 있습니다
 YYYY-MM-DD=
 
-; Note: November 15, 2021 - 73 missing translations
+; Note: November 15, 2021 - 36 missing translations
