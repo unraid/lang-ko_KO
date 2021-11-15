@@ -160,3 +160,5 @@ Other Highlight Color=
 > Click the **Apply** button to Apply the Syslog filter. Click **Reset** to
 > undo any changes you make before you have saved the Syslog filter. Click **Done** to exit this page.
 :end
+
+; Note: November 15, 2021 - 33 missing translations
