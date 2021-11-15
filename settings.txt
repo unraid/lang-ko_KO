@@ -413,11 +413,12 @@ No Parity disk present=패리티 디스크 없음
 No Reply=답신 없음
 Nominal Power=공칭 전력
 Non-tabbed=탭 없음
+Normal=보통
 Not activated=활성화되지 않음
 Not allowed to assign ZERO cores=ZERO 코어를 할당할 수 없음
 Not compatible with NetBIOS=NetBIOS와 호환되지 않음
 not configured=구성되지 않음
-Not present=
+Not present=존재하지 않음
 not received=수신되지 않음
 not set=설정되지 않음
 Not up-to-date=최신이 아님
@@ -705,7 +706,6 @@ Your router or DNS server has DNS rebinding protection enabled, preventing=라�
 Your server has been registered=당신의 서버가 등록되었습니다.
 Your Unraid Server is reachable from the internet=Unraid 서버는 인터넷에서 연결할 수 있습니다
 YYYY-MM-DD=
-Normal=보통
 
 ; Note: November 14, 2021 - 75 missing translations
 
