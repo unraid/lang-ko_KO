@@ -9,6 +9,7 @@ day=일
 days=일
 disk image and definition=디스크 이미지 및 정의
 Disks=디스크
+Donate=
 Done=완료
 Edit=편집
 Execution error=실행 오류
@@ -64,4 +65,4 @@ Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
 
-; Note: November 14, 2021 - 1 missing translations
+; Note: November 15, 2021 - 2 missing translations

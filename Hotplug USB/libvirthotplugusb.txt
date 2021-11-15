@@ -20,3 +20,5 @@ No USB devices=
 :libvirt_hot_plug:
 > Select the VM for the USB device to be attached/detached and the USB device for the selected VM.
 :end
+
+; Note: November 15, 2021 - 16 missing translations

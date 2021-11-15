@@ -1,4 +1,5 @@
 Add=추가
+Add force user nobody to SMB share config=SMB 공유 구성에 'force user = nobody' 추가?
 Auto Mount USB Devices=USB 장치 자동 마운트
 Change Disk UUID=디스크 UUID 변경
 Change UUID=UUID 변경
@@ -17,7 +18,7 @@ must be enabled in SMB Settings to enable SMB v1=SMB v1을 활성화하려면 SM
 NFS Security=NFS 보안
 NFS Settings=NFS 설정
 NFS must be enabled to enable NFS Export=NFS 내보내기를 활성화하려면 NFS를 활성화해야 합니다.
-NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전:
+NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
 Rule=규칙
 SMB Security=SMB 보안
 Select Disk to change UUID=UUID를 변경할 디스크 선택
@@ -30,7 +31,7 @@ Spin down disks=디스크 스핀다운
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=파괴 모드를 활성화하려면 "Unassigned Devices Plus" 플러그인을 설치해야 합니다
 to SMB share config=SMB 공유 구성으로
 Unassigned Devices=할당되지 않은 장치
-Unraid 6.10 is required for NFSv4 support=
+Unraid 6.10 is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10이 필요합니다.
 
 ; Help
 ;
@@ -118,3 +119,5 @@ Unraid 6.10 is required for NFSv4 support=
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
+
+; Note: November 15, 2021 - 2 missing translations

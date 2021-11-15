@@ -123,3 +123,5 @@ Update Recycle Bin Size in Background=
 > The deleted files will show in the log as unlinked files.
 > Click on the 'Clear' button to clear the log.
 :end
+
+; Note: November 15, 2021 - 36 missing translations
