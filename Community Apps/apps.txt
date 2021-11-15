@@ -388,4 +388,4 @@ View Missing Translations=누락된 번역 보기
 ; WebGui
 Click Install to download and install the Community Applications plugin=Click **Install** to download and install the **Community Applications** plugin
 
-; Note: November 15, 2021 - 143 missing translations
+; Note: November 15, 2021 - 144 missing translations
