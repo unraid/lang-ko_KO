@@ -1,15 +1,15 @@
-Default Script=
-Edit Script=
-Enter Script File Name=
-Enter and Edit the Script that runs when a udev or operator event occurs=
-Load the default script=
-Remove Script File=
-Run in background=
-Save your changes and save to Script File=
-Save=
-Script content=
-Turn on to run Script File in the background=
-Undo your changes since last Save=
+Default Script=기본 스크립트
+Edit Script=스크립트 편집
+Enter Script File Name=스크립트 파일 이름 입력
+Enter and Edit the Script that runs when a udev or operator event occurs=udev 또는 operator 이벤트가 발생할 때 실행되는 스크립트 입력 및 편집
+Load the default script=기본 스크립트 불러오기
+Remove Script File=스크립트 파일 제거
+Run in background=백그라운드에서 실행
+Save your changes and save to Script File=변경 사항을 저장하고 스크립트 파일에 저장
+Save=저장
+Script content=스크립트 항목
+Turn on to run Script File in the background=백그라운드에서 스크립트 파일을 실행하려면 켜세요
+Undo your changes since last Save=마지막 저장 이후의 변경 사항 실행 취소
 ;
 ; Help
 ;
