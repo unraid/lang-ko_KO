@@ -350,6 +350,7 @@ System running in=시스템 실행 중
 System=시스템
 TB=TB
 Temperature=온도
+Temp.=온도
 Template Repositories=템플릿 저장소
 Terminal=터미널
 Test result=테스트 결과
