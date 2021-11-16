@@ -89,6 +89,9 @@ Success=성공
 Show Historical Devices=
 Show SMB/NFS/ISO Shares=
 Show Disk Devices=
+Temp.=온도
+Temp=온도
+Identification=식별자
 This will remove the ISO file share for=
 This will remove the remote=
 This will remove the saved configuration of=
@@ -107,8 +110,6 @@ You must enable the Destructive Mode in UD Settings before you can Format this d
 WARNING: Do NOT use a remote share local mount in a Docker container or VM for critical data=
 WRITES=쓰기
 Writes=쓰기
-TEMP.=온도
-Temp.=온도
 You WILL have problems if you do=
 You will need to enter credentials for Windows 10 shares just to list them=
 
