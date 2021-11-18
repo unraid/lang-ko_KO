@@ -18,7 +18,6 @@ active=활성
 Actual results=실제 결과들
 Add Container=컨테이너 추가
 Add Folder=폴더 추가
-Add Folders=폴더 추가
 Add VM=VM 추가
 Advanced View=고급 보기
 AFP Security Settings=AFP 보안 설정
