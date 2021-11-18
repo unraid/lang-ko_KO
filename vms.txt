@@ -82,7 +82,7 @@ path on Unraid share to save OpenELEC settings=OpenELEC 설정을 저장할 Unra
 Path to ROM BIOS file=ROM BIOS 파일 경로
 Please choose a folder the LibreELEC image will download to=LibreELEC 이미지를 다운로드 할 폴더 선택
 Please choose a folder the OpenELEC image will download to=OpenELEC 이미지를 다운로드 할 폴더 선택
-Pop-up Blocker is enabled Please add this site to your exception list=팝업 차단이 활성화되었습니다! 이 사이트를 예외 목록에 추가하십시오
+Pop-up Blocker is enabled Please add this site to your exception list=팝업 차단이 활성화되었습니다! 이 사이트를 예외 목록에 추가하세요
 Primary=기본
 Q35 for a newer machine model with PCIE=PCIE를 포함한 새 머신 모델은 Q35
 QEMU64=QEMU64
@@ -128,13 +128,14 @@ VirtIO Drivers ISO=VirtIO 드라이버 ISO
 Virtual Machines=가상 머신들
 VM creation error=VM 생성 오류
 VM image deletion error=VM 이미지 삭제 오류
+VM Settings A reboot is required to apply changes=VM 설정: 변경 사항을 적용하려면 재가동이 필요합니다
 VNC Keyboard=VNC 키보드
 VNC Password=VNC 비밀번호
 VNC Video Driver=VNC 비디오 드라이버
 VNC=VNC
 Wasnt able to stop the process=프로세스를 정지할 수 없었음
 Windows 7XP=Windows 7/XP
-Windows 82012, newer Linux distros=Windows 8/2012, 최신 Linux distros
+Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
 XML View=XML 보기
 
 ; Note: November 16, 2021 - 1 missing translations
