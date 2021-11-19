@@ -66,7 +66,7 @@ Unraid array는 하나 또는 두 개의 패리티 디스크와 다수의 데이
 :end
 
 :cache_devices_help:
-**Colored Status Indicator** the significance of the color indicator at the beginning of each line in *Pool Devices* is as follows:
+**Colored Status Indicator** *Pool Devices*의 각 줄 시작 부분에 있는 색상 인디케이터의 의미는 다음과 같습니다:
 
 <i class='fa fa-circle orb green-orb'></i>정상 작동, 장치가 활성 상태입니다.
 
@@ -76,30 +76,30 @@ Unraid array는 하나 또는 두 개의 패리티 디스크와 다수의 데이
 
 <i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
-**Pool Devices** is a single device, or pool of multiple devices, *outside* the Unraid array.  It may be exported for network access just
-like an Array device.  Being outside the Unraid array results in significantly faster write access.
+**Pool Devices**는 Unraid 어레이 *외부에* 있는 단일 디바이스 또는 여러 디바이스의 풀입니다.  Array 디바이스와
+마찬가지로 네트워크 액세스를 위해 내보낼 수 있습니다.  Unraid array 외부에 있으면 쓰기 액세스 속도가 크게 빨라집니다.
 
-There are two ways to configure the Pool devices:
+Pool 디바이스를 구성하는 두 가지 방법이 있습니다:
 
-1. As a single device, or
-2. As a multi-device pool.
+1. single device로 구성하거나,
+2. multi-device pool로 구성하는 것.
 
-When configured as a single device you may format the device using any supported file system (btrfs, reiserfs,
-or xfs).  This configuration offers the highest performance, but at the cost of no data protection - if the
-single pool device fails all data contained on it may be lost.
+single divices로 구성된 경우 지원되는 파일 시스템을 사용하여 장치를 포맷할 수 있습니다. 
+(btrfs, reiserfs, 또는 xfs).  이 구성은 최고의 성능을 제공하지만 데이터 보호 기능이 없습니다.
+single pool 디바이스에 문제가 생기면 포함된 모든 데이터가 손실될 수 있습니다.
 
-When configured as a multi-device pool, Unraid OS will automatically select *btrfs-raid1* format (for both data
-and meta-data).  btrfs permits any number of devices to be added to the pool and each copy of data is guaranteed
-to be written to two different devices.  Hence the pool can withstand a single-disk failure without losing data.
+multi-device pool로 구성되면 Unraid OS는 *btrfs-raid1* 형식을 자동으로 선택합니다(데이터와 메타 데이터 모두).
+btrfs는 원하는 수의 장치를 풀에 추가할 수 있으며 각 데이터 복사본은 두 개의 다른 장치에 쓰이도록 보장됩니다.
+따라서 pool은 데이터 손실 없이 단일 디스크 장애를 복구할 수 있습니다.
 
-When [User Shares](/Settings/ShareSettings) are enabled, user shares may be configured to
-automatically make use of the Pool device in order to
-speed up writes.  A special background process called the *mover* can be scheduled to run
-periodically to move user share files off the Cache and onto the Array.
+[User Shares](/Settings/ShareSettings)가 활성화된 경우,
+쓰기 속도를 높이기 위해 풀 기기를 자동으로 사용하도록 사용자 공유를 구성할 수 있습니다.
+*mover*라는 특별한 백그라운드 프로세스를 주기적으로 실행하여
+사용자 공유 파일을 캐시에서 array로 이동할 수 있습니다.
 :end
 
 :cache_slots_help:
-**Slots** select the number of device slots in your server designated for Cache devices.
+**슬롯**은 캐시 장치용으로 지정된 서버의 장치 슬롯 수를 선택합니다.
 :end
 
 :boot_device_help:
