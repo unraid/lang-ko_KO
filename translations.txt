@@ -320,6 +320,7 @@ Show Password=비밀번호 표시
 Shutdown=종료
 Sign In before your Unraidnet SSL certificate expires=Unraid.net SSL 인증서가 만료되기 전에 로그인하십시오
 Size=용량
+Sleep=절전
 SMB Security Settings=SMB 보안 설정
 SMB=SMB
 sn=s/n
