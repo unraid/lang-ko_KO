@@ -8,7 +8,7 @@ Popup Blocked CA requires popups to be enabled under certain circumstances You m
 Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=도커 서비스가 활성화되지 않음 - 플러그인만 설치 혹은 관리 가능
 Community Applications works best when cookies are enabled in your browser Certain features may not be available=커뮤니티 응용 프로그램은 브라우저에서 쿠키가 활성화되어 있을 때 가장 잘 작동합니다. 특정 기능을 사용하지 못할 수 있습니다.
 Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활성 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
-Debugging enabled This significantly increases the memory used by your browser=
+Debugging enabled This significantly increases the memory used by your browser=디버깅 활성화는 브라우저에서 사용하는 메모리를 크게 증가시킵니다.
 
 ; Sorting Options
 Sort By=다음으로 정렬:
@@ -16,7 +16,7 @@ Name Ascending=이름 오름차순
 Name Descending=이름 내림차순
 Downloads=다운로드순
 Date Added=추가된 날짜순
-Number Of Apps=
+Number Of Apps=앱 숫자
 ; Initial disclaimer translations
 Disclaimer=면책 사항
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=여기에 나열된 모든 응용 프로그램은 Unraid에 대한 타사 추가 사항입니다. Community Applications의 작성자나 Limetech는 여기에 나열된 응용 프로그램의 적합성에 대해 어떠한 보증도 하지 않습니다.
@@ -46,48 +46,48 @@ Click to remove favourite repository=
 Click to set %s as favourite repository=
 Search for apps in repository=
 No description present=
-Go to the forum page=
-Go to the webpage=
-Go to reddit=
-Go to facebook=
-Go to discord=
-Go to forum profile=
-Show Profile=
-SHOW MORE=
-SHOW LESS=
-Read more=
+Go to the forum page=포럼 페이지로 이동
+Go to the webpage=웹페이지로 이동
+Go to reddit=레딧으로 이동
+Go to facebook=페이스북으로 이동
+Go to discord=디스코드로 이동
+Go to forum profile=포럼 프로파일로 이동
+Show Profile=프로파일 보이기
+SHOW MORE=더보기
+SHOW LESS=덜보기
+Read more=더 읽어보기
 Total Applications=
 Total Known Downloads=
 Total Docker Applications=
 Total Plugin Applications=
 Total Languages=
 Average Downloads Per App=
-Web Page=
-Forum=
-Forum Profile=
-Profile=
-Facebook=
-Reddit=
-Twitter=
-Discord=
-Search Apps=
+Web Page=웹페이지
+Forum=포럼
+Forum Profile=포럼 프로파일
+Profile=프로파일
+Facebook=페이스북
+Reddit=레딧
+Twitter=트위터
+Discord=디스코드
+Search Apps=앱 검색
 Registry=
-Details=
+Details=상세
 Added=
 ; Install Plugin title of openbox
 Install Plugin=플러그인 설치
-BACK=
+BACK=돌아가기
 
 ; Remove App from previously installed
 Delete Template=템플릿 제거
 Yes, delete it=네, 지우세요
 
 ; Uninstall popup
-Uninstall Application=
+Uninstall Application=애플리케이션 제거
 Yes uninstall it=네, 지우세요
 
 ; Remove Private Application
-Remove Private Application=
+Remove Private Application=프라이빗 애플리케이션 제거
 Yes, remove it=네, 지우세요
 
 ; App Pinning
@@ -123,7 +123,7 @@ This plugin has a duplicated name from another plugin %s This will impact your a
 You have been logged out=로그 아웃 되었습니다.
 Fatal Flash Drive Error=치명적인 플래시 드라이브 오류
 This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=이것은 일반적으로 플래시 드라이브가 손상되었거나 오프라인 상태로 전환됨을 의미합니다. Unraid GUI의 나머지 부분도 영향을 받습니다. 이 오류가 계속되면 Unraid 포럼에 새 스레드를 게시하세요.
-Fatal Docker Image Error=
+Fatal Docker Image Error=치명적 도커 이미지 오류
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=
 
 ; CA Sections Keep the length reasonable
@@ -135,8 +135,8 @@ Recently Added=
 Updated Apps=업데이트된 앱
 Random Apps=무작위 앱
 Top New Installs=상위 신규 설치
-Top Trending Apps=
-Spotlight Apps=
+Top Trending Apps=인기 급상승 앱
+Spotlight Apps=주목할 앱
 All Apps=모든 앱
 Statistics=통계
 Credits=제작진
@@ -153,28 +153,28 @@ Application Feed=앱 피드
 Additional Testing=추가 테스트
 Moderation=
 Additional Libraries=추가 라이브러리
-Copyright=
+Copyright=저작권
 Translation=번역
 
 ; Statistics page
 
 unknown=
 Last Change To Application Feed=
-Docker Applications=
-Plugin Applications=
-Templates=
-Official Containers=
+Docker Applications=도커 애플리케이션
+Plugin Applications=플러그인 애플리케이션
+Templates=탬플릿
+Official Containers=공식 컨테이너
 Repositories=저장소
-Private Docker Applications=
+Private Docker Applications=프라이빗 도커 애플리케이션
 Invalid Templates=
 Template Errors=템플릿 오류
 Blacklisted Apps=
 Incompatible Applications=
 Deprecated Applications=
 Moderation Entries=
-Primary Server=
-Backup Server=
-Installs not allowed from this page=
+Primary Server=기본 서버
+Backup Server=백업 서버
+Installs not allowed from this page=이 페이지에서의 설치가 허용되지 않습니다
 
 ; Statistics Popup
 No invalid templates found=
@@ -203,9 +203,9 @@ An assortment of randomly chosen apps=
 
 Backup=백업
 Cloud=클라우드
-Crypto Currency=
+Crypto Currency=ㄷ가상화폐
 Downloaders=다운로더
-Drivers=
+Drivers=드라이버
 Game Servers=게임 서버
 Home Automation=가정 자동화
 Media Applications=미디어 앱
@@ -213,7 +213,7 @@ Books=서적
 Music=음악
 Photos=사진
 Video=비디오
-Other=
+Other=기타
 Media Servers=미디어 서버
 Network Services=네트워크 서비스
 DNS=DNS
@@ -235,15 +235,15 @@ Private Apps=개인 앱
 Uncategorized=미분류
 
 ; Categories displayed within a popup or on the card.  Where an entry exists after the "=" it is not translated, but rather how it should look
-GameServers=
-HomeAutomation=
-MediaApp=
+GameServers=게임서버
+HomeAutomation=홈오토메이션
+MediaApp=미디어앱
 MediaAppBooks=MediaApp:Books
 MediaAppMusic=MediaApp:Music
 MediaAppPhotos=MediaApp:Photos
 MediaAppVideo=MediaApp:Video
 MediaAppOther=MediaApp:Other
-MediaServer=
+MediaServer=미디어서버
 MediaServerBooks=MediaServer:Books
 MediaServerMusic=MediaServer:Music
 MediaServerPhotos=MediaServer:Photos
@@ -267,20 +267,20 @@ and %s more=
 ; App Popup Related
 This application template has been blacklisted=This application / template has been blacklisted
 This application template has been deprecated=This application / template has been deprecated
-This application has additional requirements=
-Additional Requirements=
+This application has additional requirements=이 애플리케이션에는 추가 요구 사항이 있습니다
+Additional Requirements=추가 요구 사항
 Donate To Author=저작자에게 기부
 Donate To Maintainer=유지 보수자에게 기부
-CLOSE=
+CLOSE=닫기
 Author=저작자
 Maintainer=유지 보수자
-DockerHub=
+DockerHub=DockerHub
 Application Template=앱 템플릿
 DockerHub Stars=DockerHub 별 수
 Added to CA=CA에 추가
 Date Updated=업데이트한 날짜
 Current Version=현재 버전
-Min OS=
+Min OS=최소 OS
 Max OS=최대 OS
 Total Downloads=총 다운로드 수
 Licence=라이선스
@@ -290,24 +290,24 @@ Ranked #%s=#%s 랭크됨
 Trending %s=인기 %s
 ; as in As of some date
 As of %s=(%s 기준)
-Show Charts=
-Hide Charts=
-This application is not compatible with your version of Unraid=
-Another browser tab or device has updated the displayed templates Some actions are not available=Another browser tab or device has updated the displayed templates. Some actions are not available
+Show Charts=차트 보이기
+Hide Charts=차트 숨기기
+This application is not compatible with your version of Unraid=이 응용 프로그램은 설치된 Unraid 버전과 호환되지 않습니다
+Another browser tab or device has updated the displayed templates Some actions are not available=다른 브라우저 탭 또는 장치가 표시된 템플릿을 업데이트했습니다. 일부 작업을 사용할 수 없습니다.
 WebUI=웹 UI
 Reinstall=재설치
-Reinstall From Previous Apps=
+Reinstall From Previous Apps=이전 앱에서 재설치
 Install=설치
 Project=프로젝트
-Read Me First=
-Install second instance=
-Install Using The Templates Default Tag=Install Using The Template's Default Tag
-Moderator Comments=Moderator Comments:
-Note not all authors keep up to date on change logs=
-Note not all maintainers keep up to date on change logs=
+Read Me First=먼저 읽어주세요
+Install second instance=두 번째 인스턴스 설치
+Install Using The Templates Default Tag=템플릿의 기본 태그를 사용하여 설치하기
+Moderator Comments=Moderator 코멘트:
+Note not all authors keep up to date on change logs=모든 작성자가 변경 로그를 최신 상태로 유지하는 것은 아닙니다
+Note not all maintainers keep up to date on change logs=모든 유지 관리자들이 변경 로그를 최신 상태로 유지하는 것은 아닙니다
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
-Donate=기부
-Currently Installed Version=
+Donate=기부하기
+Currently Installed Version=현재 설치된 버전
 Install The Update=업데이트 설치
 ; as in you have the latest version already installed
 Latest Version=최신 버전
@@ -316,9 +316,9 @@ Support Forum=
 ; as in more than 100000
 More than %s=
 Remove from Previous Apps=
-See All Apps=
-Favourite=
-Application Type=
+See All Apps=모든 앱 보기
+Favourite=즐겨찾기
+Application Type=에플리케이션 타입
 
 ; Graphs
 Trend Per Month=월별 인기
@@ -333,39 +333,39 @@ Docker Application Installation finished=
 
 ; Application Cards
 This application is a driver plugin=This application is a driver (plugin)
-This is a language pack=
-This application is a docker container=
-This application is a plugin=
+This is a language pack=이것은 언어 패키지입니다
+This application is a docker container=이 애플리케이션은 도커 컨테이너입니다
+This application is a plugin=이 애플리케이션은 플러그인입니다
 This is a spotlight application=
-This is your favourite repository=
+This is your favourite repository=이것은 당신의 즐겨찾기 저장소입니다
 This application is from your favourite repository=
 This application is pinned for later viewing=
-Private Application=
+Private Application=프라이빗 애플리케이션
 Remove Application From List=
 Check off to select multiple reinstalls=
-Go to the plugin settings=
+Go to the plugin settings=플러그인 설정으로 이동하기
 Click to reinstall the application using default values=
 Click to edit the application values=
 Click to reinstall=클릭하여 재설치
 Click to install=클릭하여 설치
-Click to go to the WebUI=
+Click to go to the WebUI=클릭하여 웹UI로 이동
 This application template has been deprecated=
 This application template has been blacklisted=
 Click info to see the notes regarding this application=
 This application has additional requirements=
-BETA= 
-INSTALLED=
-OFFICIAL=
-This is an official container=
-Digitally Signed=
-This container is digitally signed=
+BETA=베타
+INSTALLED=설치됨
+OFFICIAL=공식
+This is an official container=이것은 공식 컨테이너입니다
+Digitally Signed=디지털 서명됨
+This container is digitally signed=이 컨테이너는 디지털 서명되었습니다
 Docker Hub=
 NOTE You must visit the dockerHub page to gather the information required to install correctly=
 Show CA templates=
 
-Info=
+Info=정보
 Attention=
-Repository=
+Repository=저장소
 Why we picked it=
 Application Spotlight %s=
 Unraid Staff=
