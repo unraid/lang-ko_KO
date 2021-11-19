@@ -18,7 +18,7 @@ No USB devices=선택한 USB 장치 없음
 ; Help
 ;
 :libvirt_hot_plug:
-> Select the VM for the USB device to be attached/detached and the USB device for the selected VM.
+> 연결/분리할 USB 장치에 대한 VM과 선택한 VM에 대한 USB 장치를 선택합니다.
 :end
 
 ; Note: November 15, 2021 - 16 missing translations

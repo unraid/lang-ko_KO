@@ -1,105 +1,105 @@
 :main_array_devices_help:
-**Colored Status Indicator** the significance of the color indicator at the beginning of each line in *Array Devices* is as follows:
+**Colored Status Indicator** *Array Devices*의 각 줄 시작 부분에 있는 색상 인디케이터의 의미는 다음과 같습니다.
 
-<i class='fa fa-circle orb green-orb'></i>Normal operation, device is active.
+<i class='fa fa-circle orb green-orb'></i>정상 작동, 장치가 활성 상태입니다.
 
-<i class='fa fa-circle orb grey-orb'></i>Device is in standby mode (spun-down).
+<i class='fa fa-circle orb grey-orb'></i>장치가 대기 모드(스핀다운) 입니다.
 
-<i class='fa fa-warning orb yellow-orb'></i>Device contents emulated.
+<i class='fa fa-warning orb yellow-orb'></i>장치 내용이 에뮬레이트되었습니다.
 
-<i class='fa fa-times orb red-orb'></i>Device is disabled, contents emulated.
+<i class='fa fa-times orb red-orb'></i>장치가 비활성화되어있고 콘텐츠를 에뮬레이트합니다.
 
-<i class='fa fa-square orb blue-orb'></i>New device.
+<i class='fa fa-square orb blue-orb'></i>새로운 장치입니다.
 
-<i class='fa fa-square orb grey-orb'></i>No device present, position is empty.
+<i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
-**Identification** is the *signature* that uniquely identifies a storage device. The signature
-includes the device model number, serial number, linux device id, and the device size.
+**Identification**는 스토리지 디바이스를 고유하게 식별하는 *서명*입니다. 서명에는
+장치 모델 번호, 일련 번호, 리눅스 장치 ID 및 장치 크기가 포함됩니다.
 
-**Temp.** (temperature) is read directly from the device. You configure which units to use on
-the [Display Preferences](Settings/DisplaySettings) page.  We do not read the temperature of spun-down hard
-drives since this typically causes them to spin up; instead we display the `*` symbol.  We also
-display the `*` symbol for SSD and Flash devices, though sometimes these devices do report a valid
-temperature, and sometimes they return the value `0`.
+**Temp.** (온도) 는 장치에서 직접 읽어옵니다. [Display Preferences](설정/디스플레이설정)
+페이지에서 사용할 단위를 구성할 수 있습니다.  스핀다운된 하드 드라이브의 온도는 읽지 않습니다.
+일반적으로 다시 스핀업되기 때문입니다.; 대신 `*` 기호를 표시합니다.  또한
+SSD 및 플래시 디바이스에도 '*' 기호를 표시합니다. 이러한 디바이스에서 유효 온도를 보고하는 경우도
+있고 값 '0'을 반환하는 경우도 있습니다.
 
-**Size, Used, Free** reports the total device size, used space, and remaining space for files.  These
-units are also configured on the [Display Preferences](Settings/DisplaySettings) page.  The
-amount of space used will be non-zero even for an empty disk due to file system overhead.
+**Size, Used, Free** 은 파일의 총 장치 크기, 사용된 공간 및 남은 공간을 보고합니다.  이러한
+수치는 [Display Preferences](설정/디스플레이 설정) 페이지에서도 구성됩니다. 
+파일 시스템 오버헤드로 인해 빈 디스크의 경우에도 사용된 공간은 0이 아닙니다.
 
-*Note: for a multi-device cache pool, this data is for the entire pool as returned by btrfs.*
+*참고: 다중 장치 캐시 풀의 경우 이 데이터는 btrfs에 의해 반환되는 전체 풀에 대한 데이터입니다.*
 
-**Reads, Writes** are a count of I/O requests sent to the device I/O drivers.  These statistics may
-be cleared at any time, refer to the Array Status section below.
+**Reads, Writes** 는 장치 I/O 드라이버로 전송된 I/O 요청 수입니다.  이러한 통계는
+언제든지 지울 수 있습니다. 아래의 배열 상태 섹션을 참조하십시오.
 
-**Errors** counts the number of *unrecoverable* errors reported by the device
-I/O drivers. Missing data due to unrecoverable array read errors is filled in on-the-fly using parity
-reconstruct (and we attempt to write this data back to the sector(s) which failed). Any unrecoverable
-write error results in *disabling* the disk.
+**Errors** 는 장치 I/O 드라이버에서 보고된 *복구할 수 없는* 오류 수를 카운트합니다.
+복구할 수 없는 Array 읽기 오류로 인한 누락 데이터는 패리티 재구성을 사용하여
+즉시 채워집니다(그리고 실패한 섹터에 이 데이터를 다시 쓰려고 시도합니다). 복구할 수 없는
+쓰기 오류가 발생하면 Disk를 *사용 안 함*으로 설정합니다.
 
-**FS** indicates the file system detected in partition 1 of the device.
+**FS**는 장치의 파티션 1에서 탐지된 파일 시스템을 나타냅니다.
 
-**View** column contains a folder icon indicating the device is *mounted*. Click the icon to
-browse the file system.
+**View** 열에 장치가 *마운트됨*을 나타내는 폴더 아이콘이 포함되어 있습니다.
+파일 시스템을 찾아보려면 아이콘을 클릭합니다.
 
-If "Display array totals" is enable on the [Display Preferences](Settings/DisplaySettings) page, a
-**Total** line is included which provides a tally of the device statistics, including the average temperature
-of your devices.
+[Display Preferences](설정/디스플레이설정) 페이지에서 "Disk array totals"를 활성화하면
+장치의 평균 온도를 포함한 장치 통계의 집계를 제공하는
+**Total** 라인이 포함됩니다.
 
-The Array must be Stopped in order to change Array device assignments.
+Array 장치 할당을 변경하려면 Array가 중지되어야 합니다.
 
-An Unraid array consists of one or two Parity disks and a number of Data disks. The Data
-disks are exclusively used to store user data, and the Parity disk(s) provides the redundancy necessary
-to recover from disk failures.
+Unraid array는 하나 또는 두 개의 패리티 디스크와 다수의 데이터 디스크로 구성됩니다.
+데이터 디스크는 사용자 데이터를 저장하는 데만 사용되며, 패리티 디스크는 디스크 장애로부터
+복구하는 데 필요한 이중화를 제공합니다.
 
-Since data is not striped across the array, the Parity disk(s) must be as large, or larger than the largest Data
-disk.  Parity should also be your highest performance drive.
+데이터가 Array 전체에서 스트라이핑되지 않으므로 패리티 디스크는 가장 큰 데이터 디스크보다 크거나 커야 합니다. 
+패리티는 또한 최고 성능의 드라이브여야 합니다.
 
-Each Data disk has its own file system and can be exported as a
-separate share.
+각 데이터 디스크에는 고유한 파일 시스템이 있으며 개별 공유로
+내보낼 수 있습니다.
 
-Click on the Device name to configure individual device settings and launch certain utilities.
+장치 이름을 클릭하여 개별 장치 설정을 구성하고 특정 유틸리티를 실행합니다.
 :end
 
 :main_slots_help:
-**Slots** select the number of device slots in your server designated for Array devices.
-The minimum number of Array slots is 2, and you must have at least one device assigned to the array.
+**슬롯** Array 디바이스용으로 지정된 서버의 디바이스 슬롯 수를 선택합니다.
+어레이 슬롯의 최소 수는 2이며 Array에 할당된 디바이스가 하나 이상 있어야 합니다.
 :end
 
 :cache_devices_help:
-**Colored Status Indicator** the significance of the color indicator at the beginning of each line in *Pool Devices* is as follows:
+**Colored Status Indicator** *Pool Devices*의 각 줄 시작 부분에 있는 색상 인디케이터의 의미는 다음과 같습니다:
 
-<i class='fa fa-circle orb green-orb'></i>Normal operation, device is active.
+<i class='fa fa-circle orb green-orb'></i>정상 작동, 장치가 활성 상태입니다.
 
-<i class='fa fa-circle orb grey-orb'></i>Device is in standby mode (spun-down).
+<i class='fa fa-circle orb grey-orb'></i>장치가 대기 모드(스핀다운) 입니다.
 
-<i class='fa fa-square orb blue-orb'></i>New device.
+<i class='fa fa-square orb blue-orb'></i>새로운 장치입니다.
 
-<i class='fa fa-square orb grey-orb'></i>No device present, position is empty.
+<i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
-**Pool Devices** is a single device, or pool of multiple devices, *outside* the Unraid array.  It may be exported for network access just
-like an Array device.  Being outside the Unraid array results in significantly faster write access.
+**Pool Devices**는 Unraid 어레이 *외부에* 있는 단일 디바이스 또는 여러 디바이스의 풀입니다.  Array 디바이스와
+마찬가지로 네트워크 액세스를 위해 내보낼 수 있습니다.  Unraid array 외부에 있으면 쓰기 액세스 속도가 크게 빨라집니다.
 
-There are two ways to configure the Pool devices:
+Pool 디바이스를 구성하는 두 가지 방법이 있습니다:
 
-1. As a single device, or
-2. As a multi-device pool.
+1. single device로 구성하거나,
+2. multi-device pool로 구성하는 것.
 
-When configured as a single device you may format the device using any supported file system (btrfs, reiserfs,
-or xfs).  This configuration offers the highest performance, but at the cost of no data protection - if the
-single pool device fails all data contained on it may be lost.
+single divices로 구성된 경우 지원되는 파일 시스템을 사용하여 장치를 포맷할 수 있습니다. 
+(btrfs, reiserfs, 또는 xfs).  이 구성은 최고의 성능을 제공하지만 데이터 보호 기능이 없습니다.
+single pool 디바이스에 문제가 생기면 포함된 모든 데이터가 손실될 수 있습니다.
 
-When configured as a multi-device pool, Unraid OS will automatically select *btrfs-raid1* format (for both data
-and meta-data).  btrfs permits any number of devices to be added to the pool and each copy of data is guaranteed
-to be written to two different devices.  Hence the pool can withstand a single-disk failure without losing data.
+multi-device pool로 구성되면 Unraid OS는 *btrfs-raid1* 형식을 자동으로 선택합니다(데이터와 메타 데이터 모두).
+btrfs는 원하는 수의 장치를 풀에 추가할 수 있으며 각 데이터 복사본은 두 개의 다른 장치에 쓰이도록 보장됩니다.
+따라서 pool은 데이터 손실 없이 단일 디스크 장애를 복구할 수 있습니다.
 
-When [User Shares](/Settings/ShareSettings) are enabled, user shares may be configured to
-automatically make use of the Pool device in order to
-speed up writes.  A special background process called the *mover* can be scheduled to run
-periodically to move user share files off the Cache and onto the Array.
+[User Shares](/Settings/ShareSettings)가 활성화된 경우,
+쓰기 속도를 높이기 위해 풀 기기를 자동으로 사용하도록 사용자 공유를 구성할 수 있습니다.
+*mover*라는 특별한 백그라운드 프로세스를 주기적으로 실행하여
+사용자 공유 파일을 캐시에서 array로 이동할 수 있습니다.
 :end
 
 :cache_slots_help:
-**Slots** select the number of device slots in your server designated for Cache devices.
+**슬롯**은 캐시 장치용으로 지정된 서버의 장치 슬롯 수를 선택합니다.
 :end
 
 :boot_device_help:

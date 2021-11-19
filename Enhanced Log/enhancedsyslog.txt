@@ -1,6 +1,6 @@
-Enhanced System Log=
-Minor Issues=
-File System=
-Drive Related=
+Enhanced System Log=향상된 시스템 로그
+Minor Issues=마이너한 이슈
+File System=파일 시스템
+Drive Related=드라이브 관련
 
 ; Note: November 15, 2021 - 4 missing translations
