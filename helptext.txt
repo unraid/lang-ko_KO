@@ -1,22 +1,22 @@
 :main_array_devices_help:
-**Colored Status Indicator** the significance of the color indicator at the beginning of each line in *Array Devices* is as follows:
+**Colored Status Indicator** *Array Devices*의 각 줄 시작 부분에 있는 색상 인디케이터의 의미는 다음과 같습니다.
 
-<i class='fa fa-circle orb green-orb'></i>Normal operation, device is active.
+<i class='fa fa-circle orb green-orb'></i>정상 작동, 장치가 활성 상태입니다.
 
-<i class='fa fa-circle orb grey-orb'></i>Device is in standby mode (spun-down).
+<i class='fa fa-circle orb grey-orb'></i>장치가 대기 모드(스핀다운) 입니다.
 
-<i class='fa fa-warning orb yellow-orb'></i>Device contents emulated.
+<i class='fa fa-warning orb yellow-orb'></i>장치 내용이 에뮬레이트되었습니다.
 
-<i class='fa fa-times orb red-orb'></i>Device is disabled, contents emulated.
+<i class='fa fa-times orb red-orb'></i>장치가 비활성화되어있고 콘텐츠를 에뮬레이트합니다.
 
-<i class='fa fa-square orb blue-orb'></i>New device.
+<i class='fa fa-square orb blue-orb'></i>새로운 장치입니다.
 
-<i class='fa fa-square orb grey-orb'></i>No device present, position is empty.
+<i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
-**Identification** is the *signature* that uniquely identifies a storage device. The signature
-includes the device model number, serial number, linux device id, and the device size.
+**Identification**는 스토리지 디바이스를 고유하게 식별하는 *signature*입니다. 서명에는
+장치 모델 번호, 일련 번호, 리눅스 장치 ID 및 장치 크기가 포함됩니다.
 
-**Temp.** (temperature) is read directly from the device. You configure which units to use on
+**Temp.** (온도) 는 장치에서 직접 읽어옵니다. You configure which units to use on
 the [Display Preferences](Settings/DisplaySettings) page.  We do not read the temperature of spun-down hard
 drives since this typically causes them to spin up; instead we display the `*` symbol.  We also
 display the `*` symbol for SSD and Flash devices, though sometimes these devices do report a valid
