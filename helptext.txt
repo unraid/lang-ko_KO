@@ -13,7 +13,7 @@
 
 <i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
-**Identification**는 스토리지 디바이스를 고유하게 식별하는 *signature*입니다. 서명에는
+**Identification**는 스토리지 디바이스를 고유하게 식별하는 *서명*입니다. 서명에는
 장치 모델 번호, 일련 번호, 리눅스 장치 ID 및 장치 크기가 포함됩니다.
 
 **Temp.** (온도) 는 장치에서 직접 읽어옵니다. [Display Preferences](설정/디스플레이설정)
@@ -22,59 +22,59 @@
 SSD 및 플래시 디바이스에도 '*' 기호를 표시합니다. 이러한 디바이스에서 유효 온도를 보고하는 경우도
 있고 값 '0'을 반환하는 경우도 있습니다.
 
-**Size, Used, Free** 은 파일의 총 장치 크기, 사용된 공간 및 남은 공간을 보고합니다.  These
-units are also configured on the [Display Preferences](Settings/DisplaySettings) page.  The
-amount of space used will be non-zero even for an empty disk due to file system overhead.
+**Size, Used, Free** 은 파일의 총 장치 크기, 사용된 공간 및 남은 공간을 보고합니다.  이러한
+수치는 [Display Preferences](설정/디스플레이 설정) 페이지에서도 구성됩니다. 
+파일 시스템 오버헤드로 인해 빈 디스크의 경우에도 사용된 공간은 0이 아닙니다.
 
 *참고: 다중 장치 캐시 풀의 경우 이 데이터는 btrfs에 의해 반환되는 전체 풀에 대한 데이터입니다.*
 
 **Reads, Writes** 는 장치 I/O 드라이버로 전송된 I/O 요청 수입니다.  이러한 통계는
 언제든지 지울 수 있습니다. 아래의 배열 상태 섹션을 참조하십시오.
 
-**Errors** counts the number of *unrecoverable* errors reported by the device
-I/O drivers. Missing data due to unrecoverable array read errors is filled in on-the-fly using parity
-reconstruct (and we attempt to write this data back to the sector(s) which failed). Any unrecoverable
-write error results in *disabling* the disk.
+**Errors** 는 장치 I/O 드라이버에서 보고된 *복구할 수 없는* 오류 수를 카운트합니다.
+복구할 수 없는 Array 읽기 오류로 인한 누락 데이터는 패리티 재구성을 사용하여
+즉시 채워집니다(그리고 실패한 섹터에 이 데이터를 다시 쓰려고 시도합니다). 복구할 수 없는
+쓰기 오류가 발생하면 Disk를 *사용 안 함*으로 설정합니다.
 
-**FS** indicates the file system detected in partition 1 of the device.
+**FS**는 장치의 파티션 1에서 탐지된 파일 시스템을 나타냅니다.
 
-**View** column contains a folder icon indicating the device is *mounted*. Click the icon to
-browse the file system.
+**View** 열에 장치가 *마운트됨*을 나타내는 폴더 아이콘이 포함되어 있습니다.
+파일 시스템을 찾아보려면 아이콘을 클릭합니다.
 
-If "Display array totals" is enable on the [Display Preferences](Settings/DisplaySettings) page, a
-**Total** line is included which provides a tally of the device statistics, including the average temperature
-of your devices.
+[Display Preferences](설정/디스플레이설정) 페이지에서 "Disk array totals"를 활성화하면
+장치의 평균 온도를 포함한 장치 통계의 집계를 제공하는
+**Total** 라인이 포함됩니다.
 
-The Array must be Stopped in order to change Array device assignments.
+Array 장치 할당을 변경하려면 Array가 중지되어야 합니다.
 
-An Unraid array consists of one or two Parity disks and a number of Data disks. The Data
-disks are exclusively used to store user data, and the Parity disk(s) provides the redundancy necessary
-to recover from disk failures.
+Unraid array는 하나 또는 두 개의 패리티 디스크와 다수의 데이터 디스크로 구성됩니다.
+데이터 디스크는 사용자 데이터를 저장하는 데만 사용되며, 패리티 디스크는 디스크 장애로부터
+복구하는 데 필요한 이중화를 제공합니다.
 
-Since data is not striped across the array, the Parity disk(s) must be as large, or larger than the largest Data
-disk.  Parity should also be your highest performance drive.
+데이터가 Array 전체에서 스트라이핑되지 않으므로 패리티 디스크는 가장 큰 데이터 디스크보다 크거나 커야 합니다. 
+패리티는 또한 최고 성능의 드라이브여야 합니다.
 
-Each Data disk has its own file system and can be exported as a
-separate share.
+각 데이터 디스크에는 고유한 파일 시스템이 있으며 개별 공유로
+내보낼 수 있습니다.
 
-Click on the Device name to configure individual device settings and launch certain utilities.
+장치 이름을 클릭하여 개별 장치 설정을 구성하고 특정 유틸리티를 실행합니다.
 :end
 
 :main_slots_help:
-**Slots** select the number of device slots in your server designated for Array devices.
-The minimum number of Array slots is 2, and you must have at least one device assigned to the array.
+**슬롯** Array 디바이스용으로 지정된 서버의 디바이스 슬롯 수를 선택합니다.
+어레이 슬롯의 최소 수는 2이며 Array에 할당된 디바이스가 하나 이상 있어야 합니다.
 :end
 
 :cache_devices_help:
 **Colored Status Indicator** the significance of the color indicator at the beginning of each line in *Pool Devices* is as follows:
 
-<i class='fa fa-circle orb green-orb'></i>Normal operation, device is active.
+<i class='fa fa-circle orb green-orb'></i>정상 작동, 장치가 활성 상태입니다.
 
-<i class='fa fa-circle orb grey-orb'></i>Device is in standby mode (spun-down).
+<i class='fa fa-circle orb grey-orb'></i>장치가 대기 모드(스핀다운) 입니다.
 
-<i class='fa fa-square orb blue-orb'></i>New device.
+<i class='fa fa-square orb blue-orb'></i>새로운 장치입니다.
 
-<i class='fa fa-square orb grey-orb'></i>No device present, position is empty.
+<i class='fa fa-square orb grey-orb'></i>장치가 없습니다. 위치가 비어 있습니다.
 
 **Pool Devices** is a single device, or pool of multiple devices, *outside* the Unraid array.  It may be exported for network access just
 like an Array device.  Being outside the Unraid array results in significantly faster write access.
