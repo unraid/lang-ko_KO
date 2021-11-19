@@ -16,20 +16,20 @@
 **Identification**는 스토리지 디바이스를 고유하게 식별하는 *signature*입니다. 서명에는
 장치 모델 번호, 일련 번호, 리눅스 장치 ID 및 장치 크기가 포함됩니다.
 
-**Temp.** (온도) 는 장치에서 직접 읽어옵니다. You configure which units to use on
-the [Display Preferences](Settings/DisplaySettings) page.  We do not read the temperature of spun-down hard
-drives since this typically causes them to spin up; instead we display the `*` symbol.  We also
-display the `*` symbol for SSD and Flash devices, though sometimes these devices do report a valid
-temperature, and sometimes they return the value `0`.
+**Temp.** (온도) 는 장치에서 직접 읽어옵니다. [Display Preferences](설정/디스플레이설정)
+페이지에서 사용할 단위를 구성할 수 있습니다.  스핀다운된 하드 드라이브의 온도는 읽지 않습니다.
+일반적으로 다시 스핀업되기 때문입니다.; 대신 `*` 기호를 표시합니다.  또한
+SSD 및 플래시 디바이스에도 '*' 기호를 표시합니다. 이러한 디바이스에서 유효 온도를 보고하는 경우도
+있고 값 '0'을 반환하는 경우도 있습니다.
 
-**Size, Used, Free** reports the total device size, used space, and remaining space for files.  These
+**Size, Used, Free** 은 파일의 총 장치 크기, 사용된 공간 및 남은 공간을 보고합니다.  These
 units are also configured on the [Display Preferences](Settings/DisplaySettings) page.  The
 amount of space used will be non-zero even for an empty disk due to file system overhead.
 
-*Note: for a multi-device cache pool, this data is for the entire pool as returned by btrfs.*
+*참고: 다중 장치 캐시 풀의 경우 이 데이터는 btrfs에 의해 반환되는 전체 풀에 대한 데이터입니다.*
 
-**Reads, Writes** are a count of I/O requests sent to the device I/O drivers.  These statistics may
-be cleared at any time, refer to the Array Status section below.
+**Reads, Writes** 는 장치 I/O 드라이버로 전송된 I/O 요청 수입니다.  이러한 통계는
+언제든지 지울 수 있습니다. 아래의 배열 상태 섹션을 참조하십시오.
 
 **Errors** counts the number of *unrecoverable* errors reported by the device
 I/O drivers. Missing data due to unrecoverable array read errors is filled in on-the-fly using parity
