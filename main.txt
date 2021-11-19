@@ -305,7 +305,7 @@ Writes=쓰기
 Wrong key=잘못된 키
 xfs_repair status=xfs_repair 상태
 You may not add new disks and also remove existing disks=새 디스크를 추가하거나 기존 디스크를 제거하지 마세요
-your server=귀하의 서버
+your server=서버
 
 ; Sleep plugin translations
 Check this=자세한 내용은 이
