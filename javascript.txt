@@ -55,7 +55,7 @@ Starting services=서비스 시작 중
 Stopping services=서비스 중지 중
 Unmounting disks=디스크들 언마운트 중 
 Autostart disabled=자동 시작 비활성화됨
-Missing encryption key=암호화 키 사라짐
+Missing encryption key=암호화 키 누락됨
 Opening encrypted volumes=암호화된 볼륨 여는 중
 
 ; docker variables
