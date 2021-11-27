@@ -291,6 +291,7 @@ Registration=등록
 reiserfs=reiserfs
 Release Notes=릴리즈 노트
 Remove=삭제
+Rename=이름 변경
 Renew=갱신
 Reset=리셋
 Restart=다시 시작

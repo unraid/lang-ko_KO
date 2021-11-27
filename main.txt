@@ -175,7 +175,6 @@ registration key=등록 키
 Registration Key Manager=등록 키 관리자
 reiserfsck status=reiserfsck 상태
 Rename Pool=풀 이름 변경
-Rename=이름 변경
 Repair corrupted blocks=손상된 블록 복구
 Replacement disk installed=교체 디스크 설치됨
 Replacement disk is too small=교체 디스크가 너무 작습니다
