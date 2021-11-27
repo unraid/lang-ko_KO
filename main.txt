@@ -74,7 +74,6 @@ Dual parity valid requires ALL disks in their original slots=*듀얼 패리티*�
 Elapsed time=소요된 시간
 Enable user share assignment=유저 공유 지정 활성화
 enter disk index and device name as applicable to your controller=귀하의 컨트롤러에 맞는 디스크 인덱스와 장치 이름을 입력하세요
-Erase=지우기
 Erase Device Content=장치 콘텐츠 지우기
 encrypted=암호화됨
 Encryption input=암호화 입력

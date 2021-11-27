@@ -112,6 +112,7 @@ emulated=에뮬레이트됨
 Enabled=활성화됨
 enabled=활성화됨
 Encrypted and unlocked=암호화 되었고 잠금 풀림
+Erase=지우기
 Error code=오류 코드
 Error=오류
 error=오류
