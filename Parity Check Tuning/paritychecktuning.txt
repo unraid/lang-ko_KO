@@ -20,7 +20,6 @@ High disk temperatures can shutdown server=디스크 온도가 높을 경우 서
 Increment frequency=빈도 증가
 Increment pause time=일시정지 시간 증가
 Increment resume time=재개 시간 증가
-menual=수동
 No parity check entries found in syslog=syslog에 패리티 검사 항목이 없습니다.
 ParityRead-Check History=Parity/Read-Check History=패리티/읽기 검사 기록
 Parity Check=패리티 확인
