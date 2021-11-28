@@ -1,22 +1,24 @@
-Program=
-Kill Process=
-Process ID=
-Open Files=
-Files that may prevent shutdown=
-File Name and Path=
-An entry for bash means you have a terminal session open with the working directory on the array=
-If smbd is listed, it means that another computer has a samba share mounted=
-Files open by Samba usually wont prevent array shutdown=
-No open files=
-Kill=
-Command timed out=
-Cannot get list of open files=
+Process=프로세스
+Kill Process=프로세스 종료하기
+Process ID=프로세스 ID
+Open Files=파일 열기
+Files that may prevent shutdown=종료를 방해할 수 있는 파일
+File Name and Path=파일 이름 및 경로
+An entry for bash means you have a terminal session open with the working directory on the array=bash에 대한 항목은 Array의 작업 디렉토리로 터미널 세션이 열려 있음을 의미합니다.
+If smbd is listed, it means that another computer has a samba share mounted=smbd가 나열되면 다른 컴퓨터에 samba 공유가 마운트되어 있음을 의미합니다.
+Files open by Samba usually wont prevent array shutdown=Samba에서 열린 파일은 일반적으로 어레이 종료를 방해하지 않습니다.
+No open files=열린 파일 없음
+Kill=종료하기
+Command timed out=명령 시간 초과
+Cannot get list of open files=열린 파일 목록을 가져올 수 없습니다.
 ;
 ; Help
 ;
 :open_files_help_plug:
-> Click on the 'Kill' button to stop the process that is holding the files open.
->  A dialog box will open showing you the progress of killing the process holding those files open.
+> 파일을 열어두고 있는 프로세스를 중지하려면 '종료하기' 버튼을 클릭하십시오.
+>  해당 파일이 열려 있는 상태에서 프로세스를 종료하는 진행률을 보여주는 대화 상자가 열립니다.
 >
->Click on 'Program', Process ID', or 'File Name and Path' to change the sort order.
+>'프로그램', 프로세스 ID' 또는 '파일 이름 및 경로'를 클릭하여 정렬 순서를 변경합니다.
 :end
+
+; Note: November 15, 2021 - 13 missing translations

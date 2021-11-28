@@ -1,14 +1,15 @@
-also remove image=이미지도 지우기
+also remove image=이미지도 제거
 Apply=적용
 Are you sure=확실합니까?
 Cancel=취소
 checking=검사 중
-Completely REMOVE=완전히 지우기
+Completely REMOVE=디스크 이미지 및 정의 
 Console=콘솔
 day=일
 days=일
-disk image and definition=디스크 이미지 및 정의
-Disks=디스크들
+disk image and definition=이(가) 완전히 제거됩니다.
+Disks=디스크 제거
+Donate=기부하기
 Done=완료
 Edit=편집
 Execution error=실행 오류
@@ -16,16 +17,17 @@ Force Stop=강제 정지
 Hibernate=최대 절전
 Log for=다음 로그:
 log=로그
-Logs=로그들
+Logs=로그
 More Info=더 많은 정보
-No=아니오
+No=아니요
 OK=예
 Ok=예
 Pause=일시정지
 Proceed=진행
 Project Page=프로젝트 페이지
-Remove container=컨테이너 제거
-Remove definition=정의 제거
+Read Me First=먼저 읽어보세요.
+Remove container=다음의 컨테이너가 제거됩니다
+Remove definition=다음의 정의가 제거됩니다: 
 Remove image=이미지 제거
 Remove VM=VM 제거
 Remove=제거
@@ -34,7 +36,7 @@ Resume=재개
 Start=시작
 Stop=정지
 Support=지원
-Update container=컨테이너 업데이트
+Update container=다음의 컨테이너가 업데이트됩니다
 Update=업데이트
 Updating all Containers=모든 컨테이너 업데이트 중
 Updating the container=컨테이너 업데이트 중
@@ -53,12 +55,14 @@ Starting services=서비스 시작 중
 Stopping services=서비스 중지 중
 Unmounting disks=디스크들 언마운트 중 
 Autostart disabled=자동 시작 비활성화됨
-Missing encryption key=암호화 키 사라짐
+Missing encryption key=암호화 키 누락됨
 Opening encrypted volumes=암호화된 볼륨 여는 중
 
-; New entries (5) - 2021-05-08
+; docker variables
 Container Path=컨테이너 경로
 Container Port=컨테이너 포트
 Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
+
+; Note: November 16, 2021 - 2 missing translations
