@@ -35,6 +35,7 @@ Restart=재시작
 Resume=재개
 Start=시작
 Stop=정지
+Sleep=절전
 Support=지원
 Update container=다음의 컨테이너가 업데이트됩니다
 Update=업데이트
