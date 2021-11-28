@@ -554,6 +554,7 @@ Shutdown VMs=VM 종료
 shutdown=시스템 종료
 Sign In to Unraidnet required=Unraid.net에의 로그인이 필요합니다.
 Simple=간단
+Sleep settings=절전 
 Small=작음
 Smart=능동
 SMB Extras=SMB 추가 기능
