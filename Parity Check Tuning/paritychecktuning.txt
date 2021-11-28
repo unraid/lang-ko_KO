@@ -43,7 +43,6 @@ Flash only=Flash
 Testing=테스트
 Unscheduled=예정에 없는 작업
 Use increments for %s %s=%s %s에 대한 증분 사용
-Use increments for manual Parity Check=수동 패리티 확인에 대한 증분 사용
 Use increments for disk Clear operations=디스크 지우기 작업에 증분 사용
 Use increments for Parity-SyncData Rebuild operations=패리티 동기화/데이터 재구축 작업에 증분 사용
 You require a parity disk present for this option to be relevant=이 옵션을 사용하려면 패리티 디스크가 있어야 합니다.
