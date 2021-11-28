@@ -431,20 +431,20 @@ Your browser has JavaScript disabled=브라우저는 JavaScript가 비활성화 
 ; Dynamix.system.button plugin
 Array busy=어레이 작동 중
 Buttons=버튼
-Parity operation or mover is running=패리티 작업 또는 무버가 작동 중
-preparing for reboot=다시 시작 준비 중
-preparing for shutdown=종료 준비 중
+Parity operation or mover is running=패리티 작업 또는 무버가 실행 중입니다
+preparing for reboot=다시 가동 준비 중
+preparing for shutdown=시스템 종료 준비 중
 Sleep=절전
 Start Array=어레이 시작
 starting the array=어레이 시작 중
 Stop Array=어레이 정지
 stopping the array=어레이 정지 중
-System in sleep mode=시스템이 절전 모드임
-This will put the system to sleep=시스템을 절전 모드로 전환 할 것입니다
-This will reboot the system=시스템을 다시 시작 할 것입니다
-This will shutdown the system=시스템을 종료 할 것입니다
-This will start the array=어레이를 시작 할 것입니다
-This will stop the array=어레이를 정지 할 것입니다
+System in sleep mode=시스템이 절전 모드 상태임
+This will put the system to sleep=시스템을 절전 모드로 전환합니다
+This will reboot the system=시스템이 다시 가동됩니다
+This will shutdown the system=시스템이 종료됩니다
+This will start the array=어레이가 시작됩니다
+This will stop the array=어레이가 정지됩니다
 
 ; UNRAID.NET / My Servers
 %s is signed in to your Unraidnet account=%s는 당신의 Unraid.net 계정으로 로그인되었습니다.
