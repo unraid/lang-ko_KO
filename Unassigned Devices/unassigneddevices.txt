@@ -56,6 +56,7 @@ Loading=불러오는 중
 Log=로그
 Mount=마운트
 Mount Point=마운트 지점
+Mount point=마운트 지점
 Mounting=마운트 중
 NFS Shares=NFS 공유
 Next=다음
