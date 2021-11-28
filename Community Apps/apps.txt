@@ -334,7 +334,7 @@ Docker Application Installation finished=도커 애플리케이션 설치 완료
 ; Application Cards
 This application is a driver plugin=이 응용 프로그램은 드라이버(플러그인)입니다.
 This is a language pack=이것은 언어 패키지입니다
-This application is a docker container=이 애플리케이션은 도커 컨테이너입니다
+This application is a docker container=이 애플리케이션은 Docker 컨테이너입니다
 This application is a plugin=이 애플리케이션은 플러그인입니다
 This is a spotlight application=이것은 스포트라이트 애플리케이션입니다
 This is your favourite repository=이것은 당신의 즐겨찾기 저장소입니다
