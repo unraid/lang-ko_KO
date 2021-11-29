@@ -1,4 +1,5 @@
 Any=임의
+menual=수동
 Daily schedule=일간 일정
 Day Date=요일 / 날짜
 Hour=시
