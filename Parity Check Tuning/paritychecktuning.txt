@@ -26,13 +26,13 @@ ParityRead-Check History=Parity/Read-Check History=패리티/읽기 검사 기�
 Parity Check=패리티 확인
 Parity Check Tuning logging=패리티 확인 동조 로그 남기기
 Parity Sync=패리티 싱크
-Pause an array operation at=Array 작업 일시 중지
-Pause and Resume array operations if disks overheat=디스크 과열 시 Array 작업 일시 중지 및 재개
+Pause an array operation at=어레이 작업 일시 중지
+Pause and Resume array operations if disks overheat=디스크 과열 시 어레이 작업 일시 중지 및 재개
 Read Check=읽기 검사
 Requires unRaid 67 or later=Requires unRaid 6.7 or later=unRaid 6.7 이상 버전이 필요합니다
 Resume an array operation at=Array 작업 재개 시점
-Resume parity checks on next array start=다음 Array 시작 시 패리티 검사 재개
-Resume running Array operations on next array start=다음 Array 시작 시 Array 작업 실행 재개
+Resume parity checks on next array start=다음 어레이 시작 시 패리티 검사 재개
+Resume running Array operations on next array start=다음 어레이 시작 시 어레이 작업 실행 재개
 Run %s %s in increments=%s %s 증분 실행
 scheduled=예약된 작업
 Send notifications for Pause or Resume of increments=일시 중지 또는 증분 재개에 대한 알림 보내기
