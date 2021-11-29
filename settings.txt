@@ -376,6 +376,7 @@ Manage=관리
 Management Access=관리 액세스
 mandatory=필수적
 Manual=수동
+menual=수동
 member of=다음 구성원에 속함:
 Metric=매트릭
 Mirror syslog to flash=syslog를 플래시로 미러링
