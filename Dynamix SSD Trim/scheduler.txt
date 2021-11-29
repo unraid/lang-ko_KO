@@ -1,4 +1,4 @@
-Any=아무
+Any=임의
 Daily schedule=일간 일정
 Day Date=요일 / 날짜
 Hour=시

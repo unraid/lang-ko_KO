@@ -1,27 +1,27 @@
 Click the 'Default' button to select the default Device Script File=
-Default=
-Delete Device Script File=
-Edit Device Script=
-Enter Device Script File Name=
+Default=기본값
+Delete Device Script File=장치 스크립트 파일 삭제
+Edit Device Script=장치 스크립트 편집
+Enter Device Script File Name=장치 스크립트 파일 이름 입력
 Enter and Edit the Device Script that runs when a udev or operator event occurs=
 Enter the User Script that will be using this device=
-Load the default Device Script=
-Delete Device Script File=
-Run in background=
-Mount Device Read only=
+Load the default Device Script=기본 장치 스크립트 불러오기
+Delete Device Script File=장치 스크립트 파일 삭제
+Run in background=백그라운드에서 실행
+Mount Device Read only=장치를 읽기 전용으로 마운트
 Mount Device when Plugged in or Array is Started=
 Mount ISO File when Array is Started=
 Mount Remote SMB or NFS Share when Array is Started=
 Run Device Script File in the background=
 Save your Device Script File changes=
-Save=
-Script content=
+Save=저장
+Script content=스크립트 내용
 Share Device with SMB and NFS=
 Share Remote Mount with SMB and NFS=
 Mark this Device as passed through to a VM or Docker=
 Unassigned Devices Settings=
 Undo your changes since last Save=
-Volume=
+Volume=볼륨
 ;
 ; Help
 ;
