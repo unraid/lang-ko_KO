@@ -6,6 +6,7 @@
 
 Parity Check Tuning=패리티 확인 동조
 automatic=자동
+menual=수동
 Basic=기본
 below critical disk temperature threshold=심각한 디스크 온도 임계값 미만
 below warning disk temperature threshold=위험한 디스크 온도 역치값 미만
