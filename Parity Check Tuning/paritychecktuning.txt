@@ -6,9 +6,10 @@
 
 Parity Check Tuning=패리티 확인 동조
 automatic=자동
+manual=수동
 Basic=기본
 below critical disk temperature threshold=심각한 디스크 온도 임계값 미만
-below warning disk temperature threshold=위험한 디스크 온도 역치값 미만
+below warning disk temperature threshold=위험한 디스크 온도 임계값 미만
 CAUTION=주의
 Click to show parity-check history=패리티 검사 기록을 보려면 클릭하십시오.
 Data Rebuild=데이터 재구성
@@ -25,23 +26,23 @@ ParityRead-Check History=Parity/Read-Check History=패리티/읽기 검사 기�
 Parity Check=패리티 확인
 Parity Check Tuning logging=패리티 확인 동조 로그 남기기
 Parity Sync=패리티 싱크
-Pause an array operation at=Array 작업 일시 중지
-Pause and Resume array operations if disks overheat=디스크 과열 시 Array 작업 일시 중지 및 재개
+Pause an array operation at=어레이 작업 일시 중지
+Pause and Resume array operations if disks overheat=디스크 과열 시 어레이 작업 일시 중지 및 재개
 Read Check=읽기 검사
 Requires unRaid 67 or later=Requires unRaid 6.7 or later=unRaid 6.7 이상 버전이 필요합니다
 Resume an array operation at=Array 작업 재개 시점
-Resume parity checks on next array start=다음 Array 시작 시 패리티 검사 재개
-Resume running Array operations on next array start=다음 Array 시작 시 Array 작업 실행 재개
+Resume parity checks on next array start=다음 어레이 시작 시 패리티 검사 재개
+Resume running Array operations on next array start=다음 어레이 시작 시 어레이 작업 실행 재개
 Run %s %s in increments=%s %s 증분 실행
-scheduled=예정된 작업
+scheduled=예약된 작업
 Send notifications for Pause or Resume of increments=일시 중지 또는 증분 재개에 대한 알림 보내기
 Send notifications for temperature related Pause or Resume=온도 관련 일시 중지 또는 재개에 대한 알림 보내기
 Shutdown server at=서버 종료 시점
-Syslog only=Syslog 만
-Syslog and Flash=Syslog와 Flash
-Flash only=Flash
+Syslog only=Syslog만
+Syslog and Flash=Syslog 및 Flash
+Flash only=Flash만
 Testing=테스트
-Unscheduled=예정에 없는 작업
+Unscheduled=예약되지 않은 작업
 Use increments for %s %s=%s %s에 대한 증분 사용
 Use increments for disk Clear operations=디스크 지우기 작업에 증분 사용
 Use increments for Parity-SyncData Rebuild operations=패리티 동기화/데이터 재구축 작업에 증분 사용
@@ -177,8 +178,8 @@ Only able to start a Read-Check due to number of disabled drives=
 
 appears to be a regular scheduled check=
 %s cancel request sent %s=
-already running=
-array drives=
+already running=어레이 실행 중
+array drives=어레이 장치
 Array operation paused but drives not cooled enough to resume=
 Array operation paused but not for temperature related reason=
 Array stopping=
