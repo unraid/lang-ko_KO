@@ -34,6 +34,7 @@ Array Starting=어레이 시작 중
 Array Stopped=어레이 정지됨
 Array Stopping=어레이 정지 중
 Array=어레이
+array=어레이
 Attributes=속성
 Auto=자동
 Automatic=자동
