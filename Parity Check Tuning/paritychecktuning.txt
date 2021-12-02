@@ -30,7 +30,7 @@ Pause an array operation at=어레이 작업 일시 중지
 Pause and Resume array operations if disks overheat=디스크 과열 시 어레이 작업 일시 중지 및 재개
 Read Check=읽기 검사
 Requires unRaid 67 or later=Requires unRaid 6.7 or later=unRaid 6.7 이상 버전이 필요합니다
-Resume an array operation at=Array 작업 재개 시점
+Resume an array operation at=어레이 작업 재개 시점
 Resume parity checks on next array start=다음 어레이 시작 시 패리티 검사 재개
 Resume running Array operations on next array start=다음 어레이 시작 시 어레이 작업 실행 재개
 Run %s %s in increments=%s %s 증분 실행
