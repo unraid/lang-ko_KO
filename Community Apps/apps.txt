@@ -364,7 +364,7 @@ NOTE You must visit the dockerHub page to gather the information required to ins
 Show CA templates=CA 템플릿 표시
 
 Info=정보
-Attention=집중
+Attention=중요 사항
 Repository=저장소
 Why we picked it=우리가 그것을 선택한 이유
 Application Spotlight %s=애플리케이션 스포트라이트 %s

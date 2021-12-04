@@ -40,7 +40,7 @@ Go to network settings=네트워크 설정으로 이동
 Go to scheduler settings=스케줄러 설정으로 이동
 Go to Share settings=공유 설정으로 이동
 Go to UPS settings=UPS 설정으로 이동
-Go to User settings=유저 설정으로 이동
+Go to User settings=사용자 설정으로 이동
 Go to VM settings=VM 설정으로 이동
 Go to VPN settings=VPN 설정으로 이동
 Handshake=핸드세이크
@@ -106,7 +106,11 @@ Transmitted packets=송신된 패킷
 UPS Load=UPS 부하
 UPS status=UPS 상태
 Usable size=사용 가능한 용량
+<<<<<<< HEAD
 User count %s with %s unprotected=사용자 수: %s명, 미보호됨: %s명
+=======
+User count %s with %s unprotected=사용자 수: %s명, 보호되지 않음: %s명 
+>>>>>>> 25e04678013b40c3e24c2d8a19a5d98b11252914
 utilization warning=사용량 경고
 View Running Processes=실행중인 프로세스 보기
 Virtual Machines=가상 머신
