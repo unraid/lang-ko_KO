@@ -70,7 +70,6 @@ btrfs scrub status=BTRFS 스크럽 상태
 btrfs vDisk=BTRFS vDisk
 Cache disk not enabled=캐시 디스크 활성화 안 됨
 Cache Settings=캐시 설정
-Cancel=취소
 Cannot provision cert that would overwrite your existing custom cert at=다음과 같이 기존 사용자 지정 인증서를 덮어쓰는 인증서를 프로비저닝할 수 없습니다
 Cannot renew cert until within 30 days of expiry=만료 후 30일 이내에 인증서를 갱신할 수 없습니다
 CA-signed certificate file=CA 서명된 인증서 파일
