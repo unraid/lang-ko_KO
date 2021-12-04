@@ -505,7 +505,7 @@ Refreshing=새로 고침 중
 Registration key required=등록 키 필요
 Reinitialize=재초기화
 Reinitializing=재초기화 중
-Remark configure your router with port forwarding of port=주석: 포트의 포트 포워딩으로 라우터 구성
+Remark configure your router with port forwarding of port=주석: 포트의 포트 포워딩으로 라우터 구성 = 
 Remark=주석
 Remote access to LAN=LAN에 원격 액세스
 Remote access to server=서버에 원격 액세스
@@ -610,7 +610,7 @@ Time zone=시간대
 time-out=시간 초과
 Timestamp=타임스탬프
 TLS certificate location=TLS 인증서 위치
-to=에서
+to= → 
 Toggle keys=키 전환
 Toggle thread to containers=스레드를 컨테이너로 전환
 Toggle view=보기 전환
