@@ -7,17 +7,17 @@ Minute=분
 Monthly schedule=월간 일정
 Scheduled Tasks=일정 작업
 Weekly schedule=주간 일정
-Day of the month=
-Day of the week=
-Every 2 hours=
-Every 3 hours=
-Every 4 hours=
-Every 6 hours=
-Every 8 hours=
-Every hour=
+Day of the month=요일
+Day of the week=주일
+Every 2 hours=매 2시간
+Every 3 hours=매 3시간
+Every 4 hours=매 4시간
+Every 6 hours=매 6시간
+Every 8 hours=매 8시간
+Every hour=매시간
 HHMM=HH:MM
 SSD TRIM schedule=SSD TRIM 일정
-Time of the day=
+Time of the day=시간
 
 :trim_schedule_plug:
 > Choose a trim schedule ranging from hourly, daily, weekly and monthly.
