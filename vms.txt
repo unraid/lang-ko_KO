@@ -2,7 +2,7 @@
 30 nec XHCI=3.0 (nec XHCI)
 30 qemu XHCI=3.0 (qemu XHCI)
 Allocation=할당
-and if using graphics device passthrough it too needs UEFI=그리고 그래픽 장치 패스스루를 사용한다면 이것도 UEFI가 필요합니다
+and if using graphics device passthrough it too needs UEFI=그리고 그래픽 장치 패스스루를 사용하는 경우에도 역시 UEFI가 필요합니다
 Are you sure=확실합니까
 Array must be started to view Virtual Machines=가상 머신을 보기 위해선 어레이가 **시작**되어야 합니다
 Autostart=자동 시작
@@ -55,7 +55,7 @@ Logical CPUs=논리 CPU
 Machine=머신
 Manual=수동
 Max=최대
-MD5 verification failed, your download is incomplete or corrupted=MD5 검증이 실패했습니다. 귀하의 다운로드는 완료되지 않았거나 손상되었습니다
+MD5 verification failed, your download is incomplete or corrupted=MD5 검증이 실패했습니다. 다운로드가 완료되지 않았거나 손상되었을 수 있습니다
 mount tag inside vm=vm 내부 마운트 태그
 My Workstation=내 워크스테이션
 name of mount tag inside vm=vm 내부 마운트 태그 이름
