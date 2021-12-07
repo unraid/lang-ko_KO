@@ -4,7 +4,7 @@
 24 hours=24시간제
 8023ad=802.3ad
 Activate=활성화
-Activated=활성화 됨
+Activated=활성화됨
 Activating=활성화 중
 Active Directory Settings=Active Directory 설정
 Active Directory=Active Directory
@@ -130,7 +130,7 @@ Data sent=데이터 송신됨
 Date and Time=날짜 및 시간
 Date format=날짜 형식
 Day of the month=요일
-Day of the week=주간
+Day of the week=주일
 Day, D Month YYYY=
 Day, DD.MM.YYYY=
 Day, DD-MM-YYYY=

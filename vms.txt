@@ -2,7 +2,7 @@
 30 nec XHCI=3.0 (nec XHCI)
 30 qemu XHCI=3.0 (qemu XHCI)
 Allocation=할당
-and if using graphics device passthrough it too needs UEFI=그리고 그래픽 장치 패스스루를 사용한다면 이것도 UEFI가 필요합니다
+and if using graphics device passthrough it too needs UEFI=그리고 그래픽 장치 패스스루를 사용하는 경우에도 UEFI가 필요합니다
 Are you sure=확실합니까
 Array must be started to view Virtual Machines=가상 머신을 보기 위해선 어레이가 **시작**되어야 합니다
 Autostart=자동 시작
@@ -121,7 +121,7 @@ vDisk Location=vDisk 경로
 vDisk Size=vDisk 용량
 vDisk Type=vDisk 종류
 vDisks=vDisk
-Verifying=검증중
+Verifying=검증 중
 video for VNC=VNC를 위한 비디오
 VirtIO Drivers CDRom Bus=VirtIO 드라이버 CDRom 버스
 VirtIO Drivers ISO=VirtIO 드라이버 ISO

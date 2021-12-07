@@ -1,10 +1,10 @@
-Current date and time=
-Hide map=
-New date and time=
-NTP server=
-Show map=
-Time zone=
-Use NTP=
+Current date and time=현재 날짜 및 시간
+Hide map=맵 숨기기
+New date and time=새로운 날짜 및 시간
+NTP server=NTP 서버
+Show map=맵 보여주기
+Time zone=시간대
+Use NTP=NTP 사용
 
 :timezone_plug:
 > Select your applicable time zone from the drop-down list.
