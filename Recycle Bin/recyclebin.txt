@@ -1,11 +1,11 @@
 Age Days=보관된 기간
 Array=어레이
-Array is stopped=Array가 중지되었습니다
+Array is stopped=어레이가 중지되었습니다
 Browse the Share Recycle Bin=공유 휴지통 찾아보기
 Deleted Files=삭제된 파일
 Deleted Files Log=삭제된 파일 로그
 Empty=비어있음
-Empty the=비우다
+Empty the=다음에서 비움:
 Empty All Trash=휴지통을 시작하고 중지하면 SMB 공유가 잠시 동안 오프라인 상태가 될 수 있습니다.
 Empty Trash=휴지통 파일 비우기
 Enable on Unassigned Devices=할당되지 않은 장치에서 활성화
