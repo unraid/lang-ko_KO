@@ -1,5 +1,5 @@
 Age Days=보관된 기간
-Array=Array
+Array=어레이
 Array is stopped=Array가 중지되었습니다
 Browse the Share Recycle Bin=공유 휴지통 찾아보기
 Deleted Files=삭제된 파일
@@ -19,7 +19,7 @@ Recycle Bin Log=휴지통 로그
 Recycle Bin parameters=휴지통 파라미터
 Recycle Bin permissions=휴지통 퍼미션
 Recycle Bin Total Size=휴지통 용량
-Refresh the Recycle Bin page=
+Refresh the Recycle Bin page=휴지통 페이지 새로 고침
 Remove Aged Files=오래된 파일 삭제
 Remove aged files from the Recycle Bin=휴지통에서 오래된 파일 삭제
 Remove Aged Files Notification=오래된 파일 삭제 알림
