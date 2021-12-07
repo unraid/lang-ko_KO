@@ -4,7 +4,7 @@
 24 hours=24시간제
 8023ad=802.3ad
 Activate=활성화
-Activated=활성화 됨
+Activated=활성화됨
 Activating=활성화 중
 Active Directory Settings=Active Directory 설정
 Active Directory=Active Directory
