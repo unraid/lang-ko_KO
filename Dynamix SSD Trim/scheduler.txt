@@ -1,14 +1,14 @@
 Any=임의
 Daily schedule=일간 일정
-Day Date=요일 / 날짜
+Day Date=일자 / 날짜
 Hour=시
 Hourly schedule=시간 일정
 Minute=분
 Monthly schedule=월간 일정
 Scheduled Tasks=일정 작업
 Weekly schedule=주간 일정
-Day of the month=요일
-Day of the week=주일
+Day of the month=일(월내)
+Day of the week=요일
 Every 2 hours=매 2시간
 Every 3 hours=매 3시간
 Every 4 hours=매 4시간
