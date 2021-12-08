@@ -1,6 +1,6 @@
 Any=임의
 Daily schedule=일간 일정
-Day Date=요일 / 날짜
+Day Date=일자 / 날짜
 Hour=시
 Hourly schedule=시간 일정
 Minute=분
