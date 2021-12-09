@@ -105,6 +105,7 @@ Show docker allocations=Docker 할당 보이기
 Show more settings=추가 설정 보이기
 Stable=안정
 Start All=모두 시작
+Start Container After Install=설치 후 컨테이너 시작
 starting up containers=컨테이너 시작하는 중
 Stop All=모두 정지
 Stopping container=컨테이너 정지 중
