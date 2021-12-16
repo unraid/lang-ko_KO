@@ -18,5 +18,3 @@ Only enable this when advised to from the author of Community Applications=커�
 Enable developer mode=개발자 모드 활성화
 This unlocks some extra features within CA generally only used by developers Not recommended to enable=이렇게 하면 일반적으로 개발자만 사용하는 CA 내의 몇 가지 추가 기능이 잠금 해제됩니다. 활성화하지 않는 것이 좋습니다.
 Support Thread=지원 스레드
-
-; Note: November 15, 2021 - 20 missing translations

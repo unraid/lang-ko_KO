@@ -6,7 +6,7 @@ Clear the File Activity log=파일 활동 로그 삭제
 Refresh log=로그 새로고침
 Enable File Activity Monitoring=파일 활동 모니터링 활성화
 Enable for Unassigned Devices=할당되지 않은 장치에서 활성화
-Enable for Cache and Pool=캐시 및 풀에 대해 활성화
+Enable for Cache and Pool Disks=
 ;
 ; Help
 ;
@@ -38,4 +38,4 @@ Enable for Cache and Pool=캐시 및 풀에 대해 활성화
 	> **디스크**로 설정하여 디스크 활동을 기록합니다. 공유 활동을 기록하려면 **공유**로 설정합니다.
 :end
 
-; Note: November 15, 2021 - 9 missing translations
+; Note: December 16, 2021 - 1 missing translations

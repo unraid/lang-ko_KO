@@ -31,3 +31,5 @@ Total Array Size=
 Total Space Used=
 Used for Parity=
 utilization in percentage=
+
+; Note: December 16, 2021 - 31 missing translations

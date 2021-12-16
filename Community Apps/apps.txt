@@ -125,6 +125,7 @@ Fatal Flash Drive Error=치명적인 플래시 드라이브 오류
 This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=이는 일반적으로 플래시 드라이브가 손상되었거나 오프라인 상태로 전환됨을 의미합니다. Unraid GUI의 나머지 부분도 영향을 받습니다. 이 오류가 계속되면 Unraid 포럼에 새 스레드를 게시하세요.
 Fatal Docker Image Error=치명적 도커 이미지 오류
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=도커 이미지 또는 폴더가 읽기 전용이거나 완전히 꽉 찼습니다. 이로 인해 문제가 발생합니다. Unraid 포럼에 새 게시물을 만들고 진단사항을 포함해야 합니다.
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=
 
 ; CA Sections Keep the length reasonable
 Installed Apps=설치된 앱
@@ -200,7 +201,7 @@ These apps have the highest percentage of new installs=이 앱들은 신규 설�
 An assortment of randomly chosen apps=무작위로 선택된 앱 모음입니다.
 
 ; Categories try not to be excessively long This is displayed on the left of CA screen
-Home=홈
+
 Backup=백업
 Cloud=클라우드
 Crypto Currency=가상화폐
@@ -265,9 +266,9 @@ OtherUncategorized=기타:미분류
 and %s more=그리고 %s개 이상
 
 ; App Popup Related
-This application template has been blacklisted=이 애플리케이션/템플릿은 블랙리스트에 있습니다.
-This application template has been deprecated=이 애플리케이션/템플릿은 더 이상 사용되지 않습니다.
-This application has additional requirements=이 애플리케이션에는 추가 요구 사항이 있습니다
+This application template has been blacklisted=이 애플리케이션 템플릿은 블랙리스트에 있습니다.
+This application template has been deprecated=이 애플리케이션 템플릿은 더 이상 사용되지 않습니다.
+This application has additional requirements=이 응용 프로그램에는 추가 요구 사항이 있습니다.
 Additional Requirements=추가 요구 사항
 Donate To Author=저작자에게 기부
 Donate To Maintainer=유지 보수자에게 기부
@@ -362,6 +363,9 @@ This container is digitally signed=이 컨테이너는 디지털 서명되었습
 Docker Hub=도커허브
 NOTE You must visit the dockerHub page to gather the information required to install correctly=참조 올바르게 설치하는 데 필요한 정보를 수집하려면 dockerHub 페이지를 방문해야 합니다.
 Show CA templates=CA 템플릿 표시
+Deprecated=
+Incompatible=
+Blacklisted=
 
 Info=정보
 Attention=중요 사항
@@ -388,4 +392,4 @@ View Missing Translations=누락된 번역 보기
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 애플리케이션** 플러그인을 다운로드하고 설치합니다
 
-; Note: November 15, 2021 - 143 missing translations
+; Note: December 16, 2021 - 5 missing translations

@@ -20,5 +20,3 @@ Cannot get list of open files=열린 파일 목록을 가져올 수 없습니다
 >
 >'프로그램', 프로세스 ID' 또는 '파일 이름 및 경로'를 클릭하여 정렬 순서를 변경합니다.
 :end
-
-; Note: November 15, 2021 - 13 missing translations

@@ -17,5 +17,3 @@ Docker Must Be Enabled For This Module To Operate=이 모듈이 작동하려면 
 Time to wait for graceful stop before killing=강제 종료 전에 정상 정지를 기다리는 시간
 Update All Docker Applications=모든 Docker 어플리케이션 업데이트
 Do not overlap with autoupdate=자동 업데이트와 겹치지 않음
-
-; Note: November 15, 2021 - 2 missing translations

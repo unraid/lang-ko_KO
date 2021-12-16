@@ -84,3 +84,5 @@ Viewable system graphs=
 :end
 
 
+
+; Note: December 16, 2021 - 39 missing translations

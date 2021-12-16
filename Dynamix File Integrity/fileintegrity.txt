@@ -62,7 +62,6 @@ When parity operation is running=
 > The area selection can be filtered by excluding folders (shares) and/or excluding disks all together (see table below).
 >
 > When the automatic hashing is disabled then manual control is required to keep information up-to-date.
-
 :integrity_hashing_plug:
 > Select the preferred hashing method. SHA2 generates a 256 bits checksum value, MD5 generates a 128 bits checksum value, while BLAKE2 generates a 512 bits checksum value per file.
 >
@@ -131,3 +130,5 @@ When parity operation is running=
 > Error logging, including file corruption detection information can be given in the system log, or saved as a file on flash.
 > Disabling error logging will suppress log creation, but it is still possible to receive notifications.
 :end
+
+; Note: December 16, 2021 - 63 missing translations

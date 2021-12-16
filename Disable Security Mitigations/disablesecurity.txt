@@ -9,5 +9,3 @@ Disable Security Mitigations A Reboot Is Required For Changes To Take Effect=보
 A Reboot Is Required For Changes To Take Effect=변경 내용을 적용하려면 재부팅이 필요합니다.
 Mitigations will be enabled after a reboot=재부팅 후 완화 기능이 사용되도록 설정됩니다.
 Mitigations will be disabled after a reboot=재부팅 후 완화 기능이 사용되지 않도록 설정됩니다.
-
-; Note: November 15, 2021 - 11 missing translations

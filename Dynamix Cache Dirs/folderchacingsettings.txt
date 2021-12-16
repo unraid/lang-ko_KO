@@ -140,3 +140,5 @@ User defined options=
 >
 > Note that the single quotes around argument to -a is important. Double-quotes do not work in the current version, so unfortunately its not currently possible to filter with '-name "*Old" -prune'.
 :end
+
+; Note: December 16, 2021 - 23 missing translations

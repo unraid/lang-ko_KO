@@ -3,3 +3,5 @@ P + Q algorithm=
 System Overview=
 Unraid server=
 Unraid system=
+
+; Note: December 16, 2021 - 5 missing translations
