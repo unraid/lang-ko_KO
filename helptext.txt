@@ -110,15 +110,15 @@ it may only be exported using SMB protocol.
 :end
 
 :array_status_help:
-**Colored Status Indicator** the significance of the color indicator of the *Array* is as follows:
+**색상 상태 표시기** *어레이*의 색상 표시기의 의미는 다음과 같습니다.
 
-<i class='fa fa-circle orb green-orb'></i>Array is Started and Parity is valid.
+<i class='fa fa-circle orb green-orb'></i>어레이가 시작되었으며 패리티가 유효합니다.
 
-<i class='fa fa-circle orb grey-orb'></i>Array is Stopped, Parity is valid.
+<i class='fa fa-circle orb grey-orb'></i>어레이가 정지되었습니다. 패리티는 유효합니다.
 
-<i class='fa fa-warning orb yellow-orb'></i>Array is Started, but Parity is invalid.
+<i class='fa fa-warning orb yellow-orb'></i>어레이가 시작되었지만, 패리티는 유효하지 않습니다.
 
-<i class='fa fa-warning orb grey-orb'></i>Array is Stopped, Parity is invalid.
+<i class='fa fa-warning orb grey-orb'></i>어레이가 정지되었습니다. 패리티는 유효하지 않습니다.
 
 :end
 
