@@ -117,10 +117,9 @@ You must enable NFS in Settings->NFS to mount NFS shares=NFS 공유를 마운트
 You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트하려면 설정->SMB에서 SMB를 활성화해야 합니다
 You must enable the Destructive Mode in UD Settings before you can Format this disk=이 디스크를 포맷하기 전에 UD 설정에서 파괴 모드를 활성화해야 합니다
 WARNING=경고
+Writes=쓰기
 You WILL have problems if you do=다음과 같은 문제가 발생될 수 있습니다
 You will need to enter credentials for Windows 10 shares just to list them=Windows 10 공유를 나열하려면 자격 증명을 입력해야 합니다
-
-Writes
 
 ; Help
 ;
