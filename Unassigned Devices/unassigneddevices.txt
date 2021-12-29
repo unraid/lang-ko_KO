@@ -57,6 +57,7 @@ Loading=불러오는 중
 Log=로그
 Mount=마운트
 Mounting=마운트 중
+Mount point=마운트 지점
 NFS Shares=NFS 공유
 Next=다음
 No Remote SMB=구성된 원격 SMB
