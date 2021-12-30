@@ -714,6 +714,6 @@ YYYY-MM-DD=
 ; Note: November 16, 2021 - 36 missing translations
 
 ; New entries (3) - 2021-12-16
-Accumulation duration=
-Accumulation frequency=
-Cumulative parity check=
+Accumulation duration=누적 기간
+Accumulation frequency=누적 빈도
+Cumulative parity check=누적 패리티 검사
