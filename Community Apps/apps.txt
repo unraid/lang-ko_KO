@@ -73,7 +73,7 @@ Discord=디스코드
 Search Apps=앱 검색
 Registry=레지스트리
 Details=상세
-Added=
+Added=추가됨
 ; Install Plugin title of openbox
 Install Plugin=플러그인 설치
 BACK=돌아가기
@@ -125,7 +125,7 @@ Fatal Flash Drive Error=치명적인 플래시 드라이브 오류
 This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=이는 일반적으로 플래시 드라이브가 손상되었거나 오프라인 상태로 전환됨을 의미합니다. Unraid GUI의 나머지 부분도 영향을 받습니다. 이 오류가 계속되면 Unraid 포럼에 새 스레드를 게시하세요.
 Fatal Docker Image Error=치명적 도커 이미지 오류
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=도커 이미지 또는 폴더가 읽기 전용이거나 완전히 꽉 찼습니다. 이로 인해 문제가 발생합니다. Unraid 포럼에 새 게시물을 만들고 진단사항을 포함해야 합니다.
-This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=이 템플릿은 사용자 지정 네트워크를 사용하도록 설정되어 있습니다. 시스템과 일치하도록 네트워크 또는 IP 주소 등을 조정해야 할 수 있습니다.
 
 ; CA Sections Keep the length reasonable
 Home=홈
@@ -364,16 +364,16 @@ This container is digitally signed=이 컨테이너는 디지털 서명되었습
 Docker Hub=도커허브
 NOTE You must visit the dockerHub page to gather the information required to install correctly=참조 올바르게 설치하는 데 필요한 정보를 수집하려면 dockerHub 페이지를 방문해야 합니다.
 Show CA templates=CA 템플릿 표시
-Deprecated=
-Incompatible=
-Blacklisted=
+Deprecated=지원 중단됨
+Incompatible=호환되지 않음
+Blacklisted=블랙리스트에 등재됨
 
 Info=정보
 Attention=중요 사항
 Repository=저장소
 Why we picked it=우리가 그것을 선택한 이유
 Application Spotlight %s=애플리케이션 스포트라이트 %s
-Unraid Staff=Unraid Staff
+Unraid Staff=Unraid 스태프
 
 ; Page Navigation
 Displaying %s - %s of %s=%1$s - %2$s(%3$s에서) 표시 중
