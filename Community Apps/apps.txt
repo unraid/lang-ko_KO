@@ -128,6 +128,7 @@ Your docker image or folder is either read-only or completely full Issues will r
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=
 
 ; CA Sections Keep the length reasonable
+Home=홈
 Installed Apps=설치된 앱
 Previous Apps=이전 앱
 Pinned Apps=고정된 앱
