@@ -7,7 +7,7 @@ Please Enjoy Responsibly=책임감 있게 즐겨주세요
 Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=팝업 차단됨: CA는 특정 상황에서 팝업을 활성화해야 합니다 팝업을 허용하려면 브라우저에서 당신의 서버를 팝업 허용 목록에 추가해야 합니다
 Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=도커 서비스가 활성화되지 않음 - 플러그인만 설치 혹은 관리 가능
 Community Applications works best when cookies are enabled in your browser Certain features may not be available=커뮤니티 응용 프로그램은 브라우저에서 쿠키가 활성화되어 있을 때 가장 잘 작동합니다. 특정 기능을 사용하지 못할 수 있습니다.
-Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활성 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
+Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활동 중. 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
 Debugging enabled This significantly increases the memory used by your browser=디버깅 활성화는 브라우저에서 사용하는 메모리를 크게 증가시킵니다.
 
 ; Sorting Options
