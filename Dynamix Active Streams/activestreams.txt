@@ -1,19 +1,19 @@
-Halt=
-Host Address=
-Host=
-No active streams=
-Playtime=
-Stop stream=
-Stream=
-User Name=
-User=
+Halt=정지
+Host Address=호스트 주소
+Host=호스트
+No active streams=활동 중인 스트림 없음
+Playtime=플레이 시간
+Stop stream=스트림 정지
+Stream=스트림
+User Name=사용자 이름
+User=사용자
 
 :streams_plug:
-> Give symbolic names to IP addresses, which are displayed on the active streams page.
+> 활성 스트림 페이지에 표시되는 IP 주소에 기호 이름을 지정하세요.
 >
-> New IP addresses are automatically added to the list when detected.
+> 새 IP 주소가 감지되면 목록에 자동으로 추가됩니다.
 >
-> To remove a name association, clear the respective user name box and press apply.
+> 이름 연결을 제거하려면 해당 사용자 이름 상자를 지우고 적용을 누르세요.
 :end
 
 ; Note: December 16, 2021 - 9 missing translations
