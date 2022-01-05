@@ -358,9 +358,9 @@ This application has additional requirements=이 응용 프로그램에는 추�
 BETA=베타
 INSTALLED=설치됨
 OFFICIAL=공식
-This is an official container=이것은 공식 컨테이너입니다
+This is an official container=공식 컨테이너입니다
 Digitally Signed=디지털 서명됨
-This container is digitally signed=이 컨테이너는 디지털 서명되었습니다
+This container is digitally signed=디지털 서명된 컨테이너입니다
 Docker Hub=도커허브
 NOTE You must visit the dockerHub page to gather the information required to install correctly=참조 올바르게 설치하는 데 필요한 정보를 수집하려면 dockerHub 페이지를 방문해야 합니다.
 Show CA templates=CA 템플릿 표시
@@ -376,7 +376,7 @@ Application Spotlight %s=애플리케이션 스포트라이트 %s
 Unraid Staff=Unraid 스태프
 
 ; Page Navigation
-Displaying %s - %s of %s=: %1$s번에서 %2$s번까지의 항목 표시 중(총 항목 %3$s개)
+Displaying %s - %s of %s=%1$s번에서 %2$s번까지의 항목 표시 중(총 항목 %3$s개)
 
 Updating Content=항목 업데이트 중
 Language=언어
