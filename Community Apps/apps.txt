@@ -376,7 +376,7 @@ Application Spotlight %s=애플리케이션 스포트라이트 %s
 Unraid Staff=Unraid 스태프
 
 ; Page Navigation
-Displaying %s - %s of %s=%1$s - %2$s(%3$s에서) 표시 중
+Displaying %s - %s of %s=: %1$s번에서 %2$s번까지의 항목 표시 중(총 항목 %3$s개)
 
 Updating Content=항목 업데이트 중
 Language=언어
