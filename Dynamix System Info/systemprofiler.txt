@@ -1,7 +1,7 @@
-Not available=
-P + Q algorithm=
-System Overview=
-Unraid server=
-Unraid system=
+Not available=사용할 수 없음
+P + Q algorithm=P + Q 알고리즘
+System Overview=시스템 개요
+Unraid server=Unraid 서버
+Unraid system=Unraid 시스템
 
 ; Note: December 16, 2021 - 5 missing translations
