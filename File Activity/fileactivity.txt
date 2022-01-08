@@ -38,4 +38,4 @@ Enable for Cache and Pool Disks=
 	> **디스크**로 설정하여 디스크 활동을 기록합니다. 공유 활동을 기록하려면 **공유**로 설정합니다.
 :end
 
-; Note: December 16, 2021 - 1 missing translations
+; Note: January 8, 2022 - 1 missing translations

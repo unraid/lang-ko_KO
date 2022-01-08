@@ -10,6 +10,7 @@ Disk spin down is managed by Unraid=디스크 스핀다운은 Unraid에서 관�
 Enable NFS export=NFS 내보내기 활성화
 Enable SMB Security=SMB 보안 활성화
 Enter Disk Password=디스크 암호 입력
+Enter Pool Mount Point=
 Legacy Mount Point Compatibility=레거시 마운트 포인트 호환성
 Mount SSDs with discard option=분리 옵션이 있는 SSD 마운트
 NFS Security=NFS 보안
@@ -18,17 +19,19 @@ NFS must be enabled in Settings->NFS to enable NFS Export=NFS 내보내기를 �
 NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
 Rule=규칙
 SMB Security=SMB 보안
-Select Disk to change UUID=UUID를 변경할 디스크 선택
 Select Disk=디스크 선택
 Set Encrypted Disk Password=암호화된 디스크 암호 설정
 Set Password=암호 설정
+Set Pool Mount Point=
+Set the Pool Mount Point for this disk=
 Set the disk Password=디스크 암호 설정
 Specify SMB Version when Mounting Remote Shares=원격 공유 마운트시 SMB 버전 지정
 Spin down disks=디스크 스핀다운
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=파괴 모드를 활성화하려면 "Unassigned Devices Plus" 플러그인을 설치해야 합니다
 to SMB share config=추가
 Unassigned Devices=할당되지 않은 장치
-Unraid 6.10 is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10이 필요합니다.
+Unraid 6.10 or later is required for NFSv4 support=
+Use only when directed for support=
 
 ; Help
 ;
@@ -126,3 +129,5 @@ Unraid 6.10 is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10이 필�
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
+
+; Note: January 8, 2022 - 5 missing translations

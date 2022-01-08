@@ -126,9 +126,9 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 Fatal Docker Image Error=치명적 도커 이미지 오류
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=도커 이미지 또는 폴더가 읽기 전용이거나 완전히 꽉 찼습니다. 이로 인해 문제가 발생합니다. Unraid 포럼에 새 게시물을 만들고 진단사항을 포함해야 합니다.
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=이 템플릿은 사용자 지정 네트워크를 사용하도록 설정되어 있습니다. 시스템과 일치하도록 네트워크 또는 IP 주소 등을 조정해야 할 수 있습니다.
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=
 
 ; CA Sections Keep the length reasonable
-Home=홈
 Installed Apps=설치된 앱
 Previous Apps=이전 앱
 Pinned Apps=고정된 앱
@@ -334,6 +334,7 @@ Setting installed applications to autostart=설치된 응용 프로그램을 자
 Docker Application Installation finished=도커 애플리케이션 설치 완료
 
 ; Application Cards
+Actions=
 This application is a driver plugin=이 응용 프로그램은 드라이버(플러그인)입니다.
 This is a language pack=이것은 언어 패키지입니다
 This application is a docker container=이 애플리케이션은 Docker 컨테이너입니다
@@ -393,4 +394,4 @@ View Missing Translations=누락된 번역 보기
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 애플리케이션** 플러그인을 다운로드하고 설치합니다
 
-; Note: December 16, 2021 - 5 missing translations
+; Note: January 8, 2022 - 2 missing translations

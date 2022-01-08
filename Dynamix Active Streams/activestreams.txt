@@ -15,5 +15,3 @@ User=사용자
 >
 > 이름 연결을 제거하려면 해당 사용자 이름 상자를 지우고 적용을 누르세요.
 :end
-
-; Note: December 16, 2021 - 9 missing translations

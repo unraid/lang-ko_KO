@@ -4,4 +4,4 @@ Build up-to-date=
 Export up-to-date=
 Operation aborted=
 
-; Note: December 16, 2021 - 5 missing translations
+; Note: January 8, 2022 - 5 missing translations
