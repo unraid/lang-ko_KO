@@ -99,11 +99,11 @@ Pause a running array operation=실행 중인 어레이 작업 일시 중지
 Resume a paused array operation=일시 중지된 어레이 작업 재개
 Sent notification=알림 전송
 Show the status of a running parity check=실행 중인 패리티 검사의 상태 표시
-Shutdown=종료
+Shutdown=시스템 종료
 Start a correcting parity check=교정된 패리티 검사 시작
 Start a parity check with scheduled settings=예약된 설정으로 패리티 검사 시작
-Starting Shutdown=종료 시작 중
-Unclean shutdown detected=부정한 종료가 감지됨
+Starting Shutdown=시스템 종료 시작 중
+Unclean shutdown detected=부정한 시스템 종료가 감지됨
 Unknown action=알 수 없는 동작
 Unrecognized option=인식되지 않은 옵션
 Usage=사용법
@@ -129,7 +129,7 @@ Resume=재개
 Resumed=재개됨
 Runtime=런타임
 Scheduled pause=예약된 일시 중지
-Unclean shutdown detected=부정한 종료가 감지됨
+Unclean shutdown detected=부정한 시스템 종료가 감지됨
 will be started=시작될 예정
 
 ; Swal warnings
