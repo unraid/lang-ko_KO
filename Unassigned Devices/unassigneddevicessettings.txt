@@ -10,7 +10,7 @@ Disk spin down is managed by Unraid=디스크 스핀다운은 Unraid에서 관�
 Enable NFS export=NFS 내보내기 활성화
 Enable SMB Security=SMB 보안 활성화
 Enter Disk Password=디스크 암호 입력
-Enter Pool Mount Point=
+Enter Pool Mount Point=풀 마운트 포인트 입력
 Legacy Mount Point Compatibility=레거시 마운트 포인트 호환성
 Mount SSDs with discard option=분리 옵션이 있는 SSD 마운트
 NFS Security=NFS 보안
@@ -22,16 +22,16 @@ SMB Security=SMB 보안
 Select Disk=디스크 선택
 Set Encrypted Disk Password=암호화된 디스크 암호 설정
 Set Password=암호 설정
-Set Pool Mount Point=
-Set the Pool Mount Point for this disk=
+Set Pool Mount Point=풀 마운트 포인트 설정
+Set the Pool Mount Point for this disk=이 디스크에 대한 풀 마운트 지점 설정
 Set the disk Password=디스크 암호 설정
 Specify SMB Version when Mounting Remote Shares=원격 공유 마운트시 SMB 버전 지정
 Spin down disks=디스크 스핀다운
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=파괴 모드를 활성화하려면 "Unassigned Devices Plus" 플러그인을 설치해야 합니다
 to SMB share config=추가
 Unassigned Devices=할당되지 않은 장치
-Unraid 6.10 or later is required for NFSv4 support=
-Use only when directed for support=
+Unraid 6.10 or later is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10 이상이 필요합니다
+Use only when directed for support=지원 요청 시에만 사용
 
 ; Help
 ;
