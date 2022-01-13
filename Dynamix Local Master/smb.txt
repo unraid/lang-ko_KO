@@ -1,9 +1,9 @@
-Current elected master=
-is current local master browser=
-Local master=
-Monitor local master election=
-please wait, obtaining=
-Workgroup=
+Current elected master=현재 선택된 마스터
+is current local master browser=은(는) 현재 로컬 마스터 브라우저입니다
+Local master=로컬 마스터
+Monitor local master election=로컬 마스터 선택 모니터링
+please wait, obtaining=기다려 주십시오, 얻는 중.
+Workgroup=워크그룹
 
 :smb_workgroup_plug:
 > Enter your local network Workgroup name. Usually this is "WORKGROUP".
