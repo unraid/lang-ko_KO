@@ -334,7 +334,7 @@ Setting installed applications to autostart=설치된 응용 프로그램을 자
 Docker Application Installation finished=도커 애플리케이션 설치 완료
 
 ; Application Cards
-Actions=
+Actions=동작
 This application is a driver plugin=이 응용 프로그램은 드라이버(플러그인)입니다.
 This is a language pack=이것은 언어 패키지입니다
 This application is a docker container=이 애플리케이션은 Docker 컨테이너입니다
