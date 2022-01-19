@@ -323,8 +323,9 @@ Favourite=즐겨찾기
 Application Type=에플리케이션 타입
 
 ; Graphs
-Trend Per Month=월별 인기
-Downloads Per Month=월별 다운로드 수
+Show=보기
+Trend Per Month=월간 인기
+Downloads Per Month=월간 다운로드 수
 
 ; Multi install script
 Installing docker applications %s=Docker 앱 %s 설치  
