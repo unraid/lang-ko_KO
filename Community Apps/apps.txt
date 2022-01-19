@@ -323,7 +323,6 @@ Favourite=즐겨찾기
 Application Type=에플리케이션 타입
 
 ; Graphs
-Show=보기
 Trend Per Month=월간 인기
 Downloads Per Month=월간 다운로드 수
 
