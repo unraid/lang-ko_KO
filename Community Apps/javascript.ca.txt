@@ -1,5 +1,5 @@
-Search for %s="%s" 검색
-DockerHub Search for %s=DockerHub에서 "%s" 검색
+Search for %s='%s' 검색
+DockerHub Search for %s=DockerHub에서 '%s' 검색
 Are you sure you want to delete %s from the list of previously installed applications=정말로 이전에 설치된 앱 목록에서 %s을(를) 삭제하시겠습니까?
 Are you sure you want to uninstall %s=정말로 %s을(를) 제거하시겠습니까?
 Are you sure you want to remove the private application %s by %s=정말로 %s의 개인용 앱 %s을(를) 제거하시겠습니까?
