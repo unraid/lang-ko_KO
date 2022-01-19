@@ -151,6 +151,7 @@ Help=도움말
 here=여기
 Hide Password=비밀번호 숨기기
 History=기록
+Home=홈
 hour=시간
 hours=시간
 How to reproduce=재현하는 방법
