@@ -195,7 +195,7 @@ Individual Application Moderation=개별 애플리케이션 검토
 ; Misc
 Community Applications Changelog=커뮤니티 앱 변경 로그
 
-Each month we highlight some of the amazing work from our community=매달 우리는 커뮤니티의 놀라운 작업 중 일부를 강조 표시합니다.
+Each month we highlight some of the amazing work from our community=매달 우리는 커뮤니티의 놀라운 작업 중 일부를 주목하고 있습니다.
 Check out these newly added applications from our awesome community=멋진 커뮤니티에서 새로 추가된 애플리케이션을 확인하세요.
 Check out these up and coming apps=앞으로 출시될 앱을 확인하세요.
 These apps have the highest percentage of new installs=이 앱들은 신규 설치 비율이 가장 높습니다.
