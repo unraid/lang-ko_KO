@@ -373,7 +373,7 @@ Info=정보
 Attention=중요 사항
 Repository=저장소
 Why we picked it=우리가 그것을 선택한 이유
-Application Spotlight %s=애플리케이션 주 %s
+Application Spotlight %s=애플리케이션 주목 %s
 Unraid Staff=Unraid 스태프
 
 ; Page Navigation
