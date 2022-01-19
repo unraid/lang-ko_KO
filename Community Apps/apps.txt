@@ -373,7 +373,7 @@ Info=정보
 Attention=중요 사항
 Repository=저장소
 Why we picked it=우리가 그것을 선택한 이유
-Application Spotlight %s=애플리케이션 주목 %s
+Application Spotlight %s=앱 주목도 %s
 Unraid Staff=Unraid 스태프
 
 ; Page Navigation
@@ -392,6 +392,6 @@ Click here to view the language changelog=언어 변경 로그를 보려면 여�
 View Missing Translations=누락된 번역 보기
 
 ; WebGui
-Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 애플리케이션** 플러그인을 다운로드하고 설치합니다
+Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
 ; Note: January 8, 2022 - 2 missing translations
