@@ -35,6 +35,7 @@ Display Settings=디스플레이 설정
 Downloading=다운로드 중
 End-User License Agreement=최종 사용자 라이선스 계약
 Enter URL of language pack XML file=언어팩 XML 파일 URL 입력
+Enhanced System Log=향상된 시스템 로그
 Error accessing your physical USB Flash boot device=귀하의 물리적 USB 플래시 부트 장치에 접근 오류
 EULA=EULA
 Event=이벤트
