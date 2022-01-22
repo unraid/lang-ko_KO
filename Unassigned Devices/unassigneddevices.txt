@@ -179,4 +179,4 @@ You will need to enter credentials for Windows 10 shares just to list them=Windo
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: December 16, 2021 - 10 missing translations
+; Note: December 16, 2021 - 3 missing translations
