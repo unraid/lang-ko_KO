@@ -131,6 +131,7 @@ Missing disk=디스크 사라짐
 Missing key=키 사라짐
 Missing=사라짐
 Mounted=마운트됨
+Mount oint=마운트 지점
 Mover is running=무버가 실행 중입니다
 network settings=네트워크 설정
 next device=다음 장치
