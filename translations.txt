@@ -206,6 +206,7 @@ NA=해당되지
 Name=이름
 Network=네트워크
 Never=안 함
+never=안 함
 New device, in standby mode spun-down=새 장치, 대기 상태 (스핀 다운)
 New device=새 장치
 NFS Security Settings=NFS 보안 설정
