@@ -11,7 +11,7 @@
 %s week ago=%s주 전
 %s weeks ago=%s주 전
 aborted=중지됨
-Absolute=절대
+Absolute=절대적
 Acknowledge=승인
 Active=활성
 active=활성
