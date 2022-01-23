@@ -17,6 +17,7 @@ Legacy Mount Point Compatibility=레거시 마운트 포인트 호환성
 Mount SSDs with discard option=분리 옵션이 있는 SSD 마운트
 NFS Security=NFS 보안
 NFS Settings=NFS 설정
+NFS must be enabled in Settings->NFS for NFS support=NFS 지원을 위해서는 우선 설정->NFS에서 NFS를 활성화해야 합니다
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS 내보내기를 활성화하려면 우선 설정->NFS에서 NFS를 활성화해야 합니다
 NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
 Rule=규칙
