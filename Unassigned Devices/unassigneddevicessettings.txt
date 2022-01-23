@@ -22,6 +22,7 @@ NFS must be enabled in Settings->NFS to enable NFS Export=NFS 내보내기를 �
 NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
 Rule=규칙
 SMB Security=SMB 보안
+See Help=도움말 참조
 Select Disk=디스크 선택
 Set Encrypted Disk Password=암호화된 디스크 암호 설정
 Set Password=암호 설정
