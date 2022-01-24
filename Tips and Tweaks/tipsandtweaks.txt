@@ -68,6 +68,9 @@ Current Disk Cache Settings=현재 디스크 캐시 설정
 Current Inotify Settings=현재 Inotify 설정
 Driver=드라이버
 Governor=조절기
+Performance=성능
+Power Save=절전
+
 ;
 ; Help
 ;
