@@ -20,7 +20,7 @@ If you set the Power Save CPU Governor, you may see your processors stuck at 800
 It is recommended you use the Performance Governor for best performance and power savings=최고의 성능과 절전을 위해 '성능(Performance)' 를 사용하는 것이 좋습니다.
 It is recommended to use the pstate driver on Intel processors if you want the most performance=Intel 프로세서에서 최고의 성능을 원한다면 Pstate 드라이버를 사용하는 것이 좋습니다.
 Note=일러두기
-You can check CPU frequencies on the command line with=다음을 사용하여 명령줄에서 CPU 주파수를 확인할 수 있습니다.
+You can check CPU frequencies on the command line with=다음을 사용하여 명령줄에서 CPU 주파수를 확인할 수 있습니다. - 
 The dashboard shows CPU loading and not CPU frequency=대시보드에는 CPU 주파수가 아닌 CPU 로드가 표시됩니다.
 If you configure VLANs on Unraid, you should make Unraid the Master Browser=Unraid에 VLAN을 구성하는 경우 Unraid를 마스터 브라우저로 설정해야 합니다.
 If you dont Unraid may not detect the Master Browser for all network interfaces correctly=Unraid가 모든 네트워크 인터페이스에 대해 마스터 브라우저를 올바르게 감지하지 못할 수 있습니다.
