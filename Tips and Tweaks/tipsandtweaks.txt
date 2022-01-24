@@ -8,7 +8,7 @@ Install the Fix Common Problems plugin and resolve any Unraid configuration prob
 Use the Update Assistant that is part of the Fix Common Problems plugin=공통 문제 수정 플러그인의 일부인 Update Assistant를 사용합니다
 This will identify potential problems to be solved before you upgrade the Unraid OS=Unraid OS를 업그레이드하기 전에 해결해야 할 잠재적인 문제를 식별합니다
 Check the=Unraid 성능 향상 및 문제 해결에 대한 추가 아이디어는 
-Tips and Tweaks wiki='팁과 트윅 위키'
+Tips and Tweaks wiki='Tips and Tweaks 위키'
 for additional ideas on improving your Unraid performance and solving problems=를 확인하십시오
 Some have reported better VM performance with media streaming and gaming VMs with the suggestions on this=일부는 미디어 스트리밍 및 게임용 VM을 통해 VM 성능이 향상되었다고 보고했습니다. - 
 post=해당 게시물
