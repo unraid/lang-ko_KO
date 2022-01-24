@@ -16,7 +16,7 @@ Some have reported faster and more consistent network performance by making chan
 If you have an Intel Processor, it may appear that all CPUs are constantly running at full speed=Intel 프로세서가 있는 경우 모든 CPU가 계속 최대 속도로 실행되는 것처럼 보일 수 있습니다.
 Read this=읽어보세요
 for information on the issue=이슈에 대한 정보
-If you set the Power Save CPU Governor, you may see your processors stuck at 800 MHz='절전' CPU 조절기를 설정하면 프로세서가 800MHz에서 멈추는 것을 볼 수 있습니다.
+If you set the Power Save CPU Governor, you may see your processors stuck at 800 MHz=CPU 조절기를 '절전'으로 설정하면 프로세서가 800MHz에서 멈추는 것을 볼 수 있습니다.
 It is recommended you use the Performance Governor for best performance and power savings=최고의 성능과 절전을 위해 '성능' 를 사용하는 것이 좋습니다.
 It is recommended to use the pstate driver on Intel processors if you want the most performance=Intel 프로세서에서 최고의 성능을 원한다면 pstate 드라이버를 사용하는 것이 좋습니다.
 Note=일러두기
