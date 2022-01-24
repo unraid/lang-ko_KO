@@ -50,8 +50,8 @@ Guide=가이드
 Disk Cache=디스크 캐시
 Max Watches=최대 감시 
 CPU Scaling Governor=CPU 스케일링 조절기
-Enable Intel TurboAMD Performance Boost=Intel TurboAMD 퍼포먼스 향상 활성화
-Time to set=설정 시간
+Enable Intel TurboAMD Performance Boost=Intel Turbo 혹은 AMD Performance Boost 활성화
+Time to set=설정 시간 - 
 Enable syslog Archiving=syslog 아카이빙 활성화
 Number of syslogs to Archive=아카이브할 syslog의 수
 Processes to kill before Array is Stopped=Array가 중지되기 전에 종료할 프로세스
@@ -168,4 +168,3 @@ Governor=조절기
 >
 > Note: Be careful with the processes you kill here.  You could lose data!
 :end
-
