@@ -205,7 +205,7 @@ An assortment of randomly chosen apps=무작위로 선택된 앱 모음입니다
 
 Backup=백업
 Cloud=클라우드
-Crypto Currency=가상화폐
+Crypto Currency=가상 화폐
 Downloaders=다운로더
 Drivers=드라이버
 Game Servers=게임 서버
