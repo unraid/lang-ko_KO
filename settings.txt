@@ -504,6 +504,7 @@ Provision=프로비전
 QEMU version=QEMU 버전
 readmodifywrite=읽기/수정/쓰기
 reconstruct write=쓰기 재구성
+Recycle Bin=휴지통
 Refreshing=새로 고침 중
 Registration key required=등록 키 필요
 Reinitialize=재초기화
