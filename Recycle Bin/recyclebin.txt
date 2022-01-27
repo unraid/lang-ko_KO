@@ -16,6 +16,7 @@ Excluded Shares=공유된 개체 제외
 Log Deleted Files=삭제된 파일 로그 남기기
 Recycle Bin=휴지통
 Recycle Bin Log=휴지통 로그
+Recycle Bin is empty=휴지통이 비어 있습니다
 Recycle Bin parameters=휴지통 파라미터
 Recycle Bin permissions=휴지통 퍼미션
 Recycle Bin Total Size=휴지통 용량
