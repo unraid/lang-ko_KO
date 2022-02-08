@@ -219,6 +219,8 @@ Started, formatting=시작됨, 포맷 중
 Starting=시작하는 중
 Stopping=정지하는 중
 Sync errors=동기화 오류
+Sync errors corrected=
+Sync errors detected=
 Sync=동기화
 Syslinux Configuration=Syslinux 설정
 Syslinux configuration=Syslinux 설정
@@ -343,4 +345,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: February 8, 2022 - 22 missing translations
+; Note: February 8, 2022 - 24 missing translations
