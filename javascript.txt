@@ -47,6 +47,8 @@ Yes, update it=네, 업데이트 하세요!
 Yes=네
 
 ; footer messages
+Array Copying=
+Array Clearing=
 Array Starting=어레이 시작 중
 Array Stopping=어레이 중지 중
 Mounting disks=디스크들 마운트 중
@@ -64,3 +66,5 @@ Container Port=컨테이너 포트
 Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
+
+; Note: February 8, 2022 - 2 missing translations
