@@ -128,7 +128,6 @@ VirtIO Drivers ISO=VirtIO 드라이버 ISO
 Virtual Machines=가상 머신
 VM creation error=VM 생성 오류
 VM image deletion error=VM 이미지 삭제 오류
-VM Settings A reboot is required to apply changes=VM 설정: 변경 사항을 적용하려면 재가동이 필요합니다
 VNC Keyboard=VNC 키보드
 VNC Password=VNC 비밀번호
 VNC Video Driver=VNC 비디오 드라이버
@@ -137,5 +136,3 @@ Wasnt able to stop the process=프로세스를 정지할 수 없었음
 Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
 XML View=XML 보기
-
-; Note: November 16, 2021 - 1 missing translations
