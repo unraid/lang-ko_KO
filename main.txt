@@ -1,5 +1,6 @@
 A format is NEVER part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted=포맷은 **절대로** 데이터 복구나 디스크 재구성의 절차가 **아니며** 이런 경우에 진행할 경우 일반적으로 포맷된 디스크의 모든 데이터 손실로 이어집니다
 Aborted=취소됨
+Action=
 Add=추가
 Add Pool=풀 추가
 All existing data on this device will be OVERWRITTEN when array is Started=이 장치의 기존 데이터는 어레이가 시작될 때 덮어쓰게 됩니다
@@ -55,6 +56,7 @@ Critical disk utilization threshold=치명적인 디스크 사용 한계
 Current operation %s on %s=현재 작업 %s. (작업 일자:**%s**)
 Current position=현재 위치
 Custom attributes use comma to separate numbers=사용자 지정 속성 (숫자을 쉼표로 구분)
+Data-Rebuild in progress=
 Date of purchase=구입 날짜
 Date=날짜
 Delete Pool=풀 지우기
@@ -153,6 +155,7 @@ Parity-Check in progress=패리티 검사 진행 중
 Parity Operation History=
 ParityRead-Check History=패리티/읽기 검사 기록
 Parity-SyncData-Rebuild in progress=패리티 동기화/데이터 재구성 진행 중
+Parity-Sync in progress=
 Partition format=파티션 포맷
 Partition size=파티션 용량
 Passed=통과됨
@@ -340,4 +343,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: February 8, 2022 - 19 missing translations
+; Note: February 8, 2022 - 22 missing translations
