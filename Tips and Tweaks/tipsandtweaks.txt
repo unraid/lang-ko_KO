@@ -14,11 +14,10 @@ Some have reported better VM performance with media streaming and gaming VMs wit
 post=해당 게시물
 Some have reported faster and more consistent network performance by making changes in networking parameters on the Tweaks tab of this plugin=일부에서 이 플러그인의 Tweaks 탭에서 네트워킹 파라미터를 변경하여 더 빠르고 일관적인 네트워크 성능을 보였다고 보고했습니다
 If you have an Intel Processor, it may appear that all CPUs are constantly running at full speed=Intel 프로세서가 있는 경우 모든 CPU가 계속 최대 속도로 실행되는 것처럼 보일 수 있습니다
-They may show full speed, but the scaling governor is working properly=최대 속도로 보일 수 있으나 조절기가 정상적으로 작동하는 중입니다
 Read this=해당 이슈에 대한 정보는
 for information on the issue=을 참조하십시오
-If you set the Power Save CPU Governor, you may see your processors stuck at 800 MHz=CPU 조절기를 '절전(Power Save)'으로 설정하면 프로세서가 800MHz에서 멈추는 것을 볼 수 있습니다
-It is recommended you use the Performance Governor for best performance and power savings=최고의 성능과 절전을 위해 '성능(Performance)' 를 사용하는 것이 좋습니다
+If you set the 'Power Save' CPU Governor, you may see your processors stuck at 800 MHz=
+It is recommended you use the 'Performance' Governor for best performance and power savings=
 It is recommended to use the pstate driver on Intel processors if you want the most performance=Intel 프로세서에서 최고의 성능을 원한다면 Pstate 드라이버를 사용하는 것이 좋습니다
 Note=일러두기
 You can check CPU frequencies on the command line with=다음을 사용하여 명령줄에서 CPU 주파수를 확인할 수 있습니다. - 
@@ -69,7 +68,6 @@ Current Disk Cache Settings=현재 디스크 캐시 설정
 Current Inotify Settings=현재 Inotify 설정
 Driver=드라이버
 Governor=조절기
-
 ;
 ; Help
 ;
@@ -170,3 +168,6 @@ Governor=조절기
 >
 > Note: Be careful with the processes you kill here.  You could lose data!
 :end
+
+
+; Note: February 19, 2022 - 2 missing translations

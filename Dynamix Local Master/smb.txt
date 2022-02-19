@@ -22,5 +22,3 @@ Workgroup=워크그룹
 :smb_master_current_plug:
 > Shows in real-time the current elected local master browser.
 :end
-
-; Note: January 8, 2022 - 6 missing translations

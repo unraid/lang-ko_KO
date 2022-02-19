@@ -286,7 +286,6 @@ Min OS=최소 OS
 Max OS=최대 OS
 Total Downloads=총 다운로드 수
 Licence=라이선스
-30 Day Trend=30일간 인기
 Ranked #%s=#%s 랭크됨
 ; as in Trending up or down arrow
 Trending %s=인기 %s
@@ -307,6 +306,8 @@ Install Using The Templates Default Tag=템플릿의 기본 태그를 사용하�
 Moderator Comments=Moderator 코멘트
 Note not all authors keep up to date on change logs=모든 작성자가 변경 로그를 최신 상태로 유지하는 것은 아닙니다
 Note not all maintainers keep up to date on change logs=모든 유지 관리자들이 변경 로그를 최신 상태로 유지하는 것은 아닙니다
+Last Update=
+Note All statistics are only gathered every 30 days=
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
 Donate=기부하기
 Currently Installed Version=현재 설치된 버전
@@ -394,4 +395,4 @@ View Missing Translations=누락된 번역 보기
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
-; Note: January 8, 2022 - 2 missing translations
+; Note: February 19, 2022 - 3 missing translations
