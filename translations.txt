@@ -679,6 +679,8 @@ This may indicate a complex network that will not work with this Remote Access s
 Ignore this message if you are currently connected via Remote Access or VPN=현재 원격 접근이나 VPN으로 연결되어 있는 경우 이 메시지를 무시하십시오
 
 ; Dynamix File Manager - 2022-02-21
+%s year ago=
+%s years ago=
 Advanced Mode=
 Basic Mode=
 Calculate Occupied Space=
@@ -788,4 +790,4 @@ Updating=
 year=년
 years=년
 
-; Note: February 21, 2022 - 110 missing translations
+; Note: February 21, 2022 - 111 missing translations
