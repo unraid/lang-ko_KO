@@ -258,6 +258,7 @@ Unmountable Missing encryption key=마운트 할 수 없음: 암호화 키 사�
 Unmountable No file system=마운트 할 수 없음: 파일 시스템이 없음
 Unmountable No pool uuid=마운트 할 수 없음: 풀 uuid가 없음
 Unmountable not btrfs pool=마운트 할 수 없음: btrfs 풀이 아님
+Unmountable Unsupported or no file system=Unmountable: Unsupported or no file system
 Unmountable Volume not encrypted=마운트 할 수 없음: 볼륨이 암호화되지 않음
 Unmounted=마운트 되지 않음
 Upgrading diskswapping parity=디스크/스왑핑 패리티 업그레이드 중
@@ -347,4 +348,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: February 25, 2022 - 26 missing translations
+; Note: February 27, 2022 - 26 missing translations
