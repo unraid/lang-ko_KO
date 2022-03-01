@@ -2,6 +2,7 @@ Click the 'Default' button to select the default Device Script File='기본값' 
 Default=기본값
 Delete Device Script File=장치 스크립트 파일 삭제
 Device Script content=
+Disable Mount=
 Disk Name=
 Edit Device Script=장치 스크립트 편집
 Enter Device Script File Name=장치 스크립트 파일 이름을 입력하세요
@@ -63,4 +64,4 @@ background task. This can keep the Unassigned Devices UI from hanging when the D
 > You still need to click **Save** in order to commit the change.
 :end
 
-; Note: February 27, 2022 - 2 missing translations
+; Note: March 1, 2022 - 3 missing translations
