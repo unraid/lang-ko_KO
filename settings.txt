@@ -505,6 +505,7 @@ Protocol=프로토콜
 Provision=프로비전
 QEMU version=QEMU 버전
 readmodifywrite=읽기/수정/쓰기
+recommended=
 reconstruct write=쓰기 재구성
 Refreshing=새로 고침 중
 Registration key required=등록 키 필요
@@ -715,4 +716,4 @@ Your server has been registered=서버가 등록되었습니다.
 Your Unraid Server is reachable from the internet=Unraid 서버는 인터넷에서 연결할 수 있습니다
 YYYY-MM-DD=
 
-; Note: March 11, 2022 - 30 missing translations
+; Note: March 11, 2022 - 31 missing translations
