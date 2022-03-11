@@ -41,4 +41,4 @@ Unload drivers=
 > 'Rescan' refreshes the selection list and can be used when new probes are available, e.g. a new fan probe has been installed.
 :end
 
-; Note: March 1, 2022 - 13 missing translations
+; Note: March 11, 2022 - 13 missing translations
