@@ -113,6 +113,8 @@ Information=정보
 Insufficient free disk space available=디스크에 여유 공간이 부족합니다
 Interrupted=인터럽트됨
 Invalid configuration=유효하지 않은 설정
+invalid device=
+invalid devices=
 Invalid expansion=유효하지 않은 확장
 Invalid pool name=유효하지 않은 풀 이름
 Invalid, missing or expired=유효하지 않거나 누락되었거나 만료됨
@@ -348,4 +350,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: March 11, 2022 - 25 missing translations
+; Note: March 13, 2022 - 27 missing translations

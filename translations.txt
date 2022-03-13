@@ -46,6 +46,7 @@ Basic=베이직
 BIOS=BIOS
 Black=검정
 Blacklisted USB Flash GUID=블랙리스트 된 USB 플래시 GUID
+bond down=
 Browse=찾아보기
 Browser cookie support required for Unraid OS webgui=Unraid OS webgui는 브라우저의 쿠키 지원이 필요합니다
 Browser error=브라우저 오류
@@ -673,11 +674,23 @@ Your trial will expire in 30 days=평가판이 30일 후에 만료됩니다
 Your Unraid registration key is ineligible for replacement as it has been replaced within the last 12 months=Unraid 등록 키는 최근 12개월 안에 교체되었기 때문에 교체가 불가능합니다
 Your USB Flash GUID and other relevant server data will also be sent=USB 플래시 GUID와 기타 관련되는 서버 데이터가 전송됩니다
 
-; My Servers Wan IP Check - 2021-06-30
+; My Servers - 2022-03-13
 Remark your WAN IPv4 is %s=설명: WAN IPv4는 **%s**입니다
 Remark Unraids WAN IPv4 %1s does not match your clients WAN IPv4 %2s=설명: Unraid의 WAN IPv4 **%1s**는 클라이언트 WAN IPv4인 **%2s**와 일치하지 않습니다
 This may indicate a complex network that will not work with this Remote Access solution=이것은 이 원격 접근 솔루션이 작동하지 않는 복잡한 네트워크라는 것을 나타내는 것일 수도 있습니다 
 Ignore this message if you are currently connected via Remote Access or VPN=현재 원격 접근이나 VPN으로 연결되어 있는 경우 이 메시지를 무시하십시오
+
+Automated flash backups will be disabled until you sign in again=
+Click to copy LAN IP %s=
+DNS issue, unable to resolve wanip4unraidnet=DNS issue, unable to resolve wanip4.unraid.net
+Download latest backup from My Servers Dashboard=
+Have the code now Go Back=Have the code now? Go Back
+LAN IP Copied=
+Remote access will be disabled=
+Resend Code=
+Resend Email Verification Code=
+We have sent a verifcation email to %s=
+You will no longer have access to this server using this url=You will no longer have access to this server using <abbr title="%s" class="italic">this url</abbr>
 
 ; Dynamix File Manager - 2022-02-21
 %s year ago=
@@ -709,6 +722,7 @@ DEVICE=
 Device name=
 Download File=
 Enter a valid target=
+File Manager=
 File name=
 file type=
 Folder name=
@@ -791,4 +805,4 @@ Updating=
 year=년
 years=년
 
-; Note: March 11, 2022 - 112 missing translations
+; Note: March 13, 2022 - 125 missing translations
