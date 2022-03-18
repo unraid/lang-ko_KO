@@ -400,7 +400,11 @@ A note about translations=번역에 대한 참고 사항
 Click here to view the language changelog=언어 변경 로그를 보려면 여기를 클릭하십시오
 View Missing Translations=누락된 번역 보기
 
+; dockerHub conversions
+Determine configuration=
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Would you like CA to attempt to determine any applicable paths, ports, and variables for the template?  This will entail performing a test installation of the container.  It will be automatically deleted after processing.  The container will not be started.
+An error occurred - Could not determine configuration=
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
-; Note: March 11, 2022 - 11 missing translations
+; Note: March 18, 2022 - 13 missing translations

@@ -765,6 +765,7 @@ Rename Folder=
 rename to=
 Renaming=
 Restricted access=
+Save=
 Share name=공유 이름
 SHARE=
 Source device=
@@ -805,4 +806,4 @@ Updating=
 year=년
 years=년
 
-; Note: March 13, 2022 - 125 missing translations
+; Note: March 18, 2022 - 123 missing translations
