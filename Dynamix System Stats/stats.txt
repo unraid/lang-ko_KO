@@ -32,4 +32,4 @@ Total Space Used=
 Used for Parity=
 utilization in percentage=
 
-; Note: March 18, 2022 - 31 missing translations
+; Note: April 2, 2022 - 31 missing translations
