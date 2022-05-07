@@ -133,4 +133,4 @@ When parity operation is running=
 > Disabling error logging will suppress log creation, but it is still possible to receive notifications.
 :end
 
-; Note: April 2, 2022 - 45 missing translations
+; Note: May 7, 2022 - 45 missing translations

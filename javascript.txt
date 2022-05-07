@@ -67,4 +67,4 @@ Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
 
-; Note: April 2, 2022 - 2 missing translations
+; Note: May 7, 2022 - 2 missing translations

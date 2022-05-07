@@ -113,6 +113,7 @@ Yes, install them=네, 설치하세요
 Cookies not enabled Plugins must be separately installed from docker applications=쿠키가 활성화되지 않은 플러그인은 도커 앱과 별도로 설치해야 합니다.
 Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker 앱은 사용자 입력 없이 가장 최근에 저장된 템플릿을 사용하여 설치됩니다.
 Updating Support Links=지원 링크 업데이트 중
+Downloading docker icons=
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=설치가 완료되었습니다. 만약 완료 버튼이 보이지 않는다면 오른쪽 상단 모서리에 있는 빨간색 X 버튼을 클릭하세요.
 
 ; error messages
@@ -134,12 +135,13 @@ This template is set up to use a custom network You may have to adjust the netwo
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=
 
 ; CA Sections Keep the length reasonable
+Home=
 Installed Apps=설치된 앱
 Previous Apps=이전 앱
 Pinned Apps=고정된 앱
 Favourite Repo=즐겨찾는 저장소
+Action Centre=
 Recently Added=최근에 추가됨
-Updated Apps=업데이트된 앱
 Random Apps=무작위 앱
 Top New Installs=상위 신규 설치
 Top Trending Apps=인기 급상승 앱
@@ -298,8 +300,8 @@ Ranked #%s=#%s 랭크됨
 Trending %s=인기 %s
 ; as in As of some date
 As of %s=(%s 기준)
-Show Charts=차트 보이기
-Hide Charts=차트 숨기기
+Play Video=
+Play Video %s=
 This application is not compatible with your version of Unraid=이 앱은 설치된 Unraid 버전과 호환되지 않습니다
 Another browser tab or device has updated the displayed templates Some actions are not available=다른 브라우저 탭 또는 장치가 표시된 템플릿을 업데이트했습니다. 일부 작업을 사용할 수 없습니다.
 WebUI=웹 UI
@@ -326,6 +328,7 @@ Support Forum=지원 포럼
 ; as in more than 100000
 More than %s=%s 이상
 Remove from Previous Apps=이전 앱에서 제거
+Remove=
 See All Apps=모든 앱 보기
 Favourite=즐겨찾기
 Application Type=에플리케이션 타입
@@ -409,4 +412,4 @@ An error occurred - Could not determine configuration=
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
-; Note: April 2, 2022 - 14 missing translations
+; Note: May 7, 2022 - 20 missing translations
