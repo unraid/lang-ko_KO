@@ -2,7 +2,7 @@
 anonymous=익명
 Author=제작자
 Check For Updates=업데이트 확인
-Checking connectivty=연결 상태 확인 중
+Checking connectivity=연결 상태 확인 중
 checking=확인 중
 Click here to install version %s=여기를 눌러 %s 버전을 설치하세요.
 Delete Plugin=플러그인 제거
