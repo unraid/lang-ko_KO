@@ -1,6 +1,6 @@
 Add ISO File Share=추가: ISO 파일 공유
 Add Remote SMB=추가: 원격 SMB
-Add Root Share=
+Add Root Share=추가: 루트 공유 
 An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=UD로 분할된 XFS 또는 BTRFS 디스크는 어레이 디스크 분할과 호환되며 어레이에 추가할 수 있습니다
 Any data on this disk will be lost=이 디스크의 모든 데이터가 손실됩니다
 Are you sure=확실합니까
