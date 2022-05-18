@@ -100,6 +100,7 @@ Searching=검색 중
 Select the Mount Point to Root Share=
 Serial Number Mountpoint=일련 번호 (마운트 지점)
 Serial Number Mount point=일련 번호 (마운트 지점)
+Serial number mount point=일련 번호 (마운트 지점)
 share for=다음에서 공유:
 Simple=간편
 SMB Shares=SMB 공유
