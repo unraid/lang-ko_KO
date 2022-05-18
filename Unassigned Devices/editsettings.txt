@@ -1,9 +1,9 @@
 Click the 'Default' button to select the default Device Script File='기본값' 버튼을 클릭하여 기본 장치 스크립트 파일을 선택합니다
 Default=기본값
 Delete Device Script File=장치 스크립트 파일 삭제
-Device Script content=
-Disable Mount=
-Disk Name=
+Device Script content=장치 스크립트 항목
+Disable Mount=마운트 비활성화
+Disk Name=디스크 이름
 Edit Device Script=장치 스크립트 편집
 Enter Device Script File Name=장치 스크립트 파일 이름을 입력하세요
 Enter and Edit the Device Script that runs when a udev or operator event occurs=udev 또는 operator 이벤트가 발생할 때 실행되는 장치 스크립트를 입력하고 편집하세요
