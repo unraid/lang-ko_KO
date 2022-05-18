@@ -135,7 +135,7 @@ This template is set up to use a custom network You may have to adjust the netwo
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=
 
 ; CA Sections Keep the length reasonable
-Home=
+Home=홈
 Installed Apps=설치된 앱
 Previous Apps=이전 앱
 Pinned Apps=고정된 앱
@@ -300,8 +300,8 @@ Ranked #%s=#%s 랭크됨
 Trending %s=인기 %s
 ; as in As of some date
 As of %s=(%s 기준)
-Play Video=
-Play Video %s=
+Play Video=비디오 재생
+Play Video %s=비디오 재생 %s
 This application is not compatible with your version of Unraid=이 앱은 설치된 Unraid 버전과 호환되지 않습니다
 Another browser tab or device has updated the displayed templates Some actions are not available=다른 브라우저 탭 또는 장치가 표시된 템플릿을 업데이트했습니다. 일부 작업을 사용할 수 없습니다.
 WebUI=웹 UI
@@ -315,8 +315,8 @@ Install Using The Templates Default Tag=템플릿의 기본 태그를 사용하�
 Moderator Comments=Moderator 코멘트
 Note not all authors keep up to date on change logs=모든 작성자가 변경 로그를 최신 상태로 유지하는 것은 아닙니다
 Note not all maintainers keep up to date on change logs=모든 유지 관리자들이 변경 로그를 최신 상태로 유지하는 것은 아닙니다
-Last Update=
-Note All statistics are only gathered every 30 days=
+Last Update=최종 업데이트
+Note All statistics are only gathered every 30 days=모든 통계는 30일마다 수집됩니다
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
 Donate=기부하기
 Currently Installed Version=현재 설치된 버전
@@ -328,7 +328,7 @@ Support Forum=지원 포럼
 ; as in more than 100000
 More than %s=%s 이상
 Remove from Previous Apps=이전 앱에서 제거
-Remove=
+Remove=제거
 See All Apps=모든 앱 보기
 Favourite=즐겨찾기
 Application Type=에플리케이션 타입
@@ -370,7 +370,7 @@ This application has additional requirements=이 앱에는 추가 요구 사항�
 BETA=베타
 INSTALLED=설치됨
 OFFICIAL=공식
-UPDATED=
+UPDATED=업데이트됨
 This is an official container=공식 컨테이너입니다
 Digitally Signed=디지털 서명됨
 This container is digitally signed=디지털 서명된 컨테이너입니다
@@ -380,8 +380,8 @@ Show CA templates=CA 템플릿 표시
 Deprecated=지원 중단됨
 Incompatible=호환되지 않음
 Blacklisted=블랙리스트에 등재됨
-Template Exists=
-Template already exists in Apps=
+Template Exists=템플릿 존재
+Template already exists in Apps=템플릿이 앱에 이미 존재합니다
 
 Info=정보
 Attention=중요 사항
@@ -406,9 +406,9 @@ Click here to view the language changelog=언어 변경 로그를 보려면 여�
 View Missing Translations=누락된 번역 보기
 
 ; dockerHub conversions
-Determine configuration=
-Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Would you like CA to attempt to determine any applicable paths, ports, and variables for the template?  This will entail performing a test installation of the container.  It will be automatically deleted after processing.  The container will not be started.
-An error occurred - Could not determine configuration=
+Determine configuration=구성 결정
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=CA가 템플릿에 대해 적용 가능한 경로, 포트 및 변수를 결정하도록 하시겠습니까? 이것은 컨테이너의 테스트 설치를 수행하는 것을 의미합니다. 처리 후 자동 삭제됩니다. 컨테이너가 시작되지 않습니다.
+An error occurred - Could not determine configuration=오류가 발생했습니다 - 구성을 결정할 수 없습니다
 ; WebGui
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
