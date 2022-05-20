@@ -350,4 +350,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: May 7, 2022 - 27 missing translations
+; Note: May 20, 2022 - 2 missing translations

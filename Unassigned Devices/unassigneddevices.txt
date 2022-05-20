@@ -46,9 +46,8 @@ Formatting=포맷 중
 Free=여유
 from disk=디스크에서
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=설정 -> 전역 공유 설정으로 이동하여 디스크 공유 활성화를 자동 또는 끄기로 설정합니다
-Historical=기록
 Historical Devices=기록 장치
-If this disk was pre-cleared, you will remove the pre-clear signature. =이 디스크가 미리 지우기한 경우 미리 지우기 서명을 제거합니다.
+If this disk was pre-cleared, you will remove the pre-clear signature. =
 If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=어레이에 디스크를 추가하고 사전 지우기 서명이 제거되면 Unraid는 디스크를 다시 지우는 긴 프로세스를 거칩니다
 ISO File is=ISO 파일:
 ISO File Shares=ISO 파일 공유
@@ -61,7 +60,6 @@ Loading=불러오는 중
 Log=로그
 Mount=마운트
 Mounting=마운트 중
-Mount point=마운트 지점
 NFS Mount Point=NFS 마운트 지점 변경 
 NFS or ISO File Shares configured=NFS 또는 ISO 파일 공유 없음
 NFS Script=NFS 스크립트 편집
@@ -98,7 +96,6 @@ Search for Shares or enter the Share name manually=공유를 검색하거나 수
 Searching=검색 중
 Select the Mount Point to Root Share=루트 공유에 대한 마운트 지점 선택
 Serial Number Mountpoint=일련 번호 (마운트 지점)
-Serial Number Mount Point=일련 번호 (마운트 지점)
 share for=다음에서 공유:
 Simple=간편
 SMB Shares=SMB 공유
@@ -190,4 +187,4 @@ You will need to enter credentials to list the shares=
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: May 7, 2022 - 18 missing translations
+; Note: May 20, 2022 - 9 missing translations
