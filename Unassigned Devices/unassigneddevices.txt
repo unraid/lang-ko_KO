@@ -77,6 +77,7 @@ Partition and Format Disk=디스크 파티션 및 포맷
 Pass Thru=패스 스루
 Password=암호
 Read only=읽기 전용
+Reboot=
 Refresh Disks and Configuration=디스크 및 설정 새로 고침
 Remember your password It cannot be recovered=비밀번호는 복구할 수 없으므로 잘 기억해 두세요 
 Remote Share is=원격 공유:
@@ -187,4 +188,4 @@ You will need to enter credentials to list the shares=
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: May 26, 2022 - 9 missing translations
+; Note: May 29, 2022 - 10 missing translations
