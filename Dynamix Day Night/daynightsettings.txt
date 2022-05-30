@@ -30,4 +30,4 @@ to obtain a MapQuest API key=
 > The **night** theme is selected between sunset and sunrise
 :end
 
-; Note: May 29, 2022 - 21 missing translations
+; Note: May 30, 2022 - 21 missing translations

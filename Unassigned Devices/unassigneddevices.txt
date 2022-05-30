@@ -22,6 +22,7 @@ Changing the Mount Point will also change the disk label=마운트 지점을 변
 Click to select ISO file=ISO 파일을 선택하려면 클릭하세요
 Click to view/hide partitions and mount points=파티션 및 마운트 지점을 보거나 숨기려면 클릭하세요
 Complete=완료
+Device=장치
 Disks=디스크
 Disk Label=디스크 레이블
 Disk Log Information=디스크 로그 정보
@@ -46,12 +47,13 @@ Formatting=포맷 중
 Free=여유
 from disk=디스크에서
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=설정 -> 전역 공유 설정으로 이동하여 디스크 공유 활성화를 자동 또는 끄기로 설정합니다
+Historical=
 Historical Devices=기록 장치
-If this disk was pre-cleared, you will remove the pre-clear signature.=
+Identification=식별자
+If this disk was pre-cleared, you will remove the pre-clear signature=
 If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=어레이에 디스크를 추가하고 사전 지우기 서명이 제거되면 Unraid는 디스크를 다시 지우는 긴 프로세스를 거칩니다
 ISO File is=ISO 파일:
 ISO File Shares=ISO 파일 공유
-Identification=식별자
 If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=디스크 암호를 사용하는 경우 마운트할 수 있도록 UD 설정에서 이 디스크의 암호를 입력해야 합니다
 Device=장치
 Leave blank to use the array passwordpassphrase=어레이 암호(Password/Passphrase)를 사용하려면 비워 둡니다.
@@ -59,6 +61,7 @@ Load Shares=공유 불러오기
 Loading=불러오는 중
 Log=로그
 Mount=마운트
+Mount Point=
 Mounting=마운트 중
 NFS Mount Point=NFS 마운트 지점 변경 
 NFS or ISO File Shares configured=NFS 또는 ISO 파일 공유 없음
@@ -89,14 +92,15 @@ Remove Remote SMB=제거: 원격 SMB
 Remove partition=제거: 파티션
 Run with CORRECT flag='CORRECT' 플래그로 실행
 Running=실행 중
-Shares=공유
 Script=스크립트
 Search For Servers=서버에서 검색
 Search for Servers, or enter the Server nameIP address manually=서버를 검색하거나 서버 이름IP 주소를 수동으로 입력하세요
 Search for Shares or enter the Share name manually=공유를 검색하거나 수동으로 공유 이름을 입력하세요
 Searching=검색 중
 Select the Mount Point to Root Share=루트 공유에 대한 마운트 지점 선택
-Serial Number Mountpoint=일련 번호 (마운트 지점)
+Serial Number (Mount Point)=
+Shares=공유
+Share Type=
 share for=다음에서 공유:
 Simple=간편
 SMB Shares=SMB 공유
@@ -188,4 +192,4 @@ You will need to enter credentials to list the shares=
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: May 29, 2022 - 10 missing translations
+; Note: May 30, 2022 - 14 missing translations
