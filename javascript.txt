@@ -52,9 +52,14 @@ Array Clearing=
 Array Starting=어레이 시작 중
 Array Stopping=어레이 중지 중
 Mounting disks=디스크들 마운트 중
+Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=모든 장치 스핀 업 중
+Stale configuration=
 Starting services=서비스 시작 중
 Stopping services=서비스 중지 중
+Starting Recycle Bin=
+Stopping Recycle Bin=
+Sync filesystems=
 Unmounting disks=디스크 마운트 해제 중
 Autostart disabled=자동 시작 비활성화됨
 Missing encryption key=암호화 키 누락됨
@@ -67,4 +72,4 @@ Container Variable=컨테이너 변수
 Container Label=컨테이너 라벨
 Container Device=컨테이너 장치
 
-; Note: May 29, 2022 - 2 missing translations
+; Note: June 6, 2022 - 7 missing translations

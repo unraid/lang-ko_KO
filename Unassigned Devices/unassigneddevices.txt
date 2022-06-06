@@ -192,4 +192,4 @@ You will need to enter credentials to list the shares=
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: May 30, 2022 - 13 missing translations
+; Note: June 6, 2022 - 13 missing translations
