@@ -12,6 +12,8 @@ Community Applications works best when cookies are enabled in your browser Certa
 Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활동 중. 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
 Debugging enabled This significantly increases the memory used by your browser=디버깅 활성화는 브라우저에서 사용하는 메모리를 크게 증가시킵니다.
 Browser translation detected Display issues may result=
+Running Background Application Tests=
+Action Centre Enabled=
 
 ; Sorting Options
 Sort By=다음으로 정렬:
@@ -438,4 +440,4 @@ An error occurred - Could not determine configuration=오류가 발생했습니�
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
 
-; Note: June 11, 2022 - 27 missing translations
+; Note: June 19, 2022 - 29 missing translations
