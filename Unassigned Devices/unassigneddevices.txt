@@ -90,7 +90,6 @@ Remove ISO File Share=제거: ISO 파일 공유
 Remove Partition=제거: 파티션
 Remove Remote SMB=제거: 원격 SMB
 Remove partition=제거: 파티션
-Run with CORRECT flag='CORRECT' 플래그로 실행
 Running=실행 중
 Script=스크립트
 Search For Servers=서버에서 검색
