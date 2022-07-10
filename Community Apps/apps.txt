@@ -12,7 +12,6 @@ Community Applications works best when cookies are enabled in your browser Certa
 Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활동 중. 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
 Debugging enabled This significantly increases the memory used by your browser=디버깅 활성화는 브라우저에서 사용하는 메모리를 크게 증가시킵니다.
 Browser translation detected Display issues may result=
-Running Background Application Tests=
 Action Centre Enabled=
 
 ; Sorting Options
@@ -361,6 +360,7 @@ Docker Application Installation finished=도커 앱 설치 완료
 
 ; Application Cards
 Actions=동작
+Pending=
 This application is a driver plugin=이 앱은 드라이버(플러그인)입니다.
 This is a language pack=언어 패키지입니다
 This application is a docker container=이 앱은 Docker 컨테이너입니다
