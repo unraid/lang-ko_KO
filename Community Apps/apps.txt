@@ -91,6 +91,7 @@ Update Plugin=
 
 Requirements not met=
 The requirements for this upgrade have not been met on your system=
+The sidebar for the app (click info) will list the details=
 
 BACK=돌아가기
 
@@ -440,4 +441,4 @@ An error occurred - Could not determine configuration=오류가 발생했습니�
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
 
-; Note: June 19, 2022 - 29 missing translations
+; Note: August 25, 2022 - 30 missing translations
