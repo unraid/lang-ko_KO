@@ -70,6 +70,7 @@ Nominal power=공칭 전력
 not received=수신되지 않음
 Only PNG images are allowed=PNG 이미지만 사용 가능합니다!
 Outbound=아웃바운드
+Output voltage=
 Overall Load=전체 부하
 Parity disk not present=패리티 디스크 없음
 Parity disks not present=패리티 디스크 없음
@@ -110,3 +111,5 @@ User count %s with %s unprotected=사용자 수: %s명, 보호되지 않음: %s�
 utilization warning=사용량 경고
 View Running Processes=실행중인 프로세스 보기
 Virtual Machines=가상 머신
+
+; Note: September 16, 2022 - 1 missing translations
