@@ -463,6 +463,7 @@ Oops=이런
 optional metric lowest is preferred, 0 is no default gateway=선택적 메트릭(최저치 선호됨, 0은 기본 게이트웨이 없음을 의미함)
 optional metric lowest is preferred=선택적 메트릭(최저치 선호됨)
 or=혹은
+Output voltage=
 Page view=페이지 보기
 Parity Check=패리티 검사
 Password=암호
@@ -571,6 +572,7 @@ Shutdown VMs=VM 종료
 shutdown=시스템 종료
 Sign In to Unraidnet required=Unraid.net에의 로그인이 필요합니다.
 Simple=간단
+Slave=
 Small=작음
 Smart=능동
 SMB Extras=SMB 추가 기능
@@ -760,4 +762,4 @@ Transient errors in this log can be ignored unless you are having issues=
 Unraid API extra origins=
 View Flash Backup Error Log=
 
-; Note: June 6, 2022 - 51 missing translations
+; Note: September 16, 2022 - 53 missing translations
