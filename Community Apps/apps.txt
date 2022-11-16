@@ -11,8 +11,8 @@ Array not started - Only Plugins Available To Be Installed Or Managed=
 Community Applications works best when cookies are enabled in your browser Certain features may not be available=커뮤니티 앱은 브라우저에서 쿠키가 활성화되어 있을 때 가장 잘 작동합니다. 특정 기능을 사용하지 못할 수 있습니다.
 Backup Server Active Some icons may not appear, and plugin installations may be affected=백업 서버 활동 중. 일부 아이콘이 표시되지 않을 수 있으며 플러그인 설치가 영향을 받을 수 있습니다.
 Debugging enabled This significantly increases the memory used by your browser=디버깅 활성화는 브라우저에서 사용하는 메모리를 크게 증가시킵니다.
-Browser translation detected Display issues may result=
-Action Centre Enabled=
+Browser translation detected Display issues may result=브라우저 번역이 감지되었습니다. 표시 문제가 발생할 수 있습니다.
+Action Centre Enabled=동작 센터가 활성화되었습니다.
 
 ; Sorting Options
 Sort By=다음으로 정렬:
@@ -110,8 +110,8 @@ Yes, remove it=네, 지우세요
 ; App Pinning
 Click to pin this application=이 앱을 고정하려면 클릭하세요.
 Click to unpin this application=이 앱을 고정 해제하려면 클릭하세요.
-Pin App=
-Unpin App=
+Pin App=앱 고정
+Unpin App=앱 고정 해제
 
 ; Branch installations
 Choose A Branch To Install=설치할 분기 선택
@@ -127,7 +127,7 @@ Yes, install them=네, 설치하세요
 Cookies not enabled Plugins must be separately installed from docker applications=쿠키가 활성화되지 않은 플러그인은 도커 앱과 별도로 설치해야 합니다.
 Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker 앱은 사용자 입력 없이 가장 최근에 저장된 템플릿을 사용하여 설치됩니다.
 Updating Support Links=지원 링크 업데이트 중
-Downloading docker icons=
+Downloading docker icons=Docker 아이콘 다운로드 중
 Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=설치가 완료되었습니다. 만약 완료 버튼이 보이지 않는다면 오른쪽 상단 모서리에 있는 빨간색 X 버튼을 클릭하세요.
 
 ; error messages
@@ -146,7 +146,7 @@ This usually means your flash drive is corrupted or has dropped offline The rest
 Fatal Docker Image Error=치명적 도커 이미지 오류
 Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=도커 이미지 또는 폴더가 읽기 전용이거나 완전히 꽉 찼습니다. 이로 인해 문제가 발생합니다. Unraid 포럼에 새 게시물을 만들고 진단사항을 포함해야 합니다.
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=이 템플릿은 사용자 지정 네트워크를 사용하도록 설정되어 있습니다. 시스템과 일치하도록 네트워크 또는 IP 주소 등을 조정해야 할 수 있습니다.
-One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=이 응용 프로그램에서 사용하는 하나 이상의 포트가 서버에서 실행 중인 다른 서비스나 응용 프로그램에서 이미 사용 중입니다. 템플릿에 따라 호스트 포트를 조정해야 합니다.
 
 ; CA Sections Keep the length reasonable
 Home=홈
@@ -154,7 +154,7 @@ Installed Apps=설치된 앱
 Previous Apps=이전 앱
 Pinned Apps=고정된 앱
 Favourite Repo=즐겨찾는 저장소
-Action Centre=
+Action Centre=동작 센터
 Recently Added=최근에 추가됨
 Random Apps=무작위 앱
 Top New Installs=상위 신규 설치
@@ -247,7 +247,7 @@ Proxy=프록시
 VOIP=VoIP
 VPN=가상사설망
 Web=웹
-Privacy=
+Privacy=개인정보
 Productivity=생산성
 Security=보안
 Spotlight=주목할 앱
@@ -322,7 +322,7 @@ WebUI=웹 UI
 Reinstall=재설치
 Reinstall From Previous Apps=이전 앱에서 재설치
 Install=설치
-Uninstall=
+Uninstall=제거
 Project=프로젝트
 Read Me First=먼저 읽어주세요
 Install second instance=두 번째 인스턴스 설치
@@ -361,7 +361,7 @@ Docker Application Installation finished=도커 앱 설치 완료
 
 ; Application Cards
 Actions=동작
-Pending=
+Pending=보류 중
 This application is a driver plugin=이 앱은 드라이버(플러그인)입니다.
 This is a language pack=언어 패키지입니다
 This application is a docker container=이 앱은 Docker 컨테이너입니다
@@ -399,9 +399,9 @@ Blacklisted=블랙리스트에 등재됨
 Template Exists=템플릿 존재
 Template already exists in Apps=템플릿이 앱에 이미 존재합니다
 ; eg: LinuxServer Repository
-%s Repository=
+%s Repository=%s 저장소
 ; eg: Squid's Repository
-%s's Repository=
+%s's Repository=%s의 저장소
 
 Info=정보
 Attention=중요 사항
@@ -426,12 +426,12 @@ Click here to view the language changelog=언어 변경 로그를 보려면 여�
 View Missing Translations=누락된 번역 보기
 
 ; Update Checks
-Check For Updates=
-Check for updates already running=
-Checking for docker container updates=
-Checking for plugin updates=
-Checking for language updates=
-Checking %s=
+Check For Updates=업데이트 확인
+Check for updates already running=업데이트 확인 작업이 이미 실행 중임
+Checking for docker container updates=Docker 컨테이너에 대한 업데이트 확인 중
+Checking for plugin updates=플러그인에 대한 업데이트 확인 중
+Checking for language updates=언어에 대한 업데이트 확인 중
+Checking %s=%s 확인 중
 
 ; dockerHub conversions
 Determine configuration=구성 결정
