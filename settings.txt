@@ -730,7 +730,7 @@ Your Lets Encrypt SSL Certificate has been renewed=Let's Encrypt SSL 인증서�
 Your local IP address %s has been updated for unraidnet=로컬 IP 주소 %s이(가) unraid.net에 대해 업데이트되었습니다
 Your router or DNS server has DNS rebinding protection enabled, preventing=라우터 또는 DNS 서버에 DNS 리바인딩 보호가 활성화되어 있습니다. 프로비저닝 중...
 Your server has been registered=서버가 등록되었습니다.
-Your Unraid Server is reachable from the internet=Unraid 서버는 인터넷에서 연결할 수 있습니다
+Your Unraid Server is reachable from the internet=이제 인터넷에서 Unraid 서버을 연결할 수 있습니다
 YYYY-MM-DD=
 
 ; My Servers plugin
