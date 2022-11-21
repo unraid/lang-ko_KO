@@ -442,6 +442,7 @@ preparing for reboot=다시 가동 준비 중
 preparing for shutdown=시스템 종료 준비 중
 Sleep=절전
 sleep=절전
+SLEEP=절전
 Start Array=어레이 시작
 starting the array=어레이 시작 중
 Stop Array=어레이 정지
