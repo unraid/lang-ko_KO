@@ -92,6 +92,7 @@ Select language file=언어 파일 선택
 Select language=언어 선택
 Show Details=자세한 정보 보기
 slots=슬롯
+Snapshots=스냅샷
 Stable=안정 버전
 Subject=제목
 System Devices=시스템 장치
