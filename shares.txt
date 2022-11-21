@@ -1,7 +1,7 @@
 Add Share=공유 추가
-All files encrypted=모든 파일 암호화됨
-All files protected=모든 파일 보호됨
-All files unprotected=모든 파일 미보호됨
+All files encrypted=모든 파일이 암호화됨
+All files protected=모든 파일이 보호됨
+All files unprotected=모든 파일이 미보호됨
 Allocation method=할당 방법
 Array must be Started to view Shares=공유를 보기 위해서는 반드시 어레이가 **시작**되어 합니다
 Automatically split any directory as required=자동으로 필요한 만큼 아무 디렉토리를 나누기
