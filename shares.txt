@@ -1,7 +1,7 @@
 Add Share=공유 추가
 All files encrypted=모든 파일 암호화됨
 All files protected=모든 파일 보호됨
-All files unprotected=모든 파일 비보호됨
+All files unprotected=모든 파일 미보호됨
 Allocation method=할당 방법
 Array must be Started to view Shares=공유를 보기 위해서는 반드시 어레이가 **시작**되어 합니다
 Automatically split any directory as required=자동으로 필요한 만큼 아무 디렉토리를 나누기
@@ -58,7 +58,7 @@ There are no exportable disk shares=내보내기 가능한 디스크 공유 없�
 There are no exportable user shares=내보내기 가능한 사용자 공유 없음
 Time Machine volume size limit=Time Machine 볼륨 용량 제한
 Unknown encryption state=암호화 상태 알 수 없음
-Use cache pool for new filesdirectories=캐시 풀 사용 (새 파일/디렉토리에)
+Use cache pool for new filesdirectories=캐시 풀 사용 (새 파일/디렉토리에 대한...)
 User Shares=사용자 공유
 Write=쓰기
 You cannot use the following within share names=공유 이름에 다음을 사용할 수 없습니다
