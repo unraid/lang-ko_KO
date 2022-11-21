@@ -52,6 +52,7 @@ in progress=진행 중
 Inactive tunnels=비활성화된 터널
 inactive=비활성화
 Inbound=인바운드
+invalid=유효하지 않음
 invalid device=유효하지 않은 장치
 invalid devices=유효하지 않은 장치
 Last check completed on %s=마지막 검사가 **%s**에 완료됨
