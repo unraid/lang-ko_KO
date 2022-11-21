@@ -24,7 +24,7 @@ No parity check entries found in syslog=syslog에 패리티 검사 항목이 없
 ParityRead-Check History=Parity/Read-Check History=패리티/읽기 검사 기록
 Parity Check=패리티 확인
 Parity Check Tuning logging=패리티 확인 동조 로그 남기기
-Parity Sync=패리티 싱크
+Parity Sync=패리티 동기화
 Pause an array operation at=어레이 작업 일시 중지
 Pause and Resume array operations if disks overheat=디스크 과열 시 어레이 작업 일시 중지 및 재개
 Read Check=읽기 검사
@@ -65,8 +65,8 @@ This can be much faster than having to run a full parity check or read check to 
 :end
 ; fields
 Click to show Error Sectors from syslog=syslog의 오류 섹터를 표시하려면 클릭하십시오.
-End point for check=
-Method used to specify start and stop points=
+End point for check=확인 종료 지점
+Method used to specify start and stop points=시작 및 중지 지점을 지정하는 데 사용되는 방법
 Only read checks can be performed=읽기 검사만 수행할 수 있습니다.
 percent=퍼센트
 Percentage=퍼센테이지
@@ -89,8 +89,8 @@ Correcting=교정 중
 Detected a change to the disk configuration=디스크 구성 변경을 감지함
 Drives cooled down=드라이브가 냉각됨
 Elapsed Time=경과 시간
-ERROR=
-Following drives overheated=
+ERROR=오류
+Following drives overheated=다음 드라이브가 과열 상태임
 IMPORTANT=중요사항
 Increments=증분
 Non-Correcting=교정되지 않음
@@ -166,7 +166,7 @@ Unusually large value=
 
 ; Syslog messages (with debug logging disabled)
 
-%s Cancelled=
+%s Cancelled=%s 취소됨
 Array not started so no action taken=
 as drives now cooled down=
 Following drives overheated=
@@ -181,19 +181,19 @@ already running=어레이 실행 중
 array drives=어레이 장치
 Array operation paused but drives not cooled enough to resume=
 Array operation paused but not for temperature related reason=
-Array stopping=
+Array stopping=어레이 정지 중
 Array stopping while %s was in progress %s=
 but no action currently taken on started event=
 but no parity check was in progress when array stopped=
 Cancel request=
-cool=
+cool=시원함
 created cron entries for running increments=
 created cron entry for monitoring disk temperatures=
 Detected that array has not yet been started=
 Detected that array has just been started=
 detected that mdcmd had been called from %s with command %s=
-ERROR=
-hot=
+ERROR=오류
+hot=뜨거움
 Loading progress file %s=
 No action specified=
 No array operation currently in progress=
