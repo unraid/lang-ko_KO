@@ -92,6 +92,7 @@ Select language file=언어 파일 선택
 Select language=언어 선택
 Show Details=자세한 정보 보기
 slots=슬롯
+Snapshots=스냅샷
 Stable=안정 버전
 Subject=제목
 System Devices=시스템 장치
@@ -115,6 +116,7 @@ to select your language=을(를) 참조하세요
 Trial key expires on=***평가판***키는 다음 날짜에 만료됩니다
 Trial=평가판
 Update OS=OS 업데이트
+Update Assistant=업데이트 지원
 Upgrade Key=키 업그레이드
 Uploaded=업로드됨
 uploading hardware information=하드웨어 정보 업로드 중
@@ -155,6 +157,7 @@ This controller is bound to vfio, connected drives are not visible=이 컨트롤
 To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=이 하드웨어의 일반적인 IOMMU 그룹을 보기 위해서는, [VM 관리자] 페이지로 이동해 **PCIe ACS 재정의** 설정을 **비활성화**로 설정하세요
 USB Devices=USB 장치
 Your system has booted with the PCIe ACS Override setting enabled=PCIe ACS 재정의 설정이 활성화된 상태로 시스템이 부팅되었습니다
+Your hardware profile has been submitted. Thank you=하드웨어 프로필이 제출되었습니다. 고맙습니다
 
 :diagnostics_1_plug:
 This utility is used for troubleshooting purposes. It will collect all of the system information and configuration files, and package these files in a single ZIP file which can be saved locally.

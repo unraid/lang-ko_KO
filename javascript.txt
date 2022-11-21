@@ -47,19 +47,19 @@ Yes, update it=네, 업데이트 하세요!
 Yes=네
 
 ; footer messages
-Array Copying=
-Array Clearing=
+Array Copying=어레이 복사 중
+Array Clearing=어레이 정리 중
 Array Starting=어레이 시작 중
 Array Stopping=어레이 중지 중
 Mounting disks=디스크들 마운트 중
-Retry unmounting user shares=Retry unmounting user share(s)
+Retry unmounting user shares=사용자 공유 마운트 해제 재시도
 Spinning up all drives=모든 장치 스핀 업 중
-Stale configuration=
+Stale configuration=오래된 구성
 Starting services=서비스 시작 중
 Stopping services=서비스 중지 중
-Starting Recycle Bin=
-Stopping Recycle Bin=
-Sync filesystems=
+Starting Recycle Bin=휴지통 시작 중
+Stopping Recycle Bin=휴지통 중지 중
+Sync filesystems=파일시스템 동기화
 Unmounting disks=디스크 마운트 해제 중
 Autostart disabled=자동 시작 비활성화됨
 Missing encryption key=암호화 키 누락됨
