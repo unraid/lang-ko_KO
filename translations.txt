@@ -682,17 +682,17 @@ Remark Unraids WAN IPv4 %1s does not match your clients WAN IPv4 %2s=설명: Unr
 This may indicate a complex network that will not work with this Remote Access solution=이것은 이 원격 접근 솔루션이 작동하지 않는 복잡한 네트워크라는 것을 나타내는 것일 수도 있습니다
 Ignore this message if you are currently connected via Remote Access or VPN=현재 원격 접근이나 VPN으로 연결되어 있는 경우 이 메시지를 무시하십시오
 
-Automated flash backups will be disabled until you sign in again=
-Click to copy LAN IP %s=
-DNS issue, unable to resolve wanip4unraidnet=DNS issue, unable to resolve wanip4.unraid.net
-Download latest backup from My Servers Dashboard before signing out=
-Have the code now Go Back=Have the code now? Go Back
-LAN IP Copied=
-Remote access will be disabled=
-Resend Code=
-Resend Email Verification Code=
-We have sent a verifcation email to %s=
-You will no longer have access to this server using this url=You will no longer have access to this server using <abbr title="%s" class="italic">this url</abbr>
+Automated flash backups will be disabled until you sign in again=다시 로그인할 때까지 자동 플래시 백업이 비활성화됩니다
+Click to copy LAN IP %s=클릭하여 LAN IP %s 복사
+DNS issue, unable to resolve wanip4unraidnet=DNS 결함, wanip4.unraid.net을 확인할 수 없음
+Download latest backup from My Servers Dashboard before signing out=로그아웃하기 전에 내 서버 대시보드에서 최신 백업을 다운로드하십시오
+Have the code now Go Back=지금 코드가 있습니까? 돌아가기
+LAN IP Copied=LAN IP가 복사됨
+Remote access will be disabled=원격 액세스가 비활성화됩니다
+Resend Code=코드 재전송
+Resend Email Verification Code=이메일 확인 코드 재전송
+We have sent a verifcation email to %s=%s에게 확인 이메일을 보냈습니다.
+You will no longer have access to this server using this url=더 이상 <abbr title="%s" class="italic">이 URL</abbr>을 사용하여 이 서버에 액세스할 수 없습니다.
 
 ; Dynamix File Manager - 2022-05-20
 %s year ago=%s년 경과
@@ -750,7 +750,7 @@ New file name=새 파일 이름
 New folder name=새 폴더 이름
 New owner=새 소유자
 New permission=새 권한
-No results found=
+No results found=검색된 결과 없음
 Not allowed to mix disk and user shares=디스크와 사용자 공유를 혼합하는 것은 허용되지 않습니다
 Objects to change=변경할 개체
 Objects to copy=복사할 개체
@@ -769,8 +769,8 @@ Rename Folder=폴더 이름 변경
 rename to=다음으로 이름 변경
 Renaming=이름 변경 중
 Save=저장
-Search=
-Search string=
+Search=검색
+Search string=문자열 검색
 Share name=공유 이름
 SHARE=공유
 Source device=원본 장치
@@ -858,7 +858,7 @@ Start Trial=시험판 시작
 Stop unraid-api=Unraid-API 중지
 Thank you for choosing Unraid OS and My Servers=Unraid OS 및 My Servers을 선택해 주셔서 감사합니다
 Thank you installing My Servers=My Servers을 설치해 주셔서 감사합니다
-This will connect your server to My Servers <sup>BETA</sup>=이렇게 하면 서버가 내 서버에 연결됩니다<sup>베타</sup>
+This will connect your server to My Servers <sup>BETA</sup>=이렇게 하면 서버가 My Servers에 연결됩니다<sup>베타</sup>
 To support more storage devices as your server grows click the Open Dropdown button=서버를 키우면서 더 많은 저장 장치 지원이 필요하면 *드롭다운 열기* 버튼을 클릭하세요
 To support more storage devices as your server grows click the Open Dropdown button=서버를 키우면서 더 많은 저장 장치 지원이 필요하면 *드롭다운 열기* 버튼을 클릭하세요
 To support more storage devices as your server grows click Upgrade Key=서버를 키우면서 더 많은 저장 장치 지원이 필요하면 *키 업그레이드*를 클릭하세요
