@@ -1,3 +1,4 @@
+Automatically open the sidebar=사이드바 자동 열기
 Hide Deprecated Applications=사용되지 않는 애플리케이션 숨기기
 This setting hides deprecated applications from the list of available apps Deprecated apps will still however display within the installed and previous apps sections=이 설정은 사용 가능한 앱 목록에서 더 이상 사용되지 않는 애플리케이션을 숨깁니다. 그러나 더 이상 사용되지 않는 앱은 설치된 앱과 이전 앱 섹션에 계속 표시됩니다.
 Hide Incompatible Applications=호환되지 않는 응용 프로그램 숨기기
