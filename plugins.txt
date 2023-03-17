@@ -1,4 +1,5 @@
 %s An update is available=%s에 대한 업데이트가 있습니다.
+Alert Message=
 anonymous=익명
 Author=제작자
 Check For Updates=업데이트 확인
@@ -19,13 +20,14 @@ Next=다음
 No plugins installed=플러그인이 설치되지 않음
 No release notes available=사용 가능한 릴리즈 노트 없음
 No response, aborting=응답 없음, 취소 중
-Plugin File=플러그인 파일
 Plugin File Install Errors=플러그인 파일 설치 오류
+Plugin File=플러그인 파일
 Plugin History=플러그인 기록
 Plugin Update Check=플러그인 업데이트 검사
 Plugin=플러그인
 Release Notes=릴리즈 노트
 Remove Plugin=플러그인 제거
+Remove Selected Plugins=
 remove=제거
 Select local plugin file=로컬 플러그인 파일 선택
 Stable=안정
@@ -36,3 +38,5 @@ Update All Plugins=모든 플러그인 업데이트
 Update Plugin=플러그인 업데이트
 Upgrade=업그레이드
 View Release Notes=릴리즈 노트 보기
+
+; Note: March 17, 2023 - 2 missing translations
