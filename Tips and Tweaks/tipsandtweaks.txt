@@ -1,10 +1,12 @@
 After a reboot from a lockup or hung server, you can view the saved log using the Syslog viewer=잠금 또는 정지된 서버에서 재부팅한 후 Syslog 뷰어를 사용하여 저장된 로그를 볼 수 있습니다
 Check the=Unraid 성능 향상 및 문제 해결에 대한 추가 아이디어는 
+Available User Watches=
 Click on Help for more information=자세한 내용을 보려면 도움말을 클릭하십시오
 Correct any problems that are identified before doing any tweaking=조정을 수행하기 전에 발견된 문제를 모두 해결하세요
 Current Disk Cache Settings=현재 디스크 캐시 설정
 Current Inotify Settings=현재 Inotify 설정
 Current NIC settings=현재 NIC 설정
+Current User Watches=
 Disable NIC Flow Control=NIC 흐름 제어 비활성화
 Disable NIC Offload=NIC 오프로드 비활성화
 Disk Cache=디스크 캐시 - 
@@ -34,7 +36,8 @@ Make changes slowly=천천히 변경하십시오
 Make one change at a time and verify if it improves your situation=한 번에 하나씩 변경하고 상태가 개선되는지 확인하십시오
 Making changes here can briefly interrupt your network operation=여기에서 변경사항을 적용하면 네트워크 작동이 잠시 중단될 수 있습니다
 Many plugins are no longer compatible with older Unraid versons=많은 플러그인이 더 이상 이전 Unraid 버전과 호환되지 않습니다
-Max Watches=최대 감시 - 
+Max SMB Open Files=
+Max User Watches=
 NIC Offload=NIC 오프로드
 NIC Rx Buffer=NIC 수신 버퍼
 NIC Tx Buffer=NIC 송신 버퍼
@@ -66,6 +69,7 @@ Tips=팁
 Tips and Tweaks wiki='Tips and Tweaks 위키'
 Tweaks=트윅
 Use the Update Assistant that is part of the Fix Common Problems plugin=공통 문제 수정 플러그인의 일부인 Update Assistant를 사용합니다
+Version 6.11.4 and later=
 You can check CPU frequencies on the command line with=다음을 사용하여 명령줄에서 CPU 주파수를 확인할 수 있습니다. - 
 You may actually cause more problems than you solve if there are problems with your Unraid configuration=Unraid 구성에 문제가 있는 경우 실제로 해결하는 것보다 더 많은 문제를 일으킬 수 있습니다
 
@@ -129,6 +133,12 @@ You may actually cause more problems than you solve if there are problems with y
 > The default is 524288.
 :end
 
+:tips_tweaks_max_files_plug:
+> This value is used by samba to set the maximum number of open files allowed in SMB shares.
+>
+> The default is 40960 and the allowed range is 40960 to 65535.
+:end
+
 :tips_tweaks_cpu_governor_plug:
 > Select the CPU Scaling Governor you want to use.
 >
@@ -187,4 +197,4 @@ You may actually cause more problems than you solve if there are problems with y
 :end
 
 
-; Note: September 16, 2022 - 7 missing translations
+; Note: March 17, 2023 - 12 missing translations

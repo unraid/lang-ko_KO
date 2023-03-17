@@ -65,8 +65,8 @@ This can be much faster than having to run a full parity check or read check to 
 :end
 ; fields
 Click to show Error Sectors from syslog=syslog의 오류 섹터를 표시하려면 클릭하십시오.
-End point for check=확인 종료 지점
-Method used to specify start and stop points=시작 및 중지 지점을 지정하는 데 사용되는 방법
+End point for check=
+Method used to specify start and stop points=
 Only read checks can be performed=읽기 검사만 수행할 수 있습니다.
 percent=퍼센트
 Percentage=퍼센테이지
@@ -90,7 +90,7 @@ Detected a change to the disk configuration=디스크 구성 변경을 감지함
 Drives cooled down=드라이브가 냉각됨
 Elapsed Time=경과 시간
 ERROR=오류
-Following drives overheated=다음 드라이브가 과열 상태임
+Following drives overheated=
 IMPORTANT=중요사항
 Increments=증분
 Non-Correcting=교정되지 않음
@@ -405,4 +405,4 @@ Method used to specify start and stop points=
 > sector is displayed and whether the it was being corrected or is a parity error.
 :end
 
-; Note: June 6, 2022 - 82 missing translations
+; Note: March 17, 2023 - 76 missing translations

@@ -1,7 +1,7 @@
 Add ISO File Share=추가: ISO 파일 공유
 Add Remote SMB=추가: 원격 SMB
 Add Root Share=추가: 루트 공유 
-An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=UD로 분할된 XFS 또는 BTRFS 디스크는 어레이 디스크 분할과 호환되며 어레이에 추가할 수 있습니다
+An XFS, BTRFS, or ZFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=
 Any data on this disk will be lost=이 디스크의 모든 데이터가 손실됩니다
 Are you sure=확실합니까
 Auto mount=자동 마운트
@@ -49,9 +49,11 @@ from disk=디스크에서
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=설정 -> 전역 공유 설정으로 이동하여 디스크 공유 활성화를 자동 또는 끄기로 설정합니다
 Historical=기록
 Historical Devices=기록 장치
+Historical Device is=
 Identification=식별자
 If this disk was pre-cleared, you will remove the pre-clear signature=이 디스크가 사전 삭제된 경우 사전 정리 서명을 제거합니다
 If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=어레이에 디스크를 추가하고 사전 지우기 서명이 제거되면 Unraid는 디스크를 다시 지우는 긴 프로세스를 거칩니다
+is offline=
 ISO File is=ISO 파일:
 ISO File Shares=ISO 파일 공유
 If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=디스크 암호를 사용하는 경우 마운트할 수 있도록 UD 설정에서 이 디스크의 암호를 입력해야 합니다
@@ -63,16 +65,18 @@ Log=로그
 Mount=마운트
 Mount Point=마운트 지점
 Mounting=마운트 중
+Next=다음
 NFS Mount Point=NFS 마운트 지점 변경 
 NFS or ISO File Shares configured=NFS 또는 ISO 파일 공유가 없습니다
 NFS Script=NFS 스크립트 편집
+NFS Script Log=NFS 스크립트 로그
 NFS Share=NFS 공유
 NFS Shares=NFS 공유
-Next=다음
 No Remote SMB=구성된 원격 SMB
 No Unassigned Disks available=사용 가능한 '할당되지 않은 디스크'가 없습니다
 not installed=설치되지 않음
 Note=참고사항
+offilne=
 You must enable NFS in Settings->NFS to mount NFS shares=NFS 공유를 마운트하려면 설정->NFS에서 NFS를 활성화해야 합니다
 You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트하려면 설정->SMB에서 SMB를 활성화해야 합니다
 Open=열기
@@ -126,30 +130,15 @@ Username=사용자 이름
 View Device Script Log=장치 스크립트 로그 보기
 View ISO File Script Log=ISO 파일 스크립트 로그 보기
 View Remote SMB=원격 SMB 보기
+WARNING=경고
 When you copy files between shares in the Root Share, the files may not end up on the expected disks=루트 공유의 공유 간에 파일을 복사하면 파일이 예상 디스크에 도달하지 않을 수 있습니다
-NFS Script Log=NFS 스크립트 로그
+Working=
 You can also subject yourself to security issues like ransomware by exposing all your shares in one Root Share=하나의 루트 공유에 모든 공유를 노출함으로 인해 랜섬웨어와 같은 보안 문제에 노출될 수도 있습니다
 You must enable NFS in Settings->NFS to mount NFS shares=NFS 공유를 마운트하려면 설정->NFS에서 NFS를 활성화해야 합니다
 You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트하려면 설정->SMB에서 SMB를 활성화해야 합니다
 You must enable the Destructive Mode in UD Settings before you can Format this disk=이 디스크를 포맷하기 전에 UD 설정에서 파괴 모드를 활성화해야 합니다
-WARNING=경고
 You WILL have problems if you do=다음과 같은 문제가 발생될 수 있습니다
 You will need to enter credentials to list the shares=공유를 나열하려면 자격 증명을 입력해야 합니다
-
-; Help
-;
-:unassgned_devices_switches_plug:
-> Turn off the **Complete** switch to change the web page to just show hardware devices. Turn on the **Simple** switch to switch back to the full web display.
->
-> Turn on the **None** switch to show all device partitions. Turn off **All** switch to switch back to not show partitions.
->
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-refresh"></i> icon to rescan disks.
->
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-gear"></i> icon to go to the UD Settings.
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-refresh"></i> icon to refresh disks and configuration.
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-gear"></i> icon to go to the UD Settings.
-> You can spin a disk up or down by clicking on the disk ball <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i>indicator. Applies to version 6.9 RC2 and later only.
-:end
 
 :unassigned_devices_general_help_plug:
 > **Unassigned Devices is called UD for short.**
@@ -191,4 +180,4 @@ You will need to enter credentials to list the shares=공유를 나열하려면 
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: June 6, 2022 - 13 missing translations
+; Note: March 17, 2023 - 5 missing translations
