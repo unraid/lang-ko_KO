@@ -19,6 +19,7 @@ Change ISO File Mount Point=ISO 파일 마운트 지점 변경
 Change Remote Share Mount Point=원격 공유 마운트 지점 변경
 Change SMB=SMB
 Changing the Mount Point will also change the disk label=마운트 지점을 변경하면 디스크 레이블도 변경됩니다
+Clear=
 Click to select ISO file=ISO 파일을 선택하려면 클릭하세요
 Click to view/hide partitions and mount points=파티션 및 마운트 지점을 보거나 숨기려면 클릭하세요
 Complete=완료
@@ -139,6 +140,7 @@ You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트
 You must enable the Destructive Mode in UD Settings before you can Format this disk=이 디스크를 포맷하기 전에 UD 설정에서 파괴 모드를 활성화해야 합니다
 You WILL have problems if you do=다음과 같은 문제가 발생될 수 있습니다
 You will need to enter credentials to list the shares=공유를 나열하려면 자격 증명을 입력해야 합니다
+ZFS Pool Name=
 
 :unassigned_devices_general_help_plug:
 > **Unassigned Devices is called UD for short.**
@@ -180,4 +182,4 @@ You will need to enter credentials to list the shares=공유를 나열하려면 
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: March 17, 2023 - 5 missing translations
+; Note: April 11, 2023 - 7 missing translations

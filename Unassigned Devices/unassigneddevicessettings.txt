@@ -3,6 +3,7 @@ Auto Mount USB Devices=USB 장치 자동 마운트
 Change Disk UUID=디스크 UUID 변경
 Change UUID=UUID 변경
 Change the disk UUID=디스크 UUID 변경
+Command times=
 Common Script=공용 스크립트
 Common Settings=공용 설정
 Destructive Mode=파괴 모드
@@ -17,6 +18,7 @@ NFS Security=NFS 보안
 NFS Settings=NFS 설정
 NFS must be enabled in Settings->NFS to enable NFS Export=NFS 내보내기를 활성화하려면 우선 설정->NFS에서 NFS를 활성화해야 합니다
 NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
+Refresh and Update=
 Rule=규칙
 SMB Security=SMB 보안
 Select Disk=디스크 선택
@@ -29,6 +31,7 @@ Specify SMB Version when Mounting Remote Shares=원격 공유 마운트시 SMB �
 Spin down disks=디스크 스핀다운
 The Unassigned Devices Plus plugin must be installed to enable Destructive Mode=파괴 모드를 활성화하려면 "Unassigned Devices Plus" 플러그인을 설치해야 합니다
 to SMB share config=추가
+Udev and Hotplug=
 Unassigned Devices=할당되지 않은 장치
 Unraid 6.10 or later is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10 이상이 필요합니다
 Use only when directed for support=지원 요청 시에만 사용
@@ -125,3 +128,5 @@ Use only when directed for support=지원 요청 시에만 사용
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
+
+; Note: April 11, 2023 - 3 missing translations

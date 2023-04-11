@@ -3,7 +3,7 @@ File Activity Monitoring=파일 활동 모니터링
 Start File Activity=파일 활동 시작
 Stop File Activity Monitoring=파일 활동 모니터링 중지
 Clear the File Activity log=파일 활동 로그 삭제
-Refresh log=로그 새로고침
+Refresh Page=
 Enable File Activity Monitoring=파일 활동 모니터링 활성화
 Enable for Unassigned Devices=할당되지 않은 장치에서 활성화
 Enable for Cache and Pool Disks=캐시 및 풀 디스크에서 활성화
@@ -34,6 +34,5 @@ Enable for Cache and Pool Disks=캐시 및 풀 디스크에서 활성화
 > 캐시 및 풀 디스크에 대한 파일 활동 모니터링을 활성화하려면 **예**로 설정합니다. 풀 디스크는 Unraid 6.9에만 적용됩니다.
 :end
 
-:file_activity_log_by_plug:
-> **디스크**로 설정하여 디스크 활동을 기록합니다. 공유 활동을 기록하려면 **공유**로 설정합니다.
-:end
+
+; Note: April 11, 2023 - 1 missing translations
