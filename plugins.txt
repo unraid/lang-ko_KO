@@ -35,8 +35,9 @@ STALE=부실
 Support Thread=지원 스레드
 Uninstall=제거
 Update All Plugins=모든 플러그인 업데이트
+Update Incompatible=
 Update Plugin=플러그인 업데이트
 Upgrade=업그레이드
 View Release Notes=릴리즈 노트 보기
 
-; Note: March 17, 2023 - 2 missing translations
+; Note: April 11, 2023 - 3 missing translations

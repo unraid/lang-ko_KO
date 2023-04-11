@@ -195,6 +195,8 @@ raidz3=
 Raw Value=원시 값
 Raw View=원시 뷰
 Read-Check in progress=읽기 검사(Read-Check) 진행 중
+Read errors corrected=
+Read errors detected=
 Reading=읽는 중
 Reboot in safe mode=안전 모드로 다시 시작
 Registration Key Manager=등록 키 관리자
@@ -373,4 +375,4 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: March 17, 2023 - 28 missing translations
+; Note: April 11, 2023 - 30 missing translations

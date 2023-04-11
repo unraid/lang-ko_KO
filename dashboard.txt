@@ -94,6 +94,7 @@ Parity disks not present=패리티 디스크 없음
 Parity has not been checked yet=패리티가 아직 검사되지 않음
 Parity Information=
 Parity is degraded=패리티 성능이 저하됨
+Pool=
 Power Status=
 Power=전원
 Processor Information=
@@ -141,4 +142,4 @@ VPN Connections=
 Warnings=
 ZFS=
 
-; Note: March 17, 2023 - 29 missing translations
+; Note: April 11, 2023 - 30 missing translations

@@ -263,6 +263,7 @@ Fahrenheit=화씨
 Failed to open=열기 실패
 Failed to stop=정지 실패
 Failure to do so may result in your docker image suffering corruption at a later time=안 그러면 나중에 Docker 이미지가 손상될 수 있습니다.
+Finished=
 First day=첫째 날
 First week=첫째 주
 Flash backup=플래시 백업
@@ -764,11 +765,25 @@ YYYY-MM-DD=
 zfs=
 
 ; My Servers plugin
+Account status=
+Also delete cloud backup Restore from backup will be unavailable=Also delete cloud backup. Restore from backup will be unavailable.
+Always - Manual Port Forward=
+Always - UPnP=
 Are you sure you want pause communication with your remote flash backup on unraidnet=unraid.net에서 원격 플래시 백업과의 통신을 일시 중지하시겠습니까?
+Are you sure you want to delete your cloud backup Restore from backup will be unavailable=Are you sure you want to delete your cloud backup? Restore from backup will be unavailable.
+Are you sure you want to delete your local flash backup=Are you sure you want to delete your local flash backup?
 Are you sure you want to erase all change history in both local and unraidnet remote=로컬 및 unraid.net 원격 모두에서 모든 변경 내역을 지우시겠습니까?
+Connected to My Servers Cloud=
+Delete Cloud Backup=
+Disabled until connected to My Servers Cloud=
+Disabled until you have signed in=
+Disabled until you Provision a myunraidnet SSL Cert=Disabled until you Provision a myunraid.net SSL Cert
 Disabled until you Provision an unraidnet SSL Cert and set SSL-TLS to Auto=unraid.net SSL 인증서를 프로비저닝하고 SSL-TLS를 자동으로 설정할 때까지 비활성화됩니다
 Disabled until you Provision an unraidnet SSL Cert=unraid.net SSL 인증서를 프로비저닝할 때까지 비활성화됩니다
 Disabled until your root user account is password-protected=루트 사용자 계정이 암호로 보호될 때까지 비활성화됩니다
+Dynamic - Manual Port Forward=
+Dynamic - UPnP=
+Dynamic Remote Access allows you to do stuff that someone else can explain=Dynamic Remote Access allows you to do stuff that someone else can explain.
 Enable Transparent 2FA for Local Access=로컬 액세스에 투명한 2FA 활성화
 Enable Transparent 2FA for Remote Access=원격 액세스에 투명한 2FA 활성화
 In order to activate Flash Backup there must be at least 1GB of free space on your flash drive=플래시 백업을 활성화하려면 플래시 드라이브에 최소 1GB의 여유 공간이 있어야 합니다.
@@ -794,4 +809,4 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: March 17, 2023 - 70 missing translations
+; Note: April 11, 2023 - 85 missing translations

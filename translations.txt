@@ -168,6 +168,7 @@ Interface=인터페이스
 Invalid Username or Password=올바르지 않은 계정 이름 혹은 비밀번호
 IOMMU=IOMMU
 is available=사용 가능
+Job=
 KB=KB
 Keep server details anonymous=서버의 세부 정보를 익명으로 유지
 Kernel=커널
@@ -710,7 +711,7 @@ This may indicate a complex network that will not work with this Remote Access s
 We have sent a verifcation email to %s=%s에게 확인 이메일을 보냈습니다.
 You will no longer have access to this server using this url=더 이상 <abbr title="%s" class="italic">이 URL</abbr>을 사용하여 이 서버에 액세스할 수 없습니다.
 
-; Dynamix File Manager - 2022-05-20
+; Dynamix File Manager - 2023-04-11
 %s year ago=%s년 경과
 %s years ago=%s년 경과
 Action=동작
@@ -742,6 +743,7 @@ DEVICE=장치
 Download File=파일 다운로드
 Enter a valid target=유효한 대상을 입력하세요
 Expand=확장
+File is removed=
 File Manager=파일 관리자
 File name=파일 이름
 file type=파일 유형
@@ -755,7 +757,11 @@ in %s folders and %s files=%s 폴더 및 %s 파일
 Invalid path=잘못된 경로
 Invalid source=잘못된 원본
 Invalid target=잘못된 대상
+Job running=
+Jobs=
 Last modified=최종 수정
+Minimize=
+more=
 Move Device=장치 이동
 Move File=파일 이동
 Move Folder=폴더 이동
@@ -766,6 +772,7 @@ New file name=새 파일 이름
 New folder name=새 폴더 이름
 New owner=새 소유자
 New permission=새 권한
+No jobs scheduled=
 No results found=검색된 결과 없음
 Not allowed to mix disk and user shares=디스크와 사용자 공유를 혼합하는 것은 허용되지 않습니다
 Objects to change=변경할 개체
@@ -779,12 +786,15 @@ Owner=소유자
 Page will be reloaded=페이지가 새로 고침됩니다
 Parent Directory=상위 디렉토리
 Permission=권한
+Queue=
 Removing=제거 중
 Rename File=파일 이름 변경
 Rename Folder=폴더 이름 변경
 rename to=다음으로 이름 변경
 Renaming=이름 변경 중
 Save=저장
+Scheduled Jobs=
+Search pattern=
 Search string=문자열 검색
 Search=검색
 Share name=공유 이름
@@ -823,6 +833,7 @@ This renames the selected source=
 Toggle TimeAge display=시간/수명 표시 전환
 Total occupied space=총 점유 공간
 Updating=업데이트 중
+Upload Error=
 Use sparse option=
 year=년
 years=년
@@ -898,4 +909,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=등록 키를 구입하거나 무료 30일 평가판 키를 설치할 때까지 서버를 사용할 수 없습니다
 Your Unraid registration key is ineligible for replacement as it is blacklisted=귀하의 Unraid 등록 키는 블랙리스트에 등록되어 있으므로 교체할 수 없습니다
 
-; Note: March 17, 2023 - 44 missing translations
+; Note: April 11, 2023 - 55 missing translations
