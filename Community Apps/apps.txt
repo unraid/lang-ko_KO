@@ -148,8 +148,8 @@ Your docker image or folder is either read-only or completely full Issues will r
 This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=이 템플릿은 사용자 지정 네트워크를 사용하도록 설정되어 있습니다. 시스템과 일치하도록 네트워크 또는 IP 주소 등을 조정해야 할 수 있습니다.
 This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=이 응용 프로그램에서 사용하는 하나 이상의 포트가 서버에서 실행 중인 다른 서비스나 응용 프로그램에서 이미 사용 중입니다. 템플릿에 따라 호스트 포트를 조정해야 합니다.
-Not Enough Memory=
-Community Applications (and Unraid OS) have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
+Not Enough Memory=메모리가 부족합니다
+Community Applications (and Unraid OS) have a minimum required installed memory of 4G CA cannot run without those mimimums being met=커뮤니티 앱(및 Unraid OS)에는 4G의 최소 필수 설치 메모리가 있습니다. 이러한 최소값이 충족되지 않으면 CA가 실행할 수 없습니다
 
 ; CA Sections Keep the length reasonable
 Home=홈
