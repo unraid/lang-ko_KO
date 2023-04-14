@@ -5,7 +5,7 @@ This setting will hide applications that are listed as being incompatible with y
 Allow install of second instance=두 번째 인스턴스 설치 허용
 This option enables another button on the cards and popups which will allow you to reinstall an installed application using its default template values This option can be confusing at times, and is only generally used if you wish to install and have an application running twice simultaneously=이 옵션을 사용하면 기본 템플릿 값을 사용하여 설치된 응용 프로그램을 다시 설치할 수 있습니다. 이 옵션은 때때로 혼동될 수 있으며 일반적으로 응용 프로그램을 두 번 설치하고 동시에 실행하려는 경우에만 사용됩니다.
 Automatically open the sidebar=사이드바 자동 열기
-Allows CA to automatically open the sidebar for more information when hovering over an application's icon=
+Allows CA to automatically open the sidebar for more information when hovering over an application's icon=애플리케이션 아이콘 위로 마우스를 가져갈 때 CA가 추가 정보를 위해 사이드바를 자동으로 열 수 있도록 합니다
 Allow CA to check for updates to applications=CA가 애플리케이션 업데이트를 확인하도록 허용
 This setting enables CA to check for updates to applications Note that Community Applications will always check for updates to itself=이 설정을 사용하면 CA가 애플리케이션 업데이트를 확인할 수 있습니다. 커뮤니티 애플리케이션은 항상 자체 업데이트를 확인합니다.
 Allow CA to send any emergency notifications=CA가 긴급 알림을 보낼 수 있도록 허용

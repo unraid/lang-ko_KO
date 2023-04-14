@@ -1,5 +1,5 @@
 %s An update is available=%s에 대한 업데이트가 있습니다.
-Alert Message=
+Alert Message=경고 메시지
 anonymous=익명
 Author=제작자
 Check For Updates=업데이트 확인
@@ -27,7 +27,7 @@ Plugin Update Check=플러그인 업데이트 검사
 Plugin=플러그인
 Release Notes=릴리즈 노트
 Remove Plugin=플러그인 제거
-Remove Selected Plugins=
+Remove Selected Plugins=선택된 플러그인 제거
 remove=제거
 Select local plugin file=로컬 플러그인 파일 선택
 Stable=안정
