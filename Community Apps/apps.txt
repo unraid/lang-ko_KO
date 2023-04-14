@@ -311,7 +311,7 @@ Current Version=현재 버전
 Min OS=최소 OS
 Max OS=최대 OS
 Total Downloads=총 다운로드 수
-Popularity=
+Popularity=인기
 Licence=라이선스
 Ranked #%s=#%s 랭크됨
 ; as in Trending up or down arrow
