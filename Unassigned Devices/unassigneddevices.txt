@@ -20,7 +20,6 @@ Change Remote Share Mount Point=원격 공유 마운트 지점 변경
 Change SMB=SMB
 Changing the Mount Point will also change the disk label=마운트 지점을 변경하면 디스크 레이블도 변경됩니다
 Clear=지우기
-Clear Disk=다음의 디스크을 지울까요:
 Click to select ISO file=ISO 파일을 선택하려면 클릭하세요
 Click to view/hide partitions and mount points=파티션 및 마운트 지점을 보거나 숨기려면 클릭하세요
 Complete=완료
@@ -28,7 +27,6 @@ Device=장치
 Disks=디스크
 Disk Label=디스크 레이블
 Disk Log Information=디스크 로그 정보
-Data on this disk will be lost=본 디스크의 데이터가 손실됩니다
 Disk Sharing must be disabled to add a Root Share=루트 공유를 추가하려면 디스크 공유를 비활성화해야 합니다
 Do NOT use a remote share local mount in a Docker container or VM for critical data=중요한 데이터에 대해 Docker 컨테이너 또는 VM에서 원격 공유 로컬 마운트를 사용하지 마십시오
 Do not put files or folders into the /mnt/rootshare/ folder=파일이나 폴더를 /mnt/rootshare/ 폴더에 넣지 마십시오
@@ -123,7 +121,6 @@ This will remove the saved configuration of=다음의 저장된 구성이 제거
 This will remove the=다음의 항목이 제거됩니다
 to confirm=확인
 to format=라고 쓰면 포맷됩니다
-to clear this disk of all partitions=라고 쓰면 본 디스크의 모든 파티션이 지워집니다
 Unmount=마운트 해제
 Unmounting=마운트 해제 중
 Use caution when gathering shares into one Root Share=공유를 하나의 루트 공유로 수집할 때 주의하십시오
@@ -184,5 +181,3 @@ ZFS Pool Name=ZFS 풀 이름
 > + '/usr/local/sbin/rc.unassigned umount /dev/sdX' - unmount device sdX where 'X' is the device designator. You can use this command in a UD script to unmount the device when the script has completed.
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
-
-; Note: April 11, 2023 - 7 missing translations

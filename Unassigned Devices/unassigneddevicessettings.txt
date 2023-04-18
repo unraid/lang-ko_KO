@@ -128,5 +128,3 @@ Use only when directed for support=지원 요청 시에만 사용
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
-
-; Note: April 11, 2023 - 3 missing translations
