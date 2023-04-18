@@ -72,4 +72,4 @@ User Shares=사용자 공유
 Write=쓰기
 You cannot use the following within share names=공유 이름에 다음을 사용할 수 없습니다
 
-; Note: April 18, 2023 - 9 missing translations
+; Note: April 18, 2023 - 8 missing translations

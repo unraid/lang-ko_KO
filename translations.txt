@@ -450,7 +450,6 @@ The command failed=명령이 실패했습니다
 The command finished successfully=명령이 성공적으로 끝났습니다
 TOTAL DATA PULLED=총 데이터 가져오기 수
 Was this container created using this plugin=이 플러그인을 사용하여 이 컨테이너를 만들었습니까
-Executes `unraid-api start`; no terminal needed=
 Please use a high quality name brand device at least 1GB in size min 4GB recommended=최소 1GB 이상의 고품질 유명 브랜드 장치를 사용하십시오(최소 4GB 권장)
 
 ; Dynamix.system.button plugin
@@ -854,7 +853,6 @@ DNS issue, unable to resolve wanip4unraidnet=DNS 결함, wanip4.unraid.net을 �
 Enhance your experience with My Servers=My Servers으로 경험 향상
 Enhance your Unraid experience with these My Servers BETA features=다음 플러그인의 기능으로 Unraid 경험을 향상시키십시오:<br> My Servers (BETA) features
 Enhance your Unraid experience with these<br> My Servers BETA features=다음 플러그인의 기능으로 Unraid 경험을 향상시키십시오:<br class=\hidden sm:block\/> My Servers (BETA)
-Executes `unraid-api start`; no terminal needed=
 For best results, use one of these urls=최상의 결과를 얻으려면 다음 URL 중 하나를 사용하세요
 Get started by installing the plugin=플러그인을 설치하여 시작하세요
 Go to My Servers Dashboard=My Servers 대시보드로 이동
@@ -910,4 +908,4 @@ Your current url %s is not in the list of allowed origins for this server=Your c
 Your server will not be usable until you purchase a Registration key or install a free 30-day Trial key=등록 키를 구입하거나 무료 30일 평가판 키를 설치할 때까지 서버를 사용할 수 없습니다
 Your Unraid registration key is ineligible for replacement as it is blacklisted=귀하의 Unraid 등록 키는 블랙리스트에 등록되어 있으므로 교체할 수 없습니다
 
-; Note: April 18, 2023 - 8 missing translations
+; Note: April 18, 2023 - 6 missing translations
