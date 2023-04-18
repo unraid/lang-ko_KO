@@ -40,4 +40,4 @@ Update Plugin=플러그인 업데이트
 Upgrade=업그레이드
 View Release Notes=릴리즈 노트 보기
 
-; Note: April 11, 2023 - 3 missing translations
+; Note: April 18, 2023 - 1 missing translations

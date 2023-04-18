@@ -173,7 +173,7 @@ VNC=VNC
 Wasnt able to stop the process=프로세스를 정지할 수 없었음
 Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
-wsport for virtual console=가상 콘솔용 WS포트 
+wsport for virtual console=가상 콘솔용 WS포트
 XML View=XML 보기
 
-; Note: March 17, 2023 - 34 missing translations
+; Note: April 18, 2023 - 1 missing translations

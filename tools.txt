@@ -337,4 +337,4 @@ is not unique (this is common with USB card readers).
 For more information, please [Contact Support](https://lime-technology.com/contact).
 :end
 
-; Note: March 17, 2023 - 24 missing translations
+; Note: April 18, 2023 - 1 missing translations
