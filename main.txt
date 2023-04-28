@@ -64,7 +64,6 @@ Device is part of a pool=장치는 풀의 일부입니다
 Device locked unknown error=장치 잠김: 알 수 없는 오류
 Device locked wrong encryption key=장치 잠김: 잘못된 암호 키
 Device to be encrypted=암호화 될 장치
-Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Disk in parity slot is not biggest=패리티 슬롯에 있는 디스크가 가장 크지 않습니다
 Disk Log Information=디스크 로그 정보
 Disk-Clear in progress=디스크 정리 진행 중
@@ -345,11 +344,12 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: April 28, 2023 - 30 missing translations
+; Note: April 29, 2023 - 31 missing translations
 Attributes not available=
 Autotrim=
 Capabilities not available=
 Compression=
+Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Identity is not available=
 Incorrect confirmation=
 mirror=
