@@ -646,7 +646,6 @@ Confirm closure then continue to webGUI=종료를 확인하고 webGUI로 계속
 Confirm Password=비밀번호 확인
 Confirm=확인
 Connect your Unraidnet account to get started=Connect your Unraid.net account to get started
-Connected to Mothership=Mothership과 연결됨
 Continue to Unraid=Unraid로 계속
 Continue Trial=평가판 계속
 Copied key url=키 URL 복사 됨
@@ -871,7 +870,7 @@ Your Unraid registration key is ineligible for replacement as it has been replac
 Your Unraid registration key is ineligible for replacement as it is blacklisted=귀하의 Unraid 등록 키는 블랙리스트에 등록되어 있으므로 교체할 수 없습니다
 Your USB Flash GUID and other relevant server data will also be sent=USB 플래시 GUID와 기타 관련되는 서버 데이터가 전송됩니다
 
-; Note: April 28, 2023 - 44 missing translations
+; Note: April 28, 2023 - 45 missing translations
 bond down=
 Calculated free space value=
 Press ANY KEY to close this window=
@@ -883,15 +882,16 @@ Confirm Connect plugin removal=
 Connect Error=
 Connect plugin install failed=
 Connect=
+Connected=
 Continue using Connect=
 Customizable Dashboard Tiles=
 Deep Linking=
+Disconnected=
 Download latest backup from Connect Dashboard before signing out=
 Download latest backup from Go to Connect before signing out=
 Download unraid-api Logs=
 Dynamic Remote Access=
 Enhance your experience with Connect=
-Executes `unraid-api start`; no terminal needed=
 Go to Connect=
 Go to Go to Connect=
 If this was an expired Trial installation, you may purchase a license key=
