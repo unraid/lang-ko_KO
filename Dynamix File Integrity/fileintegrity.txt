@@ -1,8 +1,5 @@
-Array must be Started to use this feature=Array must be **Started** to use this feature
 Dont start=Don't start
 HHMM=HH:MM
-Include duplicate file hashes in Find command=Include duplicate file hashes in **Find** command
-Syslog Output file=Syslog & Output file
 
 :integrity_control_plug:
 > Select the placement of the file integrity control page. By default it is placed under the *Tools* menu, but it may be moved under the *header* menu.
@@ -88,8 +85,9 @@ Syslog Output file=Syslog & Output file
 > Disabling error logging will suppress log creation, but it is still possible to receive notifications.
 :end
 
-; Note: April 28, 2023 - 45 missing translations
+; Note: April 29, 2023 - 48 missing translations
 Apple metadata=
+Array must be Started to use this feature=Array must be **Started** to use this feature
 Automatically protect new and modified files=
 BLAKE2=
 Build=
@@ -114,6 +112,7 @@ hash files=
 Hashing method=
 Header menu=
 Import=
+Include duplicate file hashes in Find command=Include duplicate file hashes in **Find** command
 log files=
 Low=
 MD5=
@@ -125,6 +124,7 @@ saved files=
 Send notifications=
 SHA2=
 Syslog only=
+Syslog Output file=Syslog & Output file
 Task=
 Time of the day=
 Toggle all=
