@@ -135,7 +135,6 @@ Toggle VM autostart=VM 자동 시작 전환
 type of storage image=저장소 이미지 종류
 Unknown action=알 수 없는 액션
 Unknown version=알 수 없는 버전
-Unlock sortable items=
 Unraid Mount tag=Unraid 마운트 태그
 Unraid Mount Tag=Unraid 마운트 태그
 Unraid Share Mode=Unraid 공유 모드
@@ -176,4 +175,5 @@ Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
 wsport for virtual console=가상 콘솔용 WS포트
 XML View=XML 보기
 
-; Note: April 18, 2023 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Unlock sortable items=

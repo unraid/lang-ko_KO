@@ -86,7 +86,6 @@ PHP Log File=PHP 로그 크기
 PHP Settings=PHP 설정
 Please check your=다음을 점검하세요
 please configure=다음을 설정해주세요
-Please provide diagnostics when experiencing problems=
 Please select a language before proceeding=진행하기 전에 언어를 선택하세요
 Please=부디
 Pool slots=풀 슬롯
@@ -337,4 +336,5 @@ is not unique (this is common with USB card readers).
 For more information, please [Contact Support](https://lime-technology.com/contact).
 :end
 
-; Note: April 18, 2023 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Please provide diagnostics when experiencing problems=

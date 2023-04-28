@@ -59,7 +59,6 @@ Icon URL=아이콘 URL
 Image ID=이미지 ID
 Key=키
 Label=라벨
-Lock sortable items=
 Management=관리
 MediaApp=미디어 앱
 MediaServer=미디어 서버
@@ -120,7 +119,6 @@ The command finished successfully=명령이 성공적으로 끝났습니다
 TOTAL DATA PULLED=총 받은 데이터
 Total size=총 용량
 Unknown action=알 수 없는 액션
-Unlock sortable items=
 Update All=모두 업데이트
 update ready=업데이트 준비됨
 Value=값
@@ -134,4 +132,6 @@ Web=웹
 WebUI=웹 UI
 Writable=쓰기 가능
 
-; Note: March 17, 2023 - 2 missing translations
+; Note: April 28, 2023 - 2 missing translations
+Lock sortable items=
+Unlock sortable items=

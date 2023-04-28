@@ -92,7 +92,6 @@ Overall Load=전체 부하
 Parity disk not present=패리티 디스크 없음
 Parity disks not present=패리티 디스크 없음
 Parity has not been checked yet=패리티가 아직 검사되지 않음
-Parity Information=
 Parity is degraded=패리티 성능이 저하됨
 Pool=풀
 Power Status=전원 상태
@@ -142,4 +141,5 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: April 18, 2023 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Parity Information=
