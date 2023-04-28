@@ -65,6 +65,7 @@ Bonding members of=본딩 구성원
 Bonding mode=본딩 모드
 boost=부스트
 Both=양자
+Both Web Virt-Manager Remote Viewer=Both Web & Virt-Manager Remote Viewer
 bottom-left=하단-왼쪽
 bottom-right=하단-오른쪽
 Bridging members of=브리지 구성원
@@ -110,6 +111,7 @@ Confirm sleep command=절전 명령 확인
 Confirmations=확인
 connect to any device on the VPN tunnel=VPN 터널의 모든 장치에 연결
 connect to this server using IP address=다음에 표시된 IP 주소를 사용하여 서버에 연결하세요. IP:
+Console Options=
 Container=컨테이너
 Content=문의
 Correct file system errors=현재 파일 시스템 오류
@@ -726,6 +728,7 @@ View libvirt log=libvirt 로그 보기
 View Local Config=로컬 설정 보기
 View Peer Config=피어 설정 보기
 view=보기
+Virt-Manager Remote Viewer=
 VLAN assignment mismatch=VLAN 할당 불일치
 VLAN number=VLAN 번호
 VM Manager=VM 관리자
@@ -743,6 +746,7 @@ VPN tunneled access=VPN 터널된 주소
 WAN Port=WAN 포트
 Warnings=경고
 Watts=와트
+Web interface=
 Week of the month=주일
 Weekly=주간
 WireGuard Configuration=WireGuard 설정
@@ -809,4 +813,4 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: April 18, 2023 - 38 missing translations
+; Note: April 28, 2023 - 42 missing translations

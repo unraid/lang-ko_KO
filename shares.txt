@@ -11,6 +11,8 @@ Automatically split only the top level directory as required=자동으로 필요
 Automatically split only the top three directory levels as required=자동으로 필요한 만큼 상위 세개 디렉토리 단계만 나누기
 Automatically split only the top two directory levels as required=자동으로 필요한 만큼 상위 두개 디렉토리 단계만 나누기
 Calculated free space value=
+Clean Up=
+CLEAN UP=
 Comments=코멘트
 Compute All=모두 계산
 Compute=계산
@@ -41,14 +43,19 @@ Mover transfers files from cache to array=무버가 캐시에서 어레이로 �
 Mover transfers files from Primary storage to Secondary storage=
 Mover transfers files from Secondary storage to Primary storage=
 next user share=다음 사용자 공유
+No unused share configurations present=
 Not used=
 Only=전용
 Prefer=선호
 previous user share=이전 사용자 공유
 Primary storage for new files and folders=Primary storage (for new files and folders)
+Primary storage to Secondary storage=
 Read=읽기
 Recompute=재계산
+Remove unused share configurations=
+Removed share configurations=
 Rule=규칙
+Secondary storage to Primary storage=
 Secondary storage=
 Select cache pool=캐시 풀 선택
 Set when adding new share only=새 공유를 추가할 때만 설정 가능
@@ -72,4 +79,4 @@ User Shares=사용자 공유
 Write=쓰기
 You cannot use the following within share names=공유 이름에 다음을 사용할 수 없습니다
 
-; Note: April 18, 2023 - 8 missing translations
+; Note: April 28, 2023 - 15 missing translations
