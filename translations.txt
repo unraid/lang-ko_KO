@@ -870,7 +870,7 @@ Your Unraid registration key is ineligible for replacement as it has been replac
 Your Unraid registration key is ineligible for replacement as it is blacklisted=귀하의 Unraid 등록 키는 블랙리스트에 등록되어 있으므로 교체할 수 없습니다
 Your USB Flash GUID and other relevant server data will also be sent=USB 플래시 GUID와 기타 관련되는 서버 데이터가 전송됩니다
 
-; Note: April 28, 2023 - 45 missing translations
+; Note: April 28, 2023 - 51 missing translations
 bond down=
 Calculated free space value=
 Press ANY KEY to close this window=
@@ -882,6 +882,7 @@ Confirm Connect plugin removal=
 Connect Error=
 Connect plugin install failed=
 Connect=
+Connected to Mothership=
 Connected=
 Continue using Connect=
 Customizable Dashboard Tiles=
@@ -894,8 +895,10 @@ Dynamic Remote Access=
 Enhance your experience with Connect=
 Go to Connect=
 Go to Go to Connect=
+Go to My Servers Dashboard=
 If this was an expired Trial installation, you may purchase a license key=
 If you need to change flash drives, generate a backup from Connect and be up and running in minutes=
+Installing Connect beta=Installing Connect (beta)
 License Management=
 Loading Connect data=
 Manage multiple servers from your phone, tablet, laptop, or PC in the same browser window=
@@ -904,6 +907,7 @@ Manage Your Server Within Connect=
 Never ever be left without a backup of your config=
 Online Flash Backup=
 Please access this server via the Go to Connect=
+Please access this server via the My Servers Dashboard=
 Please uninstall and reinstall the Connect plugin=
 Please wait…=
 Register for Connect by signing in to Unraid.net=
@@ -916,3 +920,5 @@ Thank you installing Connect=
 The Connect dashboard links to relevant sections of the webgui, allowing quick access to those settings and server sections=
 The Connect plugin install is incomplete=
 This will register your server with Connect <sup>BETA</sup>=
+Trial key expired at %s=
+With an Unraidnet account you can start using Connect beta which gives you access to the following features=With an Unraid.net account you can start using Connect (beta) which gives you access to the following features:
