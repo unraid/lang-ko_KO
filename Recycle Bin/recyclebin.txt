@@ -15,7 +15,6 @@ Excluded Files=파일 제외
 Excluded Shares=공유된 개체 제외
 Log Deleted Files=삭제된 파일 로그 남기기
 Recycle Bin=휴지통
-Recycle Bin is empty=
 Recycle Bin Log=휴지통 로그
 Recycle Bin parameters=휴지통 파라미터
 Recycle Bin permissions=휴지통 퍼미션
@@ -124,4 +123,5 @@ Update Recycle Bin Size in Background=휴지통 용량 업그레이드 백그라
 > Click on the 'Clear' button to clear the log.
 :end
 
-; Note: June 6, 2022 - 1 missing translations
+; Note: April 28, 2023 - 1 missing translations
+Recycle Bin is empty=

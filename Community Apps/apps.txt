@@ -149,7 +149,7 @@ This template is set up to use a custom network You may have to adjust the netwo
 This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=이 템플릿은 권한이 있는 상태로 실행되도록 설정되었습니다. 이것은 보안상 위험할 수 있으며 일반적으로 활성화할 필요가 없습니다. 일부 응용 프로그램은 올바르게 작동하려면 권한이 있어야 합니다
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=이 응용 프로그램에서 사용하는 하나 이상의 포트가 서버에서 실행 중인 다른 서비스나 응용 프로그램에서 이미 사용 중입니다. 템플릿에 따라 호스트 포트를 조정해야 합니다.
 Not Enough Memory=메모리가 부족합니다
-Community Applications (and Unraid OS) have a minimum required installed memory of 4G CA cannot run without those mimimums being met=커뮤니티 앱(및 Unraid OS)에는 4G의 최소 필수 설치 메모리가 있습니다. 이러한 최소값이 충족되지 않으면 CA가 실행할 수 없습니다
+Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=커뮤니티 앱 및 Unraid OS 에는 4G의 최소 필수 설치 메모리가 있습니다. 이러한 최소값이 충족되지 않으면 CA가 실행할 수 없습니다
 
 ; CA Sections Keep the length reasonable
 Home=홈
@@ -357,7 +357,7 @@ Trend Per Month=월간 인기
 Downloads Per Month=월간 다운로드 수
 
 ; Multi install script
-Installing docker applications %s=Docker 앱 %s 설치  
+Installing docker applications %s=Docker 앱 %s 설치
 Starting %s=%s 시작 중
 %s failed to start You should install it by itself to fix the errors=%s을(를) 시작하지 못했습니다. 오류를 수정하려면 자체적으로 설치해야 합니다.
 Setting installed applications to autostart=설치된 앱을 자동 시작하도록 설정하기
@@ -445,4 +445,9 @@ An error occurred - Could not determine configuration=오류가 발생했습니�
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
 
-; Note: March 17, 2023 - 4 missing translations
+; Note: April 28, 2023 - 5 missing translations
+Installation already in progress=
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=
+%s is incompatible with your OS version Please update the OS to proceed=
+%s is incompatible with your OS version Either uninstall %s or update the OS=
+Featured Applications=

@@ -1,4 +1,4 @@
-Hotplug USB=USB 핫플러그 
+Hotplug USB=USB 핫플러그
 Running VMs=실행 중인 VM
 Attach=연결
 Attach the USB device to the selected VM=선택한 VM에 USB 장치 연결
