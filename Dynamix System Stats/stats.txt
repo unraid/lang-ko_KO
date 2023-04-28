@@ -1,7 +1,6 @@
-Array must be Started to view disk stats=Array must be **Started** to view disk stats
-Array must be Started to view system stats=Array must be **Started** to view system stats
 
-; Note: April 28, 2023 - 31 missing translations
+
+; Note: April 29, 2023 - 33 missing translations
 30 seconds=
 1 minute=
 2 minutes=
@@ -11,6 +10,8 @@ Array must be Started to view system stats=Array must be **Started** to view sys
 1 hour=
 2 hours=
 Above=
+Array must be Started to view disk stats=Array must be **Started** to view disk stats
+Array must be Started to view system stats=Array must be **Started** to view system stats
 Available for Data=
 Below=
 CPU Load=
