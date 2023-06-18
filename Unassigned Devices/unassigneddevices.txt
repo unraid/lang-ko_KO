@@ -181,3 +181,11 @@ ZFS Pool Name=ZFS 풀 이름
 > + '/usr/local/sbin/rc.unassigned umount /dev/sdX' - unmount device sdX where 'X' is the device designator. You can use this command in a UD script to unmount the device when the script has completed.
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
+
+; Note: June 18, 2023 - 6 missing translations
+Invalid Configuration - Remove and Re-add=
+Not Enabled=
+Note: With User Shares, files on the Cache and Pool Devices will not show in the Root Share=
+User and Pool Shares will include all files in User Shares, Cache and Pool Devices=
+User Shares will allow access to User Shares, but the Root Share will not include Cache and Pool Device files=
+ZFS Volume=

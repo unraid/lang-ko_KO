@@ -2,7 +2,7 @@ Add=SMB 공유 구성에
 Auto Mount USB Devices=USB 장치 자동 마운트
 Change Disk UUID=디스크 UUID 변경
 Change UUID=UUID 변경
-Change the disk UUID=디스크 UUID 변경
+Change Disk UUID=디스크 UUID 변경
 Command times=명령 시간
 Common Script=공용 스크립트
 Common Settings=공용 설정
@@ -20,7 +20,6 @@ NFS must be enabled in Settings->NFS to enable NFS Export=NFS 내보내기를 �
 NFS Version to use when Mounting Remote Shares=원격 공유 마운트시 사용할 NFS 버전
 Refresh and Update=새로 고침 및 업데이트
 Rule=규칙
-SMB Security=SMB 보안
 Select Disk=디스크 선택
 Set Encrypted Disk Password=암호화된 디스크 암호 설정
 Set Password=암호 설정
@@ -34,7 +33,6 @@ to SMB share config=추가
 Udev and Hotplug=Udev 및 핫플러그
 Unassigned Devices=할당되지 않은 장치
 Unraid 6.10 or later is required for NFSv4 support=NFSv4 지원에는 Unraid 6.10 이상이 필요합니다
-Use only when directed for support=지원 요청 시에만 사용
 
 ; Help
 ;
@@ -65,6 +63,11 @@ Use only when directed for support=지원 요청 시에만 사용
 > You are encouraged to change your mappings to the /mnt/remotes/ mount point.
 >
 > If you do not need the backwards compatibility, leave it set to **No**.
+:end
+
+:ud_settings_remote_share_wait_plug:
+> This is the time in seconds to wait before mounting remote shares when the array is first started.
+>
 :end
 
 :ud_settings_specify_smb_vers_plug:
@@ -117,6 +120,10 @@ Use only when directed for support=지원 요청 시에만 사용
 > The down side is that it overrides Linux group permissions.  If you are unsure about whether or not this is necessary, leave it enabled.
 :end
 
+:ud_settings_nfs_security_plug:
+> Set to **Yes** to export Unassigned Devices with NFS sharing. Shares are exported Public with read and write access or Private with the rule you set. Access is controlled with permission settings on files and folders.
+:end
+
 :ud_settings_nfs_shares_plug:
 > Set to **Yes** to export NFS shares.  Shares are exported Public with read and write access or Private with the rule you set.  Access is controlled with permission settings on files and folders.
 :end
@@ -128,3 +135,12 @@ Use only when directed for support=지원 요청 시에만 사용
 :ud_settings_change_uuid_plug:
 > Select the disk that you want to change the UUID.  This is useful when a disk has been removed from the array and has the same UUID as an array disk.  Drive must be unmounted to change the UUID.
 :end
+
+; Note: June 18, 2023 - 7 missing translations
+Disabled=
+Public=
+Private=
+Private Hidden=
+Remote Share Mount Wait Time=
+SMB Settings=
+Use only when directed for support because the messages can flood the log=
