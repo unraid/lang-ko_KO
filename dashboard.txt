@@ -141,5 +141,8 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: April 28, 2023 - 1 missing translations
+; Note: July 9, 2023 - 4 missing translations
 Parity Information=
+ShowHide All Content=Show/Hide All Content
+ShowHide Content=Show/Hide Content
+Tile Management=
