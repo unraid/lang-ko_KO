@@ -18,7 +18,6 @@ Change Disk Mount Point=디스크 마운트 지점 변경
 Change ISO File Mount Point=ISO 파일 마운트 지점 변경
 Change Remote Share Mount Point=원격 공유 마운트 지점 변경
 Change SMB=SMB
-Changing the Mount Point will also change the disk label=마운트 지점을 변경하면 디스크 레이블도 변경됩니다
 Clear=지우기
 Click to select ISO file=ISO 파일을 선택하려면 클릭하세요
 Click to view/hide partitions and mount points=파티션 및 마운트 지점을 보거나 숨기려면 클릭하세요
@@ -77,7 +76,6 @@ No Remote SMB=구성된 원격 SMB
 No Unassigned Disks available=사용 가능한 '할당되지 않은 디스크'가 없습니다
 not installed=설치되지 않음
 Note=참고사항
-offilne=오프라인
 You must enable NFS in Settings->NFS to mount NFS shares=NFS 공유를 마운트하려면 설정->NFS에서 NFS를 활성화해야 합니다
 You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트하려면 설정->SMB에서 SMB를 활성화해야 합니다
 Open=열기
@@ -88,8 +86,6 @@ Read only=읽기 전용
 Reboot=다시 시작
 Refresh Disks and Configuration=디스크 및 설정 새로 고침
 Remember your password It cannot be recovered=비밀번호는 복구할 수 없으므로 잘 기억해 두세요
-Remote Share is=원격 공유:
-Remote share mounts are dependent on a solid and reliable network connection and that is difficult to achieve=원격 공유 마운트는 견고하고 안정적인 네트워크 연결에 의존하며 보관하기 어렵습니다
 Remove Device configuration=제거: 장치 구성
 Remove ISO File Share=제거: ISO 파일 공유
 Remove Partition=제거: 파티션
@@ -116,7 +112,7 @@ Show SMB/NFS/ISO Shares=SMB/NFS/ISO 공유 보기
 Show Disk Devices=디스크 장치
 This is a way to gather Unraid shares into one Root Share=이것은 Unraid 공유를 하나의 루트 공유로 모으는 방법입니다
 This will remove the ISO file share for=다음의 ISO 파일 공유가 제거됩니다
-This will remove the remote=다음의 원격 공유가 제거됩니다
+This will remove the=다음의 항목이 제거됩니다
 This will remove the saved configuration of=다음의 저장된 구성이 제거됩니다
 This will remove the=다음의 항목이 제거됩니다
 to confirm=확인
@@ -182,10 +178,18 @@ ZFS Pool Name=ZFS 풀 이름
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: June 18, 2023 - 6 missing translations
+; Note: November 16, 2023 - 14 missing translations
+Changing the Mount Point will also change the disk label on all disks and the pool name on a ZFS disk=
+Enter the server name and it will be added to the local DNS names and will then resolve by name=
 Exclusive Share files will not be accessible in a Root Share=
+failed to=
+If the IP address of the server shows in the list after searching, your DNS server is not resolving the name=
+If shares do not show, check your credentials=
 Invalid Configuration - Remove and Re-add=
 Not Enabled=
+offline=
+Remote Server is=
+Remote share mounts are dependent on a solid and reliable network connection and that can be difficult to achieve=
 User and Pool Shares will include all files in User Shares, Cache and Pool Devices=
 User Shares will allow access to User Shares, but the Root Share will not include Cache and Pool Device files=
 ZFS Volume=
