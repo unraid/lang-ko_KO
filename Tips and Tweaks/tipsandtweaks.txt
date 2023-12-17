@@ -10,7 +10,6 @@ Disable NIC Offload=NIC 오프로드 비활성화
 Disk Cache=디스크 캐시 -
 Dont change the Disk Cache settings until you read and understand this=다음의 '지침서'를 읽고 이해할 때까지 디스크 캐시 설정을 변경하지 마십시오. -
 Driver=드라이버
-Enable Intel TurboAMD Performance Boost=Intel Turbo 혹은 AMD Performance Boost 활성화
 Enable syslog Archiving=syslog 아카이빙 활성화
 Ethernet NIC Rx Buffer=이더넷 NIC 수신 버퍼
 Ethernet NIC Tx Buffer=이더넷 NIC 송신 버퍼
@@ -127,6 +126,18 @@ You may actually cause more problems than you solve if there are problems with y
 > The default is 40960 and the allowed range is 40960 to 65535.
 :end
 
+:tips_tweak_turbo_plug:
+> Set to 'Yes' to enable the Intel Turbo or AMD Performance Boost Mode.
+:end
+
+:tips_tweaks_turbo_state_off_plug:
+> Enter the time you want to set Intel Turbo/AMD Performance Boost Off in 24 hour format hh:mm.
+:end
+
+:tips_tweaks_turbo_state_on_plug:
+> Enter the time you want to set Intel Turbo/AMD Performance Boost On in 24 hour format hh:mm.
+:end
+
 :tips_tweaks_cpu_governor_plug:
 > Select the CPU Scaling Governor you want to use.
 >
@@ -185,10 +196,12 @@ You may actually cause more problems than you solve if there are problems with y
 :end
 
 
-; Note: April 28, 2023 - 12 missing translations
+; Note: December 17, 2023 - 16 missing translations
 Available User Watches=
 Current User Watches=
+Enable Intel TurboAMD Performance Boost=Enable Intel Turbo/AMD Performance Boost
 If you set the 'Power Save' CPU Governor, you may see your processors stuck at 800 MHz=
+Intel TurboAMD Performance Boost=Intel Turbo/AMD Performance Boost
 It is recommended you use the 'Performance' Governor for best performance and power savings=
 Max SMB Open Files=
 Max User Watches=
@@ -197,4 +210,6 @@ Power Saving CPU Scaling Governor=
 Schedule CPU Power Saving Mode=
 Time to set Normal CPU Scaling=
 Time to set Power Saving CPU Scaling=
+Time to set TurboPerformance Boost Off=Time to set Turbo/Performance Boost Off
+Time to set TurboPerformance Boost On=Time to set Turbo/Performance Boost On
 Version 6.11.4 and later=
