@@ -58,10 +58,10 @@ Date of purchase=구입 날짜
 Date=날짜
 Delete Pool=풀 삭제
 detected=감지됨
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device encrypted and unlocked=장치가 암호화되었고 잠금 해제됨
 Device encrypted=장치가 암호화됨
-Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
+Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=장치는 풀의 일부입니다
 Device locked unknown error=장치 잠김: 알 수 없는 오류
 Device locked wrong encryption key=장치 잠김: 잘못된 암호 키
