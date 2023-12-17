@@ -254,7 +254,6 @@ Online Manual=온라인 매뉴얼
 Online manual=온라인 매뉴얼
 OpenSSL=OpenSSL
 optional=선택적
-Options for Block $action=
 Other Comment=그 외 설명
 Other information=그 외 정보
 Parity device is disabled=패리티 장치가 비활성화됨
