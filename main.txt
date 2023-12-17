@@ -334,6 +334,7 @@ xfs_repair status=xfs_repair 상태
 You may not add new disks and also remove existing disks=새 디스크를 추가하거나 기존 디스크를 제거하지 마세요
 your server=서버
 
+
 ; Sleep plugin translations
 Check this=자세한 내용은 이
 for more information=을 확인하십시오
@@ -344,19 +345,33 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: April 29, 2023 - 31 missing translations
+; Note: December 17, 2023 - 51 missing translations
+Add Subpool=
+Add ZFS Subpool=
 Attributes not available=
 Autotrim=
+cache - Cache Devices=
 Capabilities not available=
 Compression=
+Critical NVME temperature threshold=
+Critical SSD temperature threshold=
+dedup - Deduplication Tables=
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid=
+Device is disabled=
+Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Identity is not available=
 Incorrect confirmation=
+logs - ZFS Intent Log=
 mirror=
+Missing pool disk=
 no devices=
 Not present=
 Please try again=
 Pool Status=
+Power=
+Power=
 raid0=
 raid1=
 raid10=
@@ -371,8 +386,14 @@ Read errors corrected=
 Read errors detected=
 ReiserFS is deprecated, please use another file system=
 single=
+spares - Hot Spares=
+special - Special Allocation Class=
 Started, clearing=
 Starting, copying=
+W=
+Warning NVME temperature threshold=
+Warning SSD temperature threshold=
+will remove the missing pool disk and then bring the array on-line=
 Wrong Pool State=
 zfs pool status=
 zfs=

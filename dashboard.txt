@@ -141,8 +141,35 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: July 9, 2023 - 4 missing translations
+; Note: December 17, 2023 - 31 missing translations
+Check free space=
+Clone=
+Containers=
+Docker folder=
+Docker vdisk=
+Edit VM after clone=
+Flash device=
+Free=
+Go to date and time settings=
+Legend=
+Log filesystem=
+New VM=
+Overwrite=
 Parity Information=
+Percent of total used memory=
+Percent usage of Docker folder=
+Percent usage of Docker vdisk=
+Percent usage of flash usb device=
+Percent usage of LOG file system=
+RAM usage=
+Services=
 ShowHide All Content=Show/Hide All Content
 ShowHide Content=Show/Hide Content
+Snapshot Name=
+Snapshot=
+Start Cloned VM=
 Tile Management=
+VM Being Cloned=
+VM Clone=
+VM Name=
+W=
