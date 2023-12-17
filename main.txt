@@ -58,8 +58,10 @@ Date of purchase=구입 날짜
 Date=날짜
 Delete Pool=풀 삭제
 detected=감지됨
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device encrypted and unlocked=장치가 암호화되었고 잠금 해제됨
 Device encrypted=장치가 암호화됨
+Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=장치는 풀의 일부입니다
 Device locked unknown error=장치 잠김: 알 수 없는 오류
 Device locked wrong encryption key=장치 잠김: 잘못된 암호 키
@@ -345,7 +347,7 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: December 17, 2023 - 51 missing translations
+; Note: December 17, 2023 - 48 missing translations
 Add Subpool=
 Add ZFS Subpool=
 Attributes not available=
@@ -356,10 +358,8 @@ Compression=
 Critical NVME temperature threshold=
 Critical SSD temperature threshold=
 dedup - Deduplication Tables=
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device contents invalid=
 Device is disabled=
-Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Identity is not available=
 Incorrect confirmation=
@@ -370,7 +370,6 @@ no devices=
 Not present=
 Please try again=
 Pool Status=
-Power=
 Power=
 raid0=
 raid1=
