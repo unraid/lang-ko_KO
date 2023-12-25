@@ -141,11 +141,8 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: December 25, 2023 - 34 missing translations
+; Note: December 25, 2023 - 31 missing translations
 Check free space=
-Clock is unsynchronized with no NTP servers=
-Clock synchronized with %s NTP server=
-Clock synchronized with %s NTP servers=
 Clone=
 Containers=
 Docker folder=
