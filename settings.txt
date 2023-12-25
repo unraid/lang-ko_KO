@@ -301,6 +301,7 @@ Generate Key=키 생성
 Generate Keypair=키 페어 생성
 Global Share Settings=전역 공유 설정
 Global SMART Settings=전역 SMART 설정
+GRUB Configuration=
 Header custom background color=머리글 사용자 지정 배경색
 Header custom meta text color=머리글 사용자 지정 메타텍스트 색
 Header custom secondary text color=머리글 사용자 지정 보조 텍스트 색상
@@ -859,4 +860,4 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: December 17, 2023 - 93 missing translations
+; Note: December 25, 2023 - 94 missing translations
