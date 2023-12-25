@@ -68,9 +68,6 @@ Clear=정리
 Clearing=정리하는 중
 Click for context menu=클릭해서 상황별 메뉴 표시
 Click=클릭
-Clock is unsynchronized with no NTP servers=
-Clock synchronized with %s NTP server=
-Clock synchronized with %s NTP servers=
 close all notifications=모든 알림 닫기
 Close=닫기
 close=닫기
@@ -1235,4 +1232,4 @@ Open a bug report=
 %s year=
 %s years=
 
-; Note: December 25, 2023 - 305 missing translations
+; Note: December 25, 2023 - 302 missing translations
