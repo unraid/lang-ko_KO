@@ -20,5 +20,5 @@ This unlocks some extra features within CA generally only used by developers Not
 Support Thread=지원 스레드
 
 ; Note: May 10, 2023 - 2 missing translations
-Disable Mouse Wheel Page Changes=
-This setting disables using left or right on a mouse wheel to change the page=
+Disable Mouse Wheel Page Changes=마우스 휠 페이지 변경 비활성화
+This setting disables using left or right on a mouse wheel to change the page=이 설정은 마우스 휠의 왼쪽이나 오른쪽을 사용하여 페이지를 변경할 수 없도록 합니다
