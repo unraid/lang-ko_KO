@@ -446,8 +446,8 @@ Click Install to download and install the Community Applications plugin=**설치
 
 
 ; Note: April 28, 2023 - 5 missing translations
-Installation already in progress=
-Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=
-%s is incompatible with your OS version Please update the OS to proceed=
-%s is incompatible with your OS version Either uninstall %s or update the OS=
-Featured Applications=
+Installation already in progress=이미 설치가 진행 중입니다
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=다른 플러그인 설치 또는 업데이트가 이미 진행 중이어서 이 플러그인을 시작할 수 없습니다. 현재 설치 또는 업데이트가 완료될 때까지 기다린 후 다시 시도하세요.
+%s is incompatible with your OS version Please update the OS to proceed=%s은(는) OS 버전과 호환되지 않습니다. 계속하려면 OS를 업데이트하세요.
+%s is incompatible with your OS version Either uninstall %s or update the OS=%s은(는) OS 버전과 호환되지 않습니다. %s을(를) 제거하거나 OS를 업데이트하십시오.
+Featured Applications=주요 애플리케이션
