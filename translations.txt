@@ -46,7 +46,7 @@ Basic=Basic
 BIOS=BIOS
 Black=검정
 Blacklisted USB Flash GUID=블랙리스트 된 USB 플래시 GUID
-bond down=
+bond down=본드 다운
 Browse=찾아보기
 Browser cookie support required for Unraid OS webgui=Unraid OS webgui는 브라우저의 쿠키 지원이 필요합니다
 Browser error=브라우저 오류
@@ -1208,7 +1208,7 @@ You can also manually create a new backup by clicking the Create Flash Backup bu
 You can manually create a backup by clicking the Create Flash Backup button=You can manually create a backup by clicking the Create Flash Backup button.
 You have already activated the Flash Backup feature via the Unraid Connect plugin=You have already activated the Flash Backup feature via the Unraid Connect plugin.
 You have not activated the Flash Backup feature via the Unraid Connect plugin=You have not activated the Flash Backup feature via the Unraid Connect plugin.
-check for OS updates=
+check for OS updates=OS 업데이트 확인
 unlimited=무한
 
 ; Downgrade component additions 2023-11-09
