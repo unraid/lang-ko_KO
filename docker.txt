@@ -1,9 +1,9 @@
+About an=약 한
 Access Mode=접근 모드
 Add another Path, Port, Variable, Label or Device=다른 경로, 포트, 변수, 라벨, 장치 추가
 Add Configuration=설정 추가
 Add=추가
 Additional Requirements=추가 요구 사항
-About an= 약 한
 Always=항상
 App to Host=앱에서 호스트로
 Application=앱
