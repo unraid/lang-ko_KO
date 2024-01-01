@@ -3,6 +3,7 @@ Add another Path, Port, Variable, Label or Device=다른 경로, 포트, 변수,
 Add Configuration=설정 추가
 Add=추가
 Additional Requirements=추가 요구 사항
+About an= 약 한
 Always=항상
 App to Host=앱에서 호스트로
 Application=앱
@@ -133,5 +134,5 @@ WebUI=웹 UI
 Writable=쓰기 가능
 
 ; Note: April 28, 2023 - 2 missing translations
-Lock sortable items=
-Unlock sortable items=
+Lock sortable items=정렬 가능한 항목 잠금
+Unlock sortable items=정렬 가능한 항목 잠금 해제
