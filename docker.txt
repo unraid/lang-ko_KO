@@ -1,4 +1,3 @@
-About an=약 한
 Access Mode=접근 모드
 Add another Path, Port, Variable, Label or Device=다른 경로, 포트, 변수, 라벨, 장치 추가
 Add Configuration=설정 추가
@@ -60,6 +59,7 @@ Icon URL=아이콘 URL
 Image ID=이미지 ID
 Key=키
 Label=라벨
+Lock sortable items=정렬 가능한 항목 잠금
 Management=관리
 MediaApp=미디어 앱
 MediaServer=미디어 서버
@@ -120,6 +120,7 @@ The command finished successfully=명령이 성공적으로 끝났습니다
 TOTAL DATA PULLED=총 받은 데이터
 Total size=총 용량
 Unknown action=알 수 없는 액션
+Unlock sortable items=정렬 가능한 항목 잠금 해제
 Update All=모두 업데이트
 update ready=업데이트 준비됨
 Value=값
@@ -132,7 +133,3 @@ Was this container created using this plugin=이 플러그인을 사용하여 �
 Web=웹
 WebUI=웹 UI
 Writable=쓰기 가능
-
-; Note: April 28, 2023 - 2 missing translations
-Lock sortable items=정렬 가능한 항목 잠금
-Unlock sortable items=정렬 가능한 항목 잠금 해제
