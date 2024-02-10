@@ -150,6 +150,10 @@ This template is set up to run as Privileged This is a possible security risk an
 One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=이 응용 프로그램에서 사용하는 하나 이상의 포트가 서버에서 실행 중인 다른 서비스나 응용 프로그램에서 이미 사용 중입니다. 템플릿에 따라 호스트 포트를 조정해야 합니다.
 Not Enough Memory=메모리가 부족합니다
 Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=커뮤니티 앱 및 Unraid OS 에는 4G의 최소 필수 설치 메모리가 있습니다. 이러한 최소값이 충족되지 않으면 CA가 실행할 수 없습니다
+Installation already in progress=이미 설치가 진행 중입니다
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=다른 플러그인 설치 또는 업데이트가 이미 진행 중이어서 이 플러그인을 시작할 수 없습니다. 현재 설치 또는 업데이트가 완료될 때까지 기다린 후 다시 시도하세요.
+%s is incompatible with your OS version Please update the OS to proceed=%s은(는) OS 버전과 호환되지 않습니다. 계속하려면 OS를 업데이트하세요.
+%s is incompatible with your OS version Either uninstall %s or update the OS=%s은(는) OS 버전과 호환되지 않습니다. %s을(를) 제거하거나 OS를 업데이트하십시오.
 
 ; CA Sections Keep the length reasonable
 Home=홈
@@ -224,6 +228,7 @@ Check out these newly added applications from our awesome community=멋진 커�
 Check out these up and coming apps=앞으로 출시될 앱을 확인하세요.
 These apps have the highest percentage of new installs=이 앱들은 신규 설치 비율이 가장 높습니다.
 An assortment of randomly chosen apps=무작위로 선택된 앱 모음입니다.
+Featured Applications=주요 애플리케이션
 
 ; Categories try not to be excessively long This is displayed on the left of CA screen
 
@@ -445,9 +450,11 @@ An error occurred - Could not determine configuration=오류가 발생했습니�
 Click Install to download and install the Community Applications plugin=**설치**를 클릭하여 **커뮤니티 앱** 플러그인을 다운로드하고 설치합니다
 
 
-; Note: April 28, 2023 - 5 missing translations
-Installation already in progress=이미 설치가 진행 중입니다
-Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=다른 플러그인 설치 또는 업데이트가 이미 진행 중이어서 이 플러그인을 시작할 수 없습니다. 현재 설치 또는 업데이트가 완료될 때까지 기다린 후 다시 시도하세요.
-%s is incompatible with your OS version Please update the OS to proceed=%s은(는) OS 버전과 호환되지 않습니다. 계속하려면 OS를 업데이트하세요.
-%s is incompatible with your OS version Either uninstall %s or update the OS=%s은(는) OS 버전과 호환되지 않습니다. %s을(를) 제거하거나 OS를 업데이트하십시오.
-Featured Applications=주요 애플리케이션
+; Note: February 10, 2024 - 7 missing translations
+Deprecated OS version No further updates to Community Applications will be issued for this OS version=
+Update Application=
+Run Anyways=
+Memory Requirements not met Problems may result=
+Browser failed to communicate with Unraid Server=
+For unknown reasons, your browser was unable to communicate with Community Applications running on your server=
+Attempt to Fix Via Reload Page=

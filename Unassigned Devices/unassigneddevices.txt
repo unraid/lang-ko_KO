@@ -39,6 +39,7 @@ Enter the Username if the share is password protected=공유가 암호로 보호
 Enter the password to use for this disk=이 디스크를 사용하려면 비밀번호를 입력하세요
 Execute Script as udev simulating a device being installed=설치 중인 장치를 시뮬레이션하는 udev로 스크립트 실행
 Fail=실패
+failed to=다음에 실패:
 file share for=다음에서 파일 공유
 File System Check=파일 시스템 검사
 File System Scrub=파일 시스템 스크럽
@@ -74,18 +75,21 @@ NFS Share=NFS 공유
 NFS Shares=NFS 공유
 No Remote SMB=구성된 원격 SMB
 No Unassigned Disks available=사용 가능한 '할당되지 않은 디스크'가 없습니다
+Not Enabled=활성화 안 됨
 not installed=설치되지 않음
 Note=참고사항
+offline=오프라인
+User Shares=사용자 공유
 You must enable NFS in Settings->NFS to mount NFS shares=NFS 공유를 마운트하려면 설정->NFS에서 NFS를 활성화해야 합니다
 You must enable SMB in Settings->SMB to mount SMB shares=SMB 공유를 마운트하려면 설정->SMB에서 SMB를 활성화해야 합니다
 Open=열기
 Partition and Format Disk=디스크 파티션 및 포맷
-Pass Thru=패스 스루
 Password=암호
 Read only=읽기 전용
 Reboot=다시 시작
 Refresh Disks and Configuration=디스크 및 설정 새로 고침
 Remember your password It cannot be recovered=비밀번호는 복구할 수 없으므로 잘 기억해 두세요
+Remote Server is=원격 서버:
 Remove Device configuration=제거: 장치 구성
 Remove ISO File Share=제거: ISO 파일 공유
 Remove Partition=제거: 파티션
@@ -94,11 +98,8 @@ Remove partition=제거: 파티션
 Running=실행 중
 Script=스크립트
 Search For Servers=서버에서 검색
-Search for Servers, or enter the Server nameIP address manually=서버를 검색하거나 서버 이름IP 주소를 수동으로 입력하세요
 Search for Shares or enter the Share name manually=공유를 검색하거나 수동으로 공유 이름을 입력하세요
 Searching=검색 중
-Select the Mount Point to Root Share=루트 공유에 대한 마운트 지점 선택
-Serial Number Mount Point=일련 번호(마운트 지점)
 Shares=공유
 Share Type=공유 유형
 share for=다음에서 공유:
@@ -117,12 +118,10 @@ This will remove the saved configuration of=다음의 저장된 구성이 제거
 This will remove the=다음의 항목이 제거됩니다
 to confirm=승인
 to format=라고 쓰면 포맷됩니다
-to clear this disk of all partitions=라고 쓰면 이 디스크의 모든 파티션이 지워집니다.
 Unmount=마운트 해제
 Unmounting=마운트 해제 중
 Use caution when gathering shares into one Root Share=공유를 하나의 루트 공유로 수집할 때 주의하십시오
 Used=사용됨
-User and Pool Shares=사용자 및 풀 공유
 User Shares=사용자 공유
 Username=사용자 이름
 View Device Script Log=장치 스크립트 로그 보기
@@ -138,6 +137,37 @@ You must enable the Destructive Mode in UD Settings before you can Format this d
 You WILL have problems if you do=다음과 같은 문제가 발생될 수 있습니다
 You will need to enter credentials to list the shares=공유를 나열하려면 자격 증명을 입력해야 합니다
 ZFS Pool Name=ZFS 풀 이름
+ZFS Volume=ZFS 볼륨
+
+:unassgned_devices_switches_plug:
+> Turn on the **Disks** switch to change the web page to show disk devices. Turn off the **Disks** switch to change the web page to hide disk devices.
+>
+> Turn on the **Shares** switch to change the web page to show shares. Turn off the **Shares** switch to change the web page to hide shares.
+>
+> Turn on the **Historical** switch to show Historical disk devices. Turn off **Historical** switch to switch back to not show Historical disk devices.
+>
+> Click on the <i class="fa fa-refresh"></i> icon to refresh disks and configuration.
+>
+> Click on the <i class="fa fa-gear"></i> icon to go to the UD Settings.
+>
+> You can spin a disk up or down by clicking on the disk ball <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i>indicator.  Applies to version 6.9 RC2 and later only.
+>
+> Click on the <i class="fa fa-gears"></i> icon to go to the Device Settings configuration.  This is where you configure a device script and certain device characteristics.
+> 
+> Click on the <i class="icon-nvme"></i> or <i class="fa fa-hdd-o"></i> icon to display syslog entries specific to this disk device.
+>
+> **Mount Point icons:**
+>
+> When the <i class='fa fa-pencil'></i> icon shows next to the mount point it indicates the mount point can be changed when the mount point is clicked.
+>
+> When the <i class='fa fa-external-link'></i> icon shows next to the mount point it indicates the clicking on the mount point will browse the files on that partition.
+>
+> Click on the <i class="fa fa-align-left"></i> icon to display the device script log.  This is the log specific to the device script.
+>
+> Click on the <i class="fa fa-check"></i> icon to perform a file system check.  BTRFS and ZFS file systems need to be mounted to do a file check.  The file check on BTRFS and ZFS file systems is a scrub.
+>
+> Click on the <i class="fa fa-flash"></i> icon to run your device script as if it was hot plugged.  This only applies to disk devices.
+:end
 
 :unassigned_devices_general_help_plug:
 > **Unassigned Devices is called UD for short.**
@@ -179,18 +209,27 @@ ZFS Pool Name=ZFS 풀 이름
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: November 16, 2023 - 14 missing translations
+; Note: February 10, 2024 - 23 missing translations
 Changing the Mount Point will also change the disk label on all disks and the pool name on a ZFS disk=
+Encrypt CIFS Mount=
 Enter the server name and it will be added to the local DNS names and will then resolve by name=
 Exclusive Share files will not be accessible in a Root Share=
-failed to=다음에 실패:
 If the IP address of the server shows in the list after searching, your DNS server is not resolving the name=
 If shares do not show, check your credentials=
 Invalid Configuration - Remove and Re-add=
-Not Enabled=활성화 안 됨
-offline=오프라인
-Remote Server is=원격 서버:
+User Shares without Pools=
+Partition=
+Passed=
+Passed Through=
+Pool=
+Preclear=
+Remote Shares=
 Remote share mounts are dependent on a solid and reliable network connection and that can be difficult to achieve=
-User and Pool Shares will include all files in User Shares, Cache and Pool Devices=
-User Shares will allow access to User Shares, but the Root Share will not include Cache and Pool Device files=
-ZFS Volume=ZFS 볼륨
+Search for Servers, or enter the Server name or IP address manually=
+Select the Root Share=
+Serial Number Mount Point=Serial Number (Mount Point)
+Unassigned Devices=
+Unassigned Disks=
+User Shares without Pools=
+User Shares - allow access to User Shares, including Cache and Pool files=
+User Shares without Pools - allow access to User Shares, but the Root Share will not include Cache and Pool files=
