@@ -159,7 +159,6 @@ Deactivating=활성화 해제 중
 Default appdata storage location=기본 앱 데이터 저장소 위치
 Default critical disk temperature threshold=기본 중대 디스크 온도 임계치
 Default critical disk utilization threshold=기본 중대 디스크 이용량 임계치
-Default file system=기본 파일 시스템
 Default ISO storage path=기본 ISO 저장소 경로
 Default network bridge=기본 네트워크 브리지
 Default network source=기본 네트워크 원본
@@ -847,7 +846,7 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: February 7, 2024 - 13 missing translations
+; Note: December 8, 2024 - 15 missing translations
 Day, D Month YYYY=
 Day, DD.MM.YYYY=
 Day, DD-MM-YYYY=
@@ -856,6 +855,8 @@ Day, YYYY Month D=
 Day, YYYY-MM-DD=
 DD-MM-YYYY=
 Default critical SSD temperature threshold=
+Default file system for Array disks=
+Docker PID Limit=
 Enable NVME power monitoring=
 is a self-signed certificate, ignore the browsers warning and proceed to the GUI=is a self-signed certificate, ignore the browser's warning and proceed to the GUI
 is a self-signed certificate, ignore the browsers warning when using this certificate=is a self-signed certificate, ignore the browser's warning when using this certificate
