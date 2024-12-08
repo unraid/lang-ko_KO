@@ -2,7 +2,6 @@ Hide Deprecated Applications=사용되지 않는 애플리케이션 숨기기
 This setting hides deprecated applications from the list of available apps Deprecated apps will still however display within the installed and previous apps sections=이 설정은 사용 가능한 앱 목록에서 더 이상 사용되지 않는 애플리케이션을 숨깁니다. 그러나 더 이상 사용되지 않는 앱은 설치된 앱과 이전 앱 섹션에 계속 표시됩니다.
 Hide Incompatible Applications=호환되지 않는 응용 프로그램 숨기기
 This setting will hide applications that are listed as being incompatible with your version of Unraid=이 설정은 Unraid 버전과 호환되지 않는 것으로 나열된 응용 프로그램을 숨깁니다.
-Allow install of second instance=두 번째 인스턴스 설치 허용
 This option enables another button on the cards and popups which will allow you to reinstall an installed application using its default template values This option can be confusing at times, and is only generally used if you wish to install and have an application running twice simultaneously=이 옵션을 사용하면 기본 템플릿 값을 사용하여 설치된 응용 프로그램을 다시 설치할 수 있습니다. 이 옵션은 때때로 혼동될 수 있으며 일반적으로 응용 프로그램을 두 번 설치하고 동시에 실행하려는 경우에만 사용됩니다.
 Automatically open the sidebar=사이드바 자동 열기
 Allows CA to automatically open the sidebar for more information when hovering over an application's icon=애플리케이션 아이콘 위로 마우스를 가져갈 때 CA가 추가 정보를 위해 사이드바를 자동으로 열 수 있도록 합니다
@@ -20,3 +19,6 @@ Only enable this when advised to from the author of Community Applications=커�
 Enable developer mode=개발자 모드 활성화
 This unlocks some extra features within CA generally only used by developers Not recommended to enable=이렇게 하면 일반적으로 개발자만 사용하는 CA 내의 몇 가지 추가 기능이 잠금 해제됩니다. 활성화하지 않는 것이 좋습니다.
 Support Thread=지원 스레드
+
+; Note: December 8, 2024 - 1 missing translations
+Allow installation of multiple instances=

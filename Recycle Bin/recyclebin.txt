@@ -127,5 +127,8 @@ Update Recycle Bin Size in Background=휴지통 용량 업그레이드 백그라
 > Click on the 'Clear' button to clear the log.
 :end
 
-; Note: April 28, 2023 - 1 missing translations
+; Note: December 8, 2024 - 4 missing translations
+Enable Empty All Trash Button=
+Enable Empty Share Trash Button=
+Enable Remove Aged Files Button=
 Recycle Bin is empty=

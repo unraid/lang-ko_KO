@@ -33,6 +33,10 @@ Enable for Cache and Pool Disks=캐시 및 풀 디스크에서 활성화
 > 캐시 및 풀 디스크에 대한 파일 활동 모니터링을 활성화하려면 **예**로 설정합니다. 풀 디스크는 Unraid 6.9에만 적용됩니다.
 :end
 
+:file_activity_display_events_plug:
+> This is the number of file events shown on disks and shares from the File Activity log for each share or disk.
+:end
 
-; Note: April 28, 2023 - 1 missing translations
+; Note: December 8, 2024 - 2 missing translations
+Display Events=
 Refresh Page=

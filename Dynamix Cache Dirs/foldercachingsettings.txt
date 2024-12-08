@@ -2,12 +2,10 @@ Adaptive=적응형
 Cache pressure of directories on system=시스템에 있는 디렉토리의 캐시 압력
 Check HELP for filter example=필터 예시는 도움말을 확인하세요
 Disk Idle Timer=디스크 대기 타이머
-Excluded folders=제외된 폴더
 Folder caching function=폴더 캐싱 기능
 for adaptive depth=적응형 깊이에서
 Important - check HELP if disks spin up=중요사항 - 디스크의 '스핀 업'에 대해서는 "도움말"을 확인하세요
 Included folders=포함된 폴더
-Limit the memory available to the shell in which the script runs increase if it dies=스크립트가 실행되는 셸에서 사용할 수 있는 메모리를 제한합니다(죽었을 때 증가됨)
 Logging=로깅
 Maximum interval between folder scans=폴더 스캔 사이의 최대 간격
 Maximum level depth=최대 레벨 깊이
@@ -15,9 +13,6 @@ Minimum interval between folder scans=폴더 스캔 사이의 최소 간격
 Minimum level depth=최소 레벨 깊이
 or see=아니면
 Run scan of each disk in a separate thread=별도의 스레드에서 각 디스크의 스캔 실행
-Scan timeout for a scan during disk-idle period=디스크 유휴 기간 동안 검사에 대한 검사 시간 초과
-Scan timeout for a scan during initial startup or less-idle period=초기 시작 또는 덜 유휴 기간 동안 스캔에 대한 스캔 시간 초과
-Scan timeout for a scan when all directories have been succesfully cached=모든 디렉토리가 성공적으로 캐시되었을 때 스캔 시간 초과
 Scan user shares mntuser=사용자 공유 스캔 (/mnt/user)
 Suspend during Mover process='Mover' 프로세스 중 일시 중지
 unlimited=무제한
@@ -140,3 +135,9 @@ User defined options=사용자 정의 옵션
 >
 > Note that the single quotes around argument to -a is important. Double-quotes do not work in the current version, so unfortunately its not currently possible to filter with '-name "*Old" -prune'.
 :end
+
+; Note: December 8, 2024 - 4 missing translations
+Memory available to the cache_dirs script increase if it dies=Memory available to the cache_dirs script (increase if it dies)
+Timeout during disk-idle period=
+Timeout during initial startup or less-idle period=
+Timeout when all directories have been cached=
