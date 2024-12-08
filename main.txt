@@ -26,6 +26,7 @@ btrfs scrub status=btrfs 스크럽 상태
 cache - Cache Devices=cache - 캐시 장치
 Canceled=취소됨
 Cannot contact key-server Please check your=키 서버와 연결할 수 없습니다 다음 사항을 확인하세요
+Caution=**Caution**
 Capabilities not available=기능 사용 불가
 Capabilities=기능
 Check Filesystem Status=파일 시스템 상태 검사
@@ -393,11 +394,10 @@ System in sleep mode=시스템이 절전 모드 상태임
 This will put the system in sleep mode=시스템을 절전 모드로 전환합니다
 wiki entry=위키 항목
 
-; Note: December 8, 2024 - 15 missing translations
+; Note: December 8, 2024 - 14 missing translations
 After renaming the pool, check that your shares are assigned to the proper primary and secondary storage locations=
 After upgrading the volume may not be mountable in previous versions of Unraid=
 btrfs filesystem usage=
-Caution=**Caution**
 Dirty log detected=
 File system corruption detected=
 Fix=
