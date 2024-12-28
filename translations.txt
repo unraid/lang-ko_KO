@@ -21,8 +21,8 @@ Add VM=VM 추가
 Advanced View=고급 보기
 AFP Security Settings=AFP 보안 설정
 ago=전
-Always Allow=
 All=모두
+Always Allow=
 Anonymize diagnostics may make troubleshooting more difficult=진단 익명화 (문제 해결을 더 어렵게 만들 수도 있음)
 Anonymous Mode=익명 모드
 Apply=적용
@@ -54,8 +54,8 @@ Browser error=브라우저 오류
 btrfs=btrfs
 Bug Description=버그 설명
 Bug Report=버그 제보
-bytes=바이트
 By default UEFI and Legacy boot mode are both enabled when GRUB is used to boot the machine=
+bytes=바이트
 Cache=캐시
 Calculated free space value=
 Cancel=취소
@@ -257,6 +257,12 @@ Online Manual=온라인 매뉴얼
 Online manual=온라인 매뉴얼
 OpenSSL=OpenSSL
 optional=선택적
+Options for Block commit=
+Options for Block Commit=
+Options for Block copy=
+Options for Block Copy=
+Options for Block pull=
+Options for Block Pull=
 Other Comment=그 외 설명
 Other information=그 외 정보
 Parity device is disabled=패리티 장치가 비활성화됨
@@ -279,6 +285,7 @@ PB=PB
 Percentage=
 Please access this server via the My Servers Dashboard=
 Please also ensure you have cookies enabled=또한 쿠키가 활성화되었는지 확인해 주세요
+Please enable cookies to use the Unraid webGUI=
 Please enable it=활성화해 주세요
 Please select one file only=한개의 파일만 선택해 주세요
 Please set a password for the root user account=root 사용자 계정의 비밀번호를 설정해 주세요
@@ -320,6 +327,7 @@ Removing container=컨테이너 제거 중
 Removing orphan image=고아 이미지 제거 중
 Rename=이름 변경
 Renew=갱신
+required=
 Reset=리셋
 Restart=다시 시작
 Resume=재개
@@ -467,6 +475,13 @@ YesTime Machine=네/Time Machine
 You must reboot for changes to take effect=적용하기 위해선 다시 시작해야 합니다
 Your browser does not support HTML5 file uploads=브라우저는 HTML5 파일 업로드를 지원하지 않습니다
 Your browser has JavaScript disabled=브라우저는 JavaScript가 비활성화 되었습니다
+
+; Favorites
+Add to favorites=
+Added to Favorites=
+My Favorites=
+No favorites available=
+Remove from favorites=
 
 ; Dynamix.system.button plugin
 Array busy=어레이 작동 중
@@ -1238,4 +1253,4 @@ Open a bug report=버그 보고서 열기
 %s year=%s년
 %s years=%s년
 
-; Note: December 8, 2024 - 65 missing translations
+; Note: December 28, 2024 - 78 missing translations
