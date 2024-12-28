@@ -947,4 +947,4 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: December 28, 2024 - 101 missing translations
+; Note: December 28, 2024 - 100 missing translations

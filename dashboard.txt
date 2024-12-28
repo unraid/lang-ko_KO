@@ -94,6 +94,7 @@ Parity disks not present=패리티 디스크 없음
 Parity has not been checked yet=패리티가 아직 검사되지 않음
 Parity is degraded=패리티 성능이 저하됨
 Pool=풀
+Popup Blocked=Popup Blocked.
 Power Status=전원 상태
 Power=전원
 Processor Information=프로세서 정보
@@ -141,7 +142,7 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: December 28, 2024 - 57 missing translations
+; Note: December 28, 2024 - 54 missing translations
 Check free space=
 checking=
 Clock is synchronized using NTP, time offset is %s %s=
@@ -177,7 +178,6 @@ Percent usage of Docker folder=
 Percent usage of Docker vdisk=
 Percent usage of flash usb device=
 Percent usage of LOG file system=
-Popup Blocked=Popup Blocked.
 RAM usage=
 RX=
 Services=
