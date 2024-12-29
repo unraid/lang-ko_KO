@@ -266,4 +266,4 @@ Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
 wsport for virtual console=가상 콘솔용 WS포트
 XML View=XML 보기
 
-; Note: December 29, 2024 - 63 missing translations
+; Note: December 29, 2024 - 64 missing translations

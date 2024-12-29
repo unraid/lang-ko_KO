@@ -142,11 +142,11 @@ VPN Connections=VPN 연결
 Warnings=경고
 ZFS=ZFS
 
-; Note: December 28, 2024 - 54 missing translations
+; Note: December 29, 2024 - 56 missing translations
 Check free space=
 checking=
-Clock is synchronized using NTP, time offset is %s %s=
-Clock is synchronized using PTP, time offset is %s %s=
+Clock is synchronized using %s NTP servers, time offset is %s %s=
+Clock is synchronized using %s PTP server, time offset is %s %s=
 Clock is unsynchronized with no NTP servers=
 Clock is unsynchronized with no PTP servers=
 Clock is unsynchronized, free-running clock=
@@ -164,10 +164,12 @@ Flash device=
 Free=
 FS Native Snapshot=
 Go to date and time settings=
+grandmaster=
 heat warnings=
 invalid=
 Legend=
 Log filesystem=
+master=
 Memory dump=
 New VM=
 No VMs running=
