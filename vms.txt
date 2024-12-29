@@ -170,7 +170,6 @@ Remove OpenELEC image=OpenELEC 이미지 삭제
 Remove this LibreELEC file=이 LibreELEC 파일 삭제
 Remove this OpenELEC file=이 OpenELEC 파일 삭제
 Remove User Template=
-Rename disabled, snapshots exists=Rename disabled, <?=$snapcount?> snapshot(s) exists.
 Repeat=
 Requires guest agent installed=
 Requires guest running=
@@ -266,4 +265,4 @@ Windows 82012, newer Linux distros=Windows 8/2012, 최신 리눅스 배포본
 wsport for virtual console=가상 콘솔용 WS포트
 XML View=XML 보기
 
-; Note: December 29, 2024 - 64 missing translations
+; Note: December 29, 2024 - 63 missing translations
