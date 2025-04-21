@@ -203,7 +203,7 @@ ZFS Volume=ZFS 볼륨
 > + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
 :end
 
-; Note: December 8, 2024 - 42 missing translations
+; Note: April 21, 2025 - 43 missing translations
 All Unassigned Devices configurations will be updated=
 All disks will be refreshed using udev=
 Check the syslog for details=
@@ -228,7 +228,8 @@ Preclear=
 Remote Shares=
 Remote Shares online status will be reset=
 Remote share mounts are dependent on a solid and reliable network connection and that can be difficult to achieve=
-Script is already runningSearch For Servers=
+Script is already running=
+Search For Servers=
 Script Log=
 Search for Servers, or enter the Server name or IP address manually=
 Select the Root Share=
