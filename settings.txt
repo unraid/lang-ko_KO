@@ -532,6 +532,7 @@ No Cache disk present=캐시 디스크 없음
 No change to report=보고할 변경 사항 없음
 No CPU pinning available. Docker service must be started=사용 가능한 CPU 고정이 없습니다. Docker 서비스를 시작해야 합니다
 No CPU pinning available. VM service must be started=사용 가능한 CPU 고정이 없습니다. VM 서비스를 시작해야 합니다
+No encrypted disks found=
 no name=이름 없음
 No Parity disk present=패리티 디스크 없음
 No Reply=응답 없음
@@ -581,6 +582,7 @@ Optional=
 Or if they are improperly configured, use this feature with care=
 or=혹은
 Other networks=
+Otherwise use the keyfile method for UTF8 input=Otherwise use the **keyfile** method for UTF8 input
 Outgoing Proxy Manager=
 Outgoing Proxy=
 Output Voltage=출력 전압
@@ -640,6 +642,7 @@ Port Up=포트 올리기
 Power Mode=
 Preserve user defined networks=사용자 지정 네트워크 유지
 Preset service=서비스 사전 설정
+Printable Characters Only=
 Priority in header=헤더의 우선 순위
 Protocol=프로토콜
 Provision=프로비전
@@ -865,6 +868,7 @@ UPS Status=UPS 상태
 UPS type=UPS 유형
 URL=
 USB=USB
+Use ASCII characters from space to tilde=Use **ASCII** characters from space ' ' to tilde '~'
 Use DEFAULT setting when public NTP servers are defined=
 Use image name dockerimg or docker-xfsimg or select a folder=이미지 이름 docker.img 또는 docker-xfs.img를 사용하거나 폴더를 선택하세요.
 Use NTP=NTP 사용
@@ -989,4 +993,4 @@ Transient errors in this log can be ignored unless you are having issues=문제�
 Unraid API extra origins=Unraid API 추가 출처
 View Flash Backup Error Log=플래시 백업 오류 로그 보기
 
-; Note: April 21, 2025 - 142 missing translations
+; Note: May 31, 2025 - 146 missing translations
